@@ -1,0 +1,826 @@
+{
+ "slug": "explorescientific",
+ "url": "https://www.explorescientific.ca/",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:00:40.190383+00:00",
+ "bot_wall": false,
+ "final_url": "https://explorescientific.ca/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://explorescientific.ca/products/10-inch-dobsonian-reflector-telescope",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "_fbp",
+  "_ga",
+  "_ga_JVXJW3N5VF",
+  "_ga_ZQRWE8Y3J6",
+  "_gcl_au",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_up_clid",
+  "cart",
+  "cart_currency",
+  "localization",
+  "omnisend-form-680f9edfe4cd0ff79afc50fd-closed-at",
+  "omnisendSessionID",
+  "omnisendShopifyCart",
+  "page-views"
+ ],
+ "finished": "2026-10-05T20:02:24.412973+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "advertising": [
+    "Campaign Manager 360 / Floodlight",
+    "Criteo",
+    "Google Ads",
+    "Google Merchant Center",
+    "Meta Pixel"
+   ],
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "tms": [
+    "Google tag (gtag.js)"
+   ],
+   "reviews-loyalty": [
+    "Judge.me"
+   ],
+   "email-sms": [
+    "Omnisend"
+   ],
+   "monitoring": [
+    "Sentry"
+   ],
+   "affiliate": [
+    "Awin",
+    "ShareASale"
+   ],
+   "consent": [
+    "Consentmo"
+   ],
+   "payments": [
+    "PayPal"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "AW-499347928",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-499347928",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 422.8
+  },
+  {
+   "id": "AW-948911666",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-948911666",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 572.8
+  },
+  {
+   "id": "GT-PB66HB5",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-PB66HB5",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9
+  }
+ ],
+ "request_count": 2698,
+ "snapshots": {
+  "initial": {
+   "url": "https://explorescientific.ca/",
+   "title": "Explore Scientific | Telescopes, Microscopes, STEM Kits & Science Gear",
+   "site_name": "Explore Scientific",
+   "description": "Keep exploring and get equipped with Explore Scientific for high-quality eyepieces, telescopes, astrophotography gear, binoculars, and microscopes backed by a warranty and service you can trust. Astronomy and science gear for all skill levels including telescopes for the serious amateur and child friendly telescopes.",
+   "google_tag_manager_keys": [
+    "AW-499347928",
+    "GT-PB66HB5",
+    "AW-948911666"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-948911666",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-PB66HB5",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-499347928",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-ZQRWE8Y3J6",
+       "AW-948911666/V_VICMiS7ooCELL8vMQD",
+       "MC-JVXJW3N5VF"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da79bca-29B1-491E-33B6-8BB6DEC53ED4",
+      "ext_client_id": "shp.e4b690ff-bd09-4567-a742-a68ac4ae2a48",
+      "page_path": "/",
+      "page_title": "Explore Scientific | Telescopes, Microscopes, STEM Kits & Science Gear",
+      "page_location": "https://explorescientific.ca/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 11
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 14
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "robert-price.myshopify.com",
+    "theme": {
+     "name": "VG (Pickup removed, Apollo pixel added) New font",
+     "id": 147242123436,
+     "schema_name": "Impact"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "page": {
+     "pageType": "home",
+     "requestId": "5ca97359-5558-49df-adbc-628101ecfea2-1791230447"
+    }
+   },
+   "globals": [
+    "fbq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "reload": {
+   "url": "https://explorescientific.ca/",
+   "title": "Explore Scientific | Telescopes, Microscopes, STEM Kits & Science Gear",
+   "site_name": "Explore Scientific",
+   "description": "Keep exploring and get equipped with Explore Scientific for high-quality eyepieces, telescopes, astrophotography gear, binoculars, and microscopes backed by a warranty and service you can trust. Astronomy and science gear for all skill levels including telescopes for the serious amateur and child friendly telescopes.",
+   "google_tag_manager_keys": [
+    "AW-948911666",
+    "GT-PB66HB5",
+    "AW-499347928"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-948911666",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-PB66HB5",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-499347928",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-ZQRWE8Y3J6",
+       "AW-948911666/V_VICMiS7ooCELL8vMQD",
+       "MC-JVXJW3N5VF"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da807a8-F2C8-4836-B7A0-8713742285EE",
+      "ext_client_id": "shp.e4b690ff-bd09-4567-a742-a68ac4ae2a48",
+      "page_path": "/",
+      "page_title": "Explore Scientific | Telescopes, Microscopes, STEM Kits & Science Gear",
+      "page_location": "https://explorescientific.ca/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 13
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 14
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "robert-price.myshopify.com",
+    "theme": {
+     "name": "VG (Pickup removed, Apollo pixel added) New font",
+     "id": 147242123436,
+     "schema_name": "Impact"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "page": {
+     "pageType": "home",
+     "requestId": "a1b22370-e2ca-4d3d-bd60-5cf72c5192bd-1791230476"
+    }
+   },
+   "globals": [
+    "fbq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "pdp": {
+   "url": "https://explorescientific.ca/products/10-inch-dobsonian-reflector-telescope",
+   "title": "10-inch Dobsonian Reflector Telescope | Explore Scientific",
+   "site_name": "Explore Scientific",
+   "description": "Explore Scientific 10-inch Dobsonian Newtonian reflector for serious stargazers who want bright galaxies, nebulae and clusters.",
+   "google_tag_manager_keys": [
+    "AW-948911666",
+    "GT-PB66HB5",
+    "AW-499347928"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-948911666",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-PB66HB5",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-499347928",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-ZQRWE8Y3J6",
+       "AW-948911666/V_VICMiS7ooCELL8vMQD",
+       "MC-JVXJW3N5VF"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da86928-00AD-4ED4-9E58-B8F93AA81961",
+      "ext_client_id": "shp.e4b690ff-bd09-4567-a742-a68ac4ae2a48",
+      "page_path": "/products/10-inch-dobsonian-reflector-telescope",
+      "page_title": "10-inch Dobsonian Reflector Telescope | Explore Scientific",
+      "page_location": "https://explorescientific.ca/products/10-inch-dobsonian-reflector-telescope",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-ZQRWE8Y3J6",
+       "AW-948911666/ff77CM6S7ooCELL8vMQD",
+       "MC-JVXJW3N5VF"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da8694c-C742-47FE-827B-EA2670E712EC",
+      "ext_client_id": "shp.e4b690ff-bd09-4567-a742-a68ac4ae2a48",
+      "ecomm_prodid": [
+       "shopify_US_8307632144556_44679073136812"
+      ],
+      "ecomm_totalvalue": 1303,
+      "ecomm_pagetype": "product",
+      "value": 1303,
+      "currency": "CAD",
+      "items": [
+       {
+        "id": "shopify_US_8307632144556_44679073136812",
+        "name": "10-inch Dobsonian Reflector Telescope",
+        "brand": "Explore Scientific",
+        "category": "Telescope",
+        "price": 1303,
+        "variant": null,
+        "quantity": 1,
+        "sku": "ES-ON25447",
+        "variant_id": "44679073136812"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 14
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 15
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "robert-price.myshopify.com",
+    "theme": {
+     "name": "VG (Pickup removed, Apollo pixel added) New font",
+     "id": 147242123436,
+     "schema_name": "Impact"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "product": {
+     "id": 8307632144556,
+     "gid": "gid://shopify/Product/8307632144556",
+     "vendor": "Explore Scientific",
+     "type": "Telescope",
+     "handle": "10-inch-dobsonian-reflector-telescope",
+     "variants": [
+      {
+       "id": 44679073136812,
+       "price": 130300,
+       "name": "10-inch Dobsonian Reflector Telescope",
+       "public_title": null,
+       "sku": "ES-ON25447"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 8307632144556,
+     "requestId": "f9d3b3cf-660c-4a34-9c14-9f74addb5861-1791230501"
+    },
+    "selectedVariantId": "21297218388047"
+   },
+   "globals": [
+    "fbq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "atc": {
+   "url": "https://explorescientific.ca/cart",
+   "title": "Your Shopping Cart",
+   "site_name": "Explore Scientific",
+   "description": null,
+   "google_tag_manager_keys": [
+    "AW-948911666",
+    "GT-PB66HB5",
+    "AW-499347928"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-948911666",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-PB66HB5",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-499347928",
+     {
+      "send_page_view": false
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 12
+    },
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-ZQRWE8Y3J6",
+       "AW-948911666/V_VICMiS7ooCELL8vMQD",
+       "MC-JVXJW3N5VF"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da8d27f-8DC0-4C19-33FC-C5710B6D937A",
+      "ext_client_id": "shp.e4b690ff-bd09-4567-a742-a68ac4ae2a48",
+      "page_path": "/cart",
+      "page_title": "Your Shopping Cart",
+      "page_location": "https://explorescientific.ca/cart",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_cart",
+     {
+      "send_to": "G-ZQRWE8Y3J6",
+      "shopify_event_name": "cart_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "shu-0da8d293-02B6-4303-5FB5-CD19A9BC7D86",
+      "ext_client_id": "shp.e4b690ff-bd09-4567-a742-a68ac4ae2a48",
+      "value": 1303,
+      "currency": "CAD",
+      "items": [
+       {
+        "id": "shopify_US_8307632144556_44679073136812",
+        "name": "10-inch Dobsonian Reflector Telescope",
+        "brand": "Explore Scientific",
+        "category": "Telescope",
+        "price": 1303,
+        "quantity": 1,
+        "variant": null,
+        "sku": "ES-ON25447",
+        "variant_id": "44679073136812"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 15
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "robert-price.myshopify.com",
+    "theme": {
+     "name": "VG (Pickup removed, Apollo pixel added) New font",
+     "id": 147242123436,
+     "schema_name": "Impact"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "page": {
+     "pageType": "cart",
+     "requestId": "bf716a28-938c-4418-b1f0-f1f6995d6722-1791230528"
+    }
+   },
+   "globals": [
+    "fbq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  }
+ },
+ "log": [
+  "loading https://www.explorescientific.ca/",
+  "container AW-499347928 captured (422 KB) from www.googletagmanager.com [initial]",
+  "container AW-948911666 captured (573 KB) from www.googletagmanager.com [initial]",
+  "container GT-PB66HB5 captured (435 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://explorescientific.ca/products/10-inch-dobsonian-reflector-telescope",
+  "add-to-cart clicked"
+ ]
+}

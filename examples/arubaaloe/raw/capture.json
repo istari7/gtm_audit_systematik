@@ -1,0 +1,1519 @@
+{
+ "slug": "arubaaloe",
+ "url": "https://arubaaloe.com/en-en",
+ "profile": {
+  "fresh": true,
+  "returning_visit": true,
+  "stored_cookies": [
+   "localization",
+   "cart",
+   "cart_currency",
+   "cookieConsentEssentialGranted",
+   "cookieConsentAnalyticsGranted",
+   "cookieConsentMarketingGranted",
+   "cookieConsentPersonalization",
+   "cookieConsentPreferencesGranted",
+   "cookieConsentUserdata",
+   "cookieConsentDeclined",
+   "cookieUuid",
+   "_shopify_y",
+   "__kla_id",
+   "_gcl_au",
+   "_ga",
+   "_privy_D0F0B6F379C715BE37F5CDD9",
+   "_cs_c",
+   "_fbp",
+   "shopify_client_id",
+   "_ttp",
+   "_shopify_essential",
+   "_shopify_analytics",
+   "_shopify_marketing",
+   "_cs_id",
+   "_ga_W7K2V61PS4",
+   "_ga_0DLZZ21F1B"
+  ]
+ },
+ "started": "2026-10-05T19:58:48.291279+00:00",
+ "bot_wall": false,
+ "final_url": "https://arubaaloe.com/en-en",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://arubaaloe.com/en-en/products/spcalo12oz",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "__kla_id",
+  "_cs_c",
+  "_cs_id",
+  "_cs_s",
+  "_fbp",
+  "_ga",
+  "_ga_0DLZZ21F1B",
+  "_ga_W7K2V61PS4",
+  "_gcl_au",
+  "_privy_D0F0B6F379C715BE37F5CDD9",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_shopify_y",
+  "_ttp",
+  "cart",
+  "cart_currency",
+  "cookieConsentAnalyticsGranted",
+  "cookieConsentDeclined",
+  "cookieConsentEssentialGranted",
+  "cookieConsentMarketingGranted",
+  "cookieConsentPersonalization",
+  "cookieConsentPreferencesGranted",
+  "cookieConsentUserdata",
+  "cookieUuid",
+  "localization",
+  "shopify_client_id"
+ ],
+ "finished": "2026-10-05T20:00:42.813250+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "advertising": [
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Google Merchant Center",
+    "Meta Pixel",
+    "TikTok Pixel"
+   ],
+   "session-replay": [
+    "Contentsquare"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "email-sms": [
+    "Klaviyo",
+    "Privy"
+   ],
+   "tms": [
+    "Google Tag Manager",
+    "Google tag (gtag.js)"
+   ],
+   "reviews-loyalty": [
+    "Judge.me",
+    "Trustpilot"
+   ],
+   "monitoring": [
+    "Bugsnag"
+   ],
+   "support": [
+    "Gorgias"
+   ],
+   "payments": [
+    "PayPal"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "GTM-K6FVJ4PB",
+   "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K6FVJ4PB",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 467.2
+  },
+  {
+   "id": "G-W7K2V61PS4",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-W7K2V61PS4&cx=c&gtm=4e6a10",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 573.5
+  },
+  {
+   "id": "GT-5DCDJ5B",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-5DCDJ5B",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9
+  },
+  {
+   "id": "AW-Not set",
+   "url": "https://www.googletagmanager.com/gtag/destination?id=AW-Not%20set&cx=c&gtm=4e6a10",
+   "phase": "pdp",
+   "first_party_loader": false,
+   "size_kb": 422.4
+  }
+ ],
+ "request_count": 2344,
+ "snapshots": {
+  "initial": {
+   "url": "https://arubaaloe.com/en-en",
+   "title": "Aruba Aloe - World's Finest Aloe Grown Since 1890",
+   "site_name": "Royal Aruba Aloe USA",
+   "description": "Aruba Aloe's heritage began in 1890, making it one of the oldest aloe companies. Grown and processed on our own fields, fresh into our skin and hair care.",
+   "google_tag_manager_keys": [
+    "GTM-K6FVJ4PB",
+    "G-W7K2V61PS4",
+    "GT-5DCDJ5B"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "denied",
+      "security_storage": "denied",
+      "functionality_storage": "denied",
+      "personalization_storage": "denied",
+      "analytics_storage": "denied",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied"
+     }
+    ],
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted"
+     }
+    ],
+    {
+     "event": "cookieConsentEssentialGranted",
+     "gtm.uniqueEventId": 5
+    },
+    {
+     "event": "cookieConsentAnalyticsGranted",
+     "gtm.uniqueEventId": 6
+    },
+    {
+     "event": "cookieConsentMarketingGranted",
+     "gtm.uniqueEventId": 7
+    },
+    {
+     "event": "cookieConsentPersonalization",
+     "gtm.uniqueEventId": 8
+    },
+    {
+     "event": "cookieConsentPreferencesGranted",
+     "gtm.uniqueEventId": 9
+    },
+    {
+     "event": "cookieConsentUserdata",
+     "gtm.uniqueEventId": 10
+    },
+    {
+     "gtm.start": 1791230341064,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 11
+    },
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 12
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "pageType": "index",
+     "pageName": "Aruba Aloe - World&#39;s Finest Aloe Grown Since 1890",
+     "visitorExistingCustomer": "No",
+     "visitorLifetimeValue": 0,
+     "visitorLoginState": "Logged out",
+     "visitorType": "NOT LOGGED IN",
+     "visitorCountryName": "United States",
+     "visitorCountryIsoCode": "US",
+     "websiteCountry": "",
+     "websiteLanguage": "en",
+     "eventProvider": "Anowave"
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "visitor_info",
+     "customer_id": null,
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 13
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-W7K2V61PS4",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5DCDJ5B",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-W7K2V61PS4",
+       "MC-0DLZZ21F1B"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da5fa74-0416-4040-B77D-3399BBAD3B75",
+      "ext_client_id": "shp.48896597-7f90-4f18-9714-946fd90470e5",
+      "page_path": "/en-en",
+      "page_title": "Aruba Aloe - World's Finest Aloe Grown Since 1890",
+      "page_location": "https://arubaaloe.com/en-en",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 28
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": true
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": true
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": true
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": true
+    },
+    "security_storage": {
+     "default": false,
+     "update": true
+    },
+    "functionality_storage": {
+     "default": false,
+     "update": true
+    },
+    "personalization_storage": {
+     "default": false,
+     "update": true
+    }
+   },
+   "shopify": {
+    "shop": "arubaaloe-2.myshopify.com",
+    "theme": {
+     "name": "OFFICIAL (Instant Removal)",
+     "id": 151412408385,
+     "schema_name": "Wonder"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "page": {
+     "pageType": "home",
+     "requestId": "811a0a8e-5d50-4a2c-b959-6425c2d91017-1791230338"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "reload": {
+   "url": "https://arubaaloe.com/en-en",
+   "title": "Aruba Aloe - World's Finest Aloe Grown Since 1890",
+   "site_name": "Royal Aruba Aloe USA",
+   "description": "Aruba Aloe's heritage began in 1890, making it one of the oldest aloe companies. Grown and processed on our own fields, fresh into our skin and hair care.",
+   "google_tag_manager_keys": [
+    "GTM-K6FVJ4PB",
+    "G-W7K2V61PS4",
+    "GT-5DCDJ5B"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "denied",
+      "security_storage": "denied",
+      "functionality_storage": "denied",
+      "personalization_storage": "denied",
+      "analytics_storage": "denied",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied"
+     }
+    ],
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted"
+     }
+    ],
+    {
+     "event": "cookieConsentEssentialGranted",
+     "gtm.uniqueEventId": 5
+    },
+    {
+     "event": "cookieConsentAnalyticsGranted",
+     "gtm.uniqueEventId": 6
+    },
+    {
+     "event": "cookieConsentMarketingGranted",
+     "gtm.uniqueEventId": 7
+    },
+    {
+     "event": "cookieConsentPersonalization",
+     "gtm.uniqueEventId": 8
+    },
+    {
+     "event": "cookieConsentPreferencesGranted",
+     "gtm.uniqueEventId": 9
+    },
+    {
+     "event": "cookieConsentUserdata",
+     "gtm.uniqueEventId": 10
+    },
+    {
+     "gtm.start": 1791230372561,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 11
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-W7K2V61PS4",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5DCDJ5B",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-W7K2V61PS4",
+       "MC-0DLZZ21F1B"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da66e5f-578F-435C-02C2-E44FAC27CCE1",
+      "ext_client_id": "shp.48896597-7f90-4f18-9714-946fd90470e5",
+      "page_path": "/en-en",
+      "page_title": "Aruba Aloe - World's Finest Aloe Grown Since 1890",
+      "page_location": "https://arubaaloe.com/en-en",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 24
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "pageType": "index",
+     "pageName": "Aruba Aloe - World&#39;s Finest Aloe Grown Since 1890",
+     "visitorExistingCustomer": "No",
+     "visitorLifetimeValue": 0,
+     "visitorLoginState": "Logged out",
+     "visitorType": "NOT LOGGED IN",
+     "visitorCountryName": "United States",
+     "visitorCountryIsoCode": "US",
+     "websiteCountry": "",
+     "websiteLanguage": "en",
+     "eventProvider": "Anowave"
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "visitor_info",
+     "customer_id": null,
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 25
+    },
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 28
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "15",
+     "gtm.uniqueEventId": 29
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": true
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": true
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": true
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": true
+    },
+    "security_storage": {
+     "default": false,
+     "update": true
+    },
+    "functionality_storage": {
+     "default": false,
+     "update": true
+    },
+    "personalization_storage": {
+     "default": false,
+     "update": true
+    }
+   },
+   "shopify": {
+    "shop": "arubaaloe-2.myshopify.com",
+    "theme": {
+     "name": "OFFICIAL (Instant Removal)",
+     "id": 151412408385,
+     "schema_name": "Wonder"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "page": {
+     "pageType": "home",
+     "requestId": "6687201b-ac6d-495f-9dfb-e17a5faff5e2-1791230371"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "pdp": {
+   "url": "https://arubaaloe.com/en-en/products/spcalo12oz",
+   "title": "Special Care Lotion | Body | Aruba Aloe",
+   "site_name": "Royal Aruba Aloe USA",
+   "description": "✓ High concentration of Vitamin E ✓ Intense Hydration ✓ Soothes and repairs skin | Free US Shipping on all orders",
+   "google_tag_manager_keys": [
+    "GTM-K6FVJ4PB",
+    "G-W7K2V61PS4",
+    "GT-5DCDJ5B",
+    "AW-Not set"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "denied",
+      "security_storage": "denied",
+      "functionality_storage": "denied",
+      "personalization_storage": "denied",
+      "analytics_storage": "denied",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied"
+     }
+    ],
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted"
+     }
+    ],
+    {
+     "event": "cookieConsentEssentialGranted",
+     "gtm.uniqueEventId": 5
+    },
+    {
+     "event": "cookieConsentAnalyticsGranted",
+     "gtm.uniqueEventId": 6
+    },
+    {
+     "event": "cookieConsentMarketingGranted",
+     "gtm.uniqueEventId": 7
+    },
+    {
+     "event": "cookieConsentPersonalization",
+     "gtm.uniqueEventId": 8
+    },
+    {
+     "event": "cookieConsentPreferencesGranted",
+     "gtm.uniqueEventId": 9
+    },
+    {
+     "event": "cookieConsentUserdata",
+     "gtm.uniqueEventId": 10
+    },
+    {
+     "gtm.start": 1791230393349,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 11
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "view_item",
+     "currentStore": "en",
+     "ecommerce": {
+      "currency": "USD",
+      "items": [
+       {
+        "item_id": 109025852,
+        "item_name": "Special Care Lotion",
+        "price": 22,
+        "item_type": "Skin Care",
+        "item_brand": "Aruba Aloe",
+        "item_category": "Uncategorized",
+        "item_list_id": "Uncategorized",
+        "item_list_name": "Uncategorized",
+        "item_variant": "12.5 oz",
+        "currency": "USD",
+        "google_business_vertical": "retail",
+        "in_stock": true
+       }
+      ],
+      "value": 22
+     },
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 12
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "fireRemarketingTag",
+     "google_tag_params": {
+      "ecomm_category": "Uncategorized",
+      "ecomm_pagetype": "product",
+      "ecomm_prodid": 109025852,
+      "ecomm_totalvalue": 22,
+      "returnCustomer": true
+     },
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 13
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-W7K2V61PS4",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5DCDJ5B",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-W7K2V61PS4",
+       "MC-0DLZZ21F1B"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6c091-AEE7-4F8B-6745-CC4458CA4492",
+      "ext_client_id": "shp.48896597-7f90-4f18-9714-946fd90470e5",
+      "page_path": "/en-en/products/spcalo12oz",
+      "page_title": "Special Care Lotion | Body | Aruba Aloe",
+      "page_location": "https://arubaaloe.com/en-en/products/spcalo12oz",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-W7K2V61PS4",
+       "MC-0DLZZ21F1B"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6c0aa-D169-436F-ED40-7A736BB89A2E",
+      "ext_client_id": "shp.48896597-7f90-4f18-9714-946fd90470e5",
+      "ecomm_prodid": [
+       "shopify_US_109025852_249148166"
+      ],
+      "ecomm_totalvalue": 44,
+      "ecomm_pagetype": "product",
+      "value": 44,
+      "currency": "CAD",
+      "items": [
+       {
+        "id": "shopify_US_109025852_249148166",
+        "name": "Special Care Lotion",
+        "brand": "Aruba Aloe",
+        "category": "Skin Care",
+        "price": 44,
+        "variant": "12.5 oz",
+        "quantity": 1,
+        "sku": "13019",
+        "variant_id": "249148166"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 22
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "pageType": "product.custom-product-store",
+     "pageName": "Special Care Lotion | Body | Aruba Aloe",
+     "visitorExistingCustomer": "No",
+     "visitorLifetimeValue": 0,
+     "visitorLoginState": "Logged out",
+     "visitorType": "NOT LOGGED IN",
+     "visitorCountryName": "United States",
+     "visitorCountryIsoCode": "US",
+     "websiteCountry": "",
+     "websiteLanguage": "en",
+     "eventProvider": "Anowave"
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "visitor_info",
+     "customer_id": null,
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 28
+    },
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 31
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "26",
+     "gtm.uniqueEventId": 32
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": true
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": true
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": true
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": true
+    },
+    "security_storage": {
+     "default": false,
+     "update": true
+    },
+    "functionality_storage": {
+     "default": false,
+     "update": true
+    },
+    "personalization_storage": {
+     "default": false,
+     "update": true
+    }
+   },
+   "shopify": {
+    "shop": "arubaaloe-2.myshopify.com",
+    "theme": {
+     "name": "OFFICIAL (Instant Removal)",
+     "id": 151412408385,
+     "schema_name": "Wonder"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "product": {
+     "id": 109025852,
+     "gid": "gid://shopify/Product/109025852",
+     "vendor": "Aruba Aloe",
+     "type": "Skin Care",
+     "handle": "spcalo12oz",
+     "variants": [
+      {
+       "id": 249148166,
+       "price": 4400,
+       "name": "Special Care Lotion - 12.5 oz",
+       "public_title": "12.5 oz",
+       "sku": "13019"
+      },
+      {
+       "id": 42103925276737,
+       "price": 3300,
+       "name": "Special Care Lotion - 6 oz",
+       "public_title": "6 oz",
+       "sku": "13020"
+      },
+      {
+       "id": 42103926259777,
+       "price": 2200,
+       "name": "Special Care Lotion - 2 oz",
+       "public_title": "2 oz",
+       "sku": "13017"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 109025852,
+     "requestId": "edb6d706-fc73-446f-aa4a-84162c7e8f07-1791230392"
+    },
+    "selectedVariantId": "249148166"
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "atc": {
+   "url": "https://arubaaloe.com/en-en/products/spcalo12oz",
+   "title": "Special Care Lotion | Body | Aruba Aloe",
+   "site_name": "Royal Aruba Aloe USA",
+   "description": "✓ High concentration of Vitamin E ✓ Intense Hydration ✓ Soothes and repairs skin | Free US Shipping on all orders",
+   "google_tag_manager_keys": [
+    "GTM-K6FVJ4PB",
+    "G-W7K2V61PS4",
+    "GT-5DCDJ5B",
+    "AW-Not set"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "denied",
+      "security_storage": "denied",
+      "functionality_storage": "denied",
+      "personalization_storage": "denied",
+      "analytics_storage": "denied",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied"
+     }
+    ],
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted"
+     }
+    ],
+    {
+     "event": "cookieConsentEssentialGranted",
+     "gtm.uniqueEventId": 5
+    },
+    {
+     "event": "cookieConsentAnalyticsGranted",
+     "gtm.uniqueEventId": 6
+    },
+    {
+     "event": "cookieConsentMarketingGranted",
+     "gtm.uniqueEventId": 7
+    },
+    {
+     "event": "cookieConsentPersonalization",
+     "gtm.uniqueEventId": 8
+    },
+    {
+     "event": "cookieConsentPreferencesGranted",
+     "gtm.uniqueEventId": 9
+    },
+    {
+     "event": "cookieConsentUserdata",
+     "gtm.uniqueEventId": 10
+    },
+    {
+     "gtm.start": 1791230393349,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 11
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "view_item",
+     "currentStore": "en",
+     "ecommerce": {
+      "currency": "USD",
+      "items": [
+       {
+        "item_id": 109025852,
+        "item_name": "Special Care Lotion",
+        "price": 22,
+        "item_type": "Skin Care",
+        "item_brand": "Aruba Aloe",
+        "item_category": "Uncategorized",
+        "item_list_id": "Uncategorized",
+        "item_list_name": "Uncategorized",
+        "item_variant": "12.5 oz",
+        "currency": "USD",
+        "google_business_vertical": "retail",
+        "in_stock": true
+       }
+      ],
+      "value": 22
+     },
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 12
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "fireRemarketingTag",
+     "google_tag_params": {
+      "ecomm_category": "Uncategorized",
+      "ecomm_pagetype": "product",
+      "ecomm_prodid": 109025852,
+      "ecomm_totalvalue": 22,
+      "returnCustomer": true
+     },
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 13
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-W7K2V61PS4",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5DCDJ5B",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-W7K2V61PS4",
+       "MC-0DLZZ21F1B"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6c091-AEE7-4F8B-6745-CC4458CA4492",
+      "ext_client_id": "shp.48896597-7f90-4f18-9714-946fd90470e5",
+      "page_path": "/en-en/products/spcalo12oz",
+      "page_title": "Special Care Lotion | Body | Aruba Aloe",
+      "page_location": "https://arubaaloe.com/en-en/products/spcalo12oz",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-W7K2V61PS4",
+       "MC-0DLZZ21F1B"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6c0aa-D169-436F-ED40-7A736BB89A2E",
+      "ext_client_id": "shp.48896597-7f90-4f18-9714-946fd90470e5",
+      "ecomm_prodid": [
+       "shopify_US_109025852_249148166"
+      ],
+      "ecomm_totalvalue": 44,
+      "ecomm_pagetype": "product",
+      "value": 44,
+      "currency": "CAD",
+      "items": [
+       {
+        "id": "shopify_US_109025852_249148166",
+        "name": "Special Care Lotion",
+        "brand": "Aruba Aloe",
+        "category": "Skin Care",
+        "price": 44,
+        "variant": "12.5 oz",
+        "quantity": 1,
+        "sku": "13019",
+        "variant_id": "249148166"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 22
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "pageType": "product.custom-product-store",
+     "pageName": "Special Care Lotion | Body | Aruba Aloe",
+     "visitorExistingCustomer": "No",
+     "visitorLifetimeValue": 0,
+     "visitorLoginState": "Logged out",
+     "visitorType": "NOT LOGGED IN",
+     "visitorCountryName": "United States",
+     "visitorCountryIsoCode": "US",
+     "websiteCountry": "",
+     "websiteLanguage": "en",
+     "eventProvider": "Anowave"
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "visitor_info",
+     "customer_id": null,
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 28
+    },
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 31
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "26",
+     "gtm.uniqueEventId": 32
+    },
+    {
+     "ecommerce": null
+    },
+    {
+     "event": "add_to_cart",
+     "ecommerce": {
+      "items": [
+       {
+        "item_id": 109025852,
+        "item_name": "Special Care Lotion",
+        "item_variant": "12.5 oz",
+        "item_variant_id": 249148166,
+        "item_brand": "Aruba Aloe",
+        "item_type": "Skin Care",
+        "price": 44,
+        "quantity": 4,
+        "discount": 0,
+        "google_business_vertical": "retail"
+       }
+      ],
+      "value": 44,
+      "currency": "USD"
+     },
+     "eventProvider": "Anowave",
+     "gtm.uniqueEventId": 33
+    },
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": "G-W7K2V61PS4",
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da76ee4-50CD-4302-A099-532AA40F1902",
+      "ext_client_id": "shp.48896597-7f90-4f18-9714-946fd90470e5",
+      "ecomm_prodid": [
+       "shopify_US_109025852_249148166"
+      ],
+      "ecomm_totalvalue": 44,
+      "ecomm_pagetype": "cart",
+      "value": 44,
+      "currency": "CAD",
+      "items": [
+       {
+        "id": "shopify_US_109025852_249148166",
+        "name": "Special Care Lotion",
+        "brand": "Aruba Aloe",
+        "category": "Skin Care",
+        "price": 44,
+        "quantity": 1,
+        "variant": "12.5 oz",
+        "variant_id": "249148166",
+        "sku": "13019"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": true
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": true
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": true
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": true
+    },
+    "security_storage": {
+     "default": false,
+     "update": true
+    },
+    "functionality_storage": {
+     "default": false,
+     "update": true
+    },
+    "personalization_storage": {
+     "default": false,
+     "update": true
+    }
+   },
+   "shopify": {
+    "shop": "arubaaloe-2.myshopify.com",
+    "theme": {
+     "name": "OFFICIAL (Instant Removal)",
+     "id": 151412408385,
+     "schema_name": "Wonder"
+    },
+    "currency": "CAD",
+    "country": "CA",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "CAD",
+    "product": {
+     "id": 109025852,
+     "gid": "gid://shopify/Product/109025852",
+     "vendor": "Aruba Aloe",
+     "type": "Skin Care",
+     "handle": "spcalo12oz",
+     "variants": [
+      {
+       "id": 249148166,
+       "price": 4400,
+       "name": "Special Care Lotion - 12.5 oz",
+       "public_title": "12.5 oz",
+       "sku": "13019"
+      },
+      {
+       "id": 42103925276737,
+       "price": 3300,
+       "name": "Special Care Lotion - 6 oz",
+       "public_title": "6 oz",
+       "sku": "13020"
+      },
+      {
+       "id": 42103926259777,
+       "price": 2200,
+       "name": "Special Care Lotion - 2 oz",
+       "public_title": "2 oz",
+       "sku": "13017"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 109025852,
+     "requestId": "edb6d706-fc73-446f-aa4a-84162c7e8f07-1791230392"
+    },
+    "selectedVariantId": "249148166"
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  }
+ },
+ "log": [
+  "returning visit: 26 stored cookie(s) from the persistent profile (pre-consent phase reflects stored consent; use --fresh for a first-visit capture)",
+  "container GTM-K6FVJ4PB captured (467 KB) from www.googletagmanager.com [initial]",
+  "loading https://arubaaloe.com/en-en",
+  "container GTM-K6FVJ4PB captured (467 KB) from www.googletagmanager.com [initial]",
+  "container G-W7K2V61PS4 captured (573 KB) from www.googletagmanager.com [initial]",
+  "container GT-5DCDJ5B captured (435 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://arubaaloe.com/en-en/products/spcalo12oz",
+  "container AW-Not set captured (422 KB) from www.googletagmanager.com [pdp]",
+  "add-to-cart clicked"
+ ]
+}

@@ -1,0 +1,1035 @@
+{
+ "slug": "retrospekt",
+ "url": "https://retrospekt.com",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:00:44.707988+00:00",
+ "bot_wall": false,
+ "final_url": "https://retrospekt.com/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://retrospekt.com/products/retro-orange-headphones",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "__kla_id",
+  "_fbp",
+  "_ga",
+  "_ga_62SGN31TXD",
+  "_ga_J3274TWV6C",
+  "_gcl_au",
+  "_pin_unauth",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_ttp",
+  "_uetsid",
+  "_uetvid",
+  "_up_clid",
+  "cart",
+  "cart_currency",
+  "first_pla_call",
+  "localization",
+  "storefront_url",
+  "ttcsid",
+  "ttcsid_CUGJ67RC77U0K1FAIJR0"
+ ],
+ "finished": "2026-10-05T20:02:28.571787+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "advertising": [
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Google Merchant Center",
+    "Meta Pixel",
+    "Microsoft Ads (UET)",
+    "Pinterest Tag",
+    "TikTok Pixel"
+   ],
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "consent": [
+    "Shopify Privacy Banner"
+   ],
+   "tms": [
+    "Google tag (gtag.js)"
+   ],
+   "reviews-loyalty": [
+    "Loox"
+   ],
+   "email-sms": [
+    "Klaviyo",
+    "Mailchimp"
+   ],
+   "affiliate": [
+    "Impact"
+   ],
+   "monitoring": [
+    "Bugsnag"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "GT-TNP5LSF",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-TNP5LSF",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9
+  },
+  {
+   "id": "G-62SGN31TXD",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-62SGN31TXD",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 610.8
+  }
+ ],
+ "request_count": 2100,
+ "snapshots": {
+  "initial": {
+   "url": "https://retrospekt.com/",
+   "title": "RETROSPEKT - Reviving Retro Tech for a New Generation – Retrospekt",
+   "site_name": "Retrospekt",
+   "description": "The best in vintage Polaroid instant film cameras, cassette players and vintage gaming, faithfully refurbished and restored to original working condition. Polaroid 600 and SX-70, Walkmans, Game Boys, 35mm photography — old favorites, just like new.",
+   "google_tag_manager_keys": [
+    "GT-TNP5LSF",
+    "G-62SGN31TXD"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-62SGN31TXD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-TNP5LSF",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-62SGN31TXD",
+       "AW-949987678/qn7NCM-x_aUBEN7S_sQD",
+       "MC-J3274TWV6C"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da79a6a-812A-48DF-2B95-94F86C3802C0",
+      "ext_client_id": "shp.e310b6fb-d787-4c16-8d06-544cca35f965",
+      "page_path": "/",
+      "page_title": "RETROSPEKT - Reviving Retro Tech for a New Generation – Retrospekt",
+      "page_location": "https://retrospekt.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 10
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 18
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "retrospekt.myshopify.com",
+    "theme": {
+     "name": "KEYSTONE Brutalist Switch 09/12/26",
+     "id": 149853208655,
+     "schema_name": "Baseline"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "d5e4cd55-87ba-4e94-8679-547672f8314b-1791230448"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "reload": {
+   "url": "https://retrospekt.com/",
+   "title": "RETROSPEKT - Reviving Retro Tech for a New Generation – Retrospekt",
+   "site_name": "Retrospekt",
+   "description": "The best in vintage Polaroid instant film cameras, cassette players and vintage gaming, faithfully refurbished and restored to original working condition. Polaroid 600 and SX-70, Walkmans, Game Boys, 35mm photography — old favorites, just like new.",
+   "google_tag_manager_keys": [
+    "G-62SGN31TXD",
+    "GT-TNP5LSF"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-62SGN31TXD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-TNP5LSF",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-62SGN31TXD",
+       "AW-949987678/qn7NCM-x_aUBEN7S_sQD",
+       "MC-J3274TWV6C"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da7ffcd-737C-494F-1D88-0AE61C36BC23",
+      "ext_client_id": "shp.e310b6fb-d787-4c16-8d06-544cca35f965",
+      "page_path": "/",
+      "page_title": "RETROSPEKT - Reviving Retro Tech for a New Generation – Retrospekt",
+      "page_location": "https://retrospekt.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 17
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 18
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "10",
+     "gtm.uniqueEventId": 19
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "retrospekt.myshopify.com",
+    "theme": {
+     "name": "KEYSTONE Brutalist Switch 09/12/26",
+     "id": 149853208655,
+     "schema_name": "Baseline"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "ffeb7209-5af9-41aa-be6b-970397ca40ef-1791230474"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "pdp": {
+   "url": "https://retrospekt.com/products/retro-orange-headphones",
+   "title": "Retro Foam On-Ear Headphones – Retrospekt",
+   "site_name": "Retrospekt",
+   "description": "Take a step back in time with these retro-inspired headphones, perfect for vintage enthusiasts and Stranger Things fans alike. The bright foam coverings add a touch of old-school charm, while the adjustable plastic clips and metal band offer a comfortable fit for all head sizes.",
+   "google_tag_manager_keys": [
+    "G-62SGN31TXD",
+    "GT-TNP5LSF"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-62SGN31TXD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-TNP5LSF",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-62SGN31TXD",
+       "AW-949987678/qn7NCM-x_aUBEN7S_sQD",
+       "MC-J3274TWV6C"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da85d08-0532-487E-54D2-EF7BD2A54BD9",
+      "ext_client_id": "shp.e310b6fb-d787-4c16-8d06-544cca35f965",
+      "page_path": "/products/retro-orange-headphones",
+      "page_title": "Retro Foam On-Ear Headphones – Retrospekt",
+      "page_location": "https://retrospekt.com/products/retro-orange-headphones",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-62SGN31TXD",
+       "AW-949987678/4tJbCNWx_aUBEN7S_sQD",
+       "MC-J3274TWV6C"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da85d2b-442F-4CE9-9CF5-CAB7185B2D51",
+      "ext_client_id": "shp.e310b6fb-d787-4c16-8d06-544cca35f965",
+      "ecomm_prodid": [
+       "shopify_US_3664962420815_30351780872271"
+      ],
+      "ecomm_totalvalue": 15,
+      "ecomm_pagetype": "product",
+      "value": 15,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_3664962420815_30351780872271",
+        "name": "Retro Foam On-Ear Headphones",
+        "brand": "Retrospekt",
+        "category": "Audio Gear",
+        "price": 15,
+        "variant": "Orange",
+        "quantity": 1,
+        "sku": "HP-1001-OG",
+        "variant_id": "30351780872271"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 18
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 19
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "10",
+     "gtm.uniqueEventId": 20
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "retrospekt.myshopify.com",
+    "theme": {
+     "name": "KEYSTONE Brutalist Switch 09/12/26",
+     "id": 149853208655,
+     "schema_name": "Baseline"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 3664962420815,
+     "gid": "gid://shopify/Product/3664962420815",
+     "vendor": "Retrospekt",
+     "type": "Audio Gear",
+     "handle": "retro-orange-headphones",
+     "variants": [
+      {
+       "id": 30351780872271,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Orange",
+       "public_title": "Orange",
+       "sku": "HP-1001-OG"
+      },
+      {
+       "id": 28521865773135,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Black",
+       "public_title": "Black",
+       "sku": "HP-1001-BK"
+      },
+      {
+       "id": 30351780937807,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Red",
+       "public_title": "Red",
+       "sku": "HP-1001-RD"
+      },
+      {
+       "id": 30351780905039,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Green",
+       "public_title": "Green",
+       "sku": "HP-1001-GN"
+      },
+      {
+       "id": 30351781003343,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Yellow",
+       "public_title": "Yellow",
+       "sku": "HP-1001-YL"
+      },
+      {
+       "id": 30351780970575,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Blue",
+       "public_title": "Blue",
+       "sku": "HP-1001-BL"
+      },
+      {
+       "id": 32893285531727,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Pink",
+       "public_title": "Pink",
+       "sku": "HP-1001-PK"
+      },
+      {
+       "id": 40090220429391,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Purple",
+       "public_title": "Purple",
+       "sku": "HP-1001-PR"
+      },
+      {
+       "id": 40536039391311,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - White",
+       "public_title": "White",
+       "sku": "HP-1001-WH"
+      },
+      {
+       "id": 41045455503439,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Peach",
+       "public_title": "Peach",
+       "sku": "HP-1001-PC"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 3664962420815,
+     "requestId": "ede96a09-9da2-46dd-88f5-2d6396b0fc8c-1791230498"
+    },
+    "selectedVariantId": "39297314848847"
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "atc": {
+   "url": "https://retrospekt.com/products/retro-orange-headphones",
+   "title": "Retro Foam On-Ear Headphones – Retrospekt",
+   "site_name": "Retrospekt",
+   "description": "Take a step back in time with these retro-inspired headphones, perfect for vintage enthusiasts and Stranger Things fans alike. The bright foam coverings add a touch of old-school charm, while the adjustable plastic clips and metal band offer a comfortable fit for all head sizes.",
+   "google_tag_manager_keys": [
+    "G-62SGN31TXD",
+    "GT-TNP5LSF"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-62SGN31TXD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-TNP5LSF",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-62SGN31TXD",
+       "AW-949987678/qn7NCM-x_aUBEN7S_sQD",
+       "MC-J3274TWV6C"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da85d08-0532-487E-54D2-EF7BD2A54BD9",
+      "ext_client_id": "shp.e310b6fb-d787-4c16-8d06-544cca35f965",
+      "page_path": "/products/retro-orange-headphones",
+      "page_title": "Retro Foam On-Ear Headphones – Retrospekt",
+      "page_location": "https://retrospekt.com/products/retro-orange-headphones",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-62SGN31TXD",
+       "AW-949987678/4tJbCNWx_aUBEN7S_sQD",
+       "MC-J3274TWV6C"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da85d2b-442F-4CE9-9CF5-CAB7185B2D51",
+      "ext_client_id": "shp.e310b6fb-d787-4c16-8d06-544cca35f965",
+      "ecomm_prodid": [
+       "shopify_US_3664962420815_30351780872271"
+      ],
+      "ecomm_totalvalue": 15,
+      "ecomm_pagetype": "product",
+      "value": 15,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_3664962420815_30351780872271",
+        "name": "Retro Foam On-Ear Headphones",
+        "brand": "Retrospekt",
+        "category": "Audio Gear",
+        "price": 15,
+        "variant": "Orange",
+        "quantity": 1,
+        "sku": "HP-1001-OG",
+        "variant_id": "30351780872271"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 18
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 19
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "10",
+     "gtm.uniqueEventId": 20
+    },
+    {
+     "event": "gtm.formSubmit",
+     "gtm.elementClasses": "flex flex-col gap-4",
+     "gtm.elementId": "product-form-template--21117162127439__main",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "13",
+     "gtm.elementUrl": "https://retrospekt.com/cart/add",
+     "gtm.formCanceled": true,
+     "eventTimeout": 2000,
+     "gtm.uniqueEventId": 21
+    },
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": [
+       "G-62SGN31TXD",
+       "AW-949987678/aunpCNix_aUBEN7S_sQD"
+      ],
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da90fee-059B-4C5A-1ABE-D0AB3131A47A",
+      "ext_client_id": "shp.e310b6fb-d787-4c16-8d06-544cca35f965",
+      "ecomm_prodid": [
+       "shopify_US_3664962420815_30351780872271"
+      ],
+      "ecomm_totalvalue": 15,
+      "ecomm_pagetype": "cart",
+      "value": 15,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_3664962420815_30351780872271",
+        "name": "Retro Foam On-Ear Headphones",
+        "brand": "Retrospekt",
+        "category": "Audio Gear",
+        "price": 15,
+        "quantity": 1,
+        "variant": "Orange",
+        "variant_id": "30351780872271",
+        "sku": "HP-1001-OG"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "retrospekt.myshopify.com",
+    "theme": {
+     "name": "KEYSTONE Brutalist Switch 09/12/26",
+     "id": 149853208655,
+     "schema_name": "Baseline"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 3664962420815,
+     "gid": "gid://shopify/Product/3664962420815",
+     "vendor": "Retrospekt",
+     "type": "Audio Gear",
+     "handle": "retro-orange-headphones",
+     "variants": [
+      {
+       "id": 30351780872271,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Orange",
+       "public_title": "Orange",
+       "sku": "HP-1001-OG"
+      },
+      {
+       "id": 28521865773135,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Black",
+       "public_title": "Black",
+       "sku": "HP-1001-BK"
+      },
+      {
+       "id": 30351780937807,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Red",
+       "public_title": "Red",
+       "sku": "HP-1001-RD"
+      },
+      {
+       "id": 30351780905039,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Green",
+       "public_title": "Green",
+       "sku": "HP-1001-GN"
+      },
+      {
+       "id": 30351781003343,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Yellow",
+       "public_title": "Yellow",
+       "sku": "HP-1001-YL"
+      },
+      {
+       "id": 30351780970575,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Blue",
+       "public_title": "Blue",
+       "sku": "HP-1001-BL"
+      },
+      {
+       "id": 32893285531727,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Pink",
+       "public_title": "Pink",
+       "sku": "HP-1001-PK"
+      },
+      {
+       "id": 40090220429391,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Purple",
+       "public_title": "Purple",
+       "sku": "HP-1001-PR"
+      },
+      {
+       "id": 40536039391311,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - White",
+       "public_title": "White",
+       "sku": "HP-1001-WH"
+      },
+      {
+       "id": 41045455503439,
+       "price": 1500,
+       "name": "Retro Foam On-Ear Headphones - Peach",
+       "public_title": "Peach",
+       "sku": "HP-1001-PC"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 3664962420815,
+     "requestId": "ede96a09-9da2-46dd-88f5-2d6396b0fc8c-1791230498"
+    },
+    "selectedVariantId": "39297314848847"
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer"
+   ]
+  }
+ },
+ "log": [
+  "loading https://retrospekt.com",
+  "container GT-TNP5LSF captured (435 KB) from www.googletagmanager.com [initial]",
+  "container G-62SGN31TXD captured (611 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://retrospekt.com/products/retro-orange-headphones",
+  "add-to-cart clicked"
+ ]
+}

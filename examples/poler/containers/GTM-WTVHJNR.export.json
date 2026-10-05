@@ -1,0 +1,309 @@
+{
+ "exportFormatVersion": 2,
+ "exportTime": "2026-10-05 20:11:49",
+ "containerVersion": {
+  "path": "accounts/0/containers/0/versions/2",
+  "accountId": "0",
+  "containerId": "0",
+  "containerVersionId": "2",
+  "name": "Reconstructed from published GTM-WTVHJNR v2",
+  "description": "Reconstructed from the public gtm.js by the tracking-audit skill. Names, folders and notes are not published and were generated; custom template source is not included.",
+  "container": {
+   "accountId": "0",
+   "containerId": "0",
+   "name": "GTM-WTVHJNR (reconstructed)",
+   "publicId": "GTM-WTVHJNR",
+   "usageContext": [
+    "WEB"
+   ]
+  },
+  "tag": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "tagId": "3",
+    "name": "Conversion Linker #3",
+    "type": "gclidw",
+    "parameter": [
+     {
+      "key": "enableCrossDomain",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableUrlPassthrough",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "enableCookieOverrides",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableCrossDomainFeature",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "enableCookieUpdateFeature",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableCookieFlagsFeature",
+      "type": "BOOLEAN",
+      "value": "true"
+     }
+    ],
+    "firingTriggerId": [
+     "1"
+    ],
+    "tagFiringOption": "ONCE_PER_EVENT"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "tagId": "4",
+    "name": "Google Ads Conversion - yNSyCLjukeMBEMz4nogC #4",
+    "type": "awct",
+    "parameter": [
+     {
+      "key": "enableNewCustomerReporting",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableConversionLinker",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "enableProductReporting",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "conversionCookiePrefix",
+      "type": "TEMPLATE",
+      "value": "_gcl"
+     },
+     {
+      "key": "conversionId",
+      "type": "TEMPLATE",
+      "value": "554155084"
+     },
+     {
+      "key": "conversionLabel",
+      "type": "TEMPLATE",
+      "value": "yNSyCLjukeMBEMz4nogC"
+     },
+     {
+      "key": "rdp",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "url",
+      "type": "TEMPLATE",
+      "value": "{{Page URL}}"
+     },
+     {
+      "key": "enableProductReportingCheckbox",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "enableNewCustomerReportingCheckbox",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "enableEnhancedConversionsCheckbox",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableEnhancedConversionVariable",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableRdpCheckbox",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "enableTransportUrl",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableShoppingQualitySettings",
+      "type": "BOOLEAN",
+      "value": "true"
+     }
+    ],
+    "firingTriggerId": [
+     "2"
+    ],
+    "tagFiringOption": "ONCE_PER_EVENT"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "tagId": "5",
+    "name": "Google Ads Remarketing #5",
+    "type": "sp",
+    "parameter": [
+     {
+      "key": "enableDynamicRemarketing",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "conversionId",
+      "type": "TEMPLATE",
+      "value": "554155084"
+     },
+     {
+      "key": "customParamsFormat",
+      "type": "TEMPLATE",
+      "value": "NONE"
+     },
+     {
+      "key": "rdp",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "enableOgtRmktParams",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "enableUserId",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "url",
+      "type": "TEMPLATE",
+      "value": "{{Page URL}}"
+     },
+     {
+      "key": "enableRdpCheckbox",
+      "type": "BOOLEAN",
+      "value": "true"
+     }
+    ],
+    "firingTriggerId": [
+     "1"
+    ],
+    "tagFiringOption": "ONCE_PER_EVENT"
+   }
+  ],
+  "trigger": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "1",
+    "name": "Page View #1",
+    "type": "PAGEVIEW"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "2",
+    "name": "Custom Event - Thank You Page (filtered) #2",
+    "type": "CUSTOM_EVENT",
+    "customEventFilter": [
+     {
+      "type": "EQUALS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Event}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "Thank You Page"
+       }
+      ]
+     }
+    ],
+    "filter": [
+     {
+      "type": "CONTAINS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Page URL}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "thank_you"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "variable": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "6",
+    "name": "HTTP Referrer 5",
+    "type": "f",
+    "parameter": [
+     {
+      "key": "component",
+      "type": "TEMPLATE",
+      "value": "URL"
+     }
+    ]
+   }
+  ],
+  "builtInVariable": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "EVENT",
+    "name": "Event"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "PAGE_HOSTNAME",
+    "name": "Page Hostname"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "PAGE_PATH",
+    "name": "Page Path"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "PAGE_URL",
+    "name": "Page URL"
+   }
+  ]
+ },
+ "reconstruction": {
+  "custom_templates_missing_source": [],
+  "listener_tags_folded": 0,
+  "counts": {
+   "tags": 3,
+   "triggers": 2,
+   "variables": 1,
+   "built_in_variables": 4
+  }
+ }
+}

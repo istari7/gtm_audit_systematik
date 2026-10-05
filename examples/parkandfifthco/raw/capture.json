@@ -1,0 +1,1002 @@
+{
+ "slug": "parkandfifthco",
+ "url": "https://parkandfifthco.com",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:02:12.349115+00:00",
+ "bot_wall": false,
+ "final_url": "https://parkandfifthco.com/en-us",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://parkandfifthco.com/en-us/products/jameson-set-oxford-chiffon",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "__apex_test__",
+  "__kla_id",
+  "__obref",
+  "_clck",
+  "_clsk",
+  "_fbp",
+  "_ga",
+  "_ga_1NHWMSMD59",
+  "_gcl_au",
+  "_pin_unauth",
+  "_shg_session_id",
+  "_shg_user_id",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_sp_id.ce8e",
+  "_sp_ses.ce8e",
+  "_ttp",
+  "_uetsid",
+  "_uetvid",
+  "cart",
+  "cart_currency",
+  "lantern",
+  "localization",
+  "shopify_recently_viewed",
+  "ttcsid",
+  "ttcsid_C8TQU8I0VTGU7LHNSGO0",
+  "yotpo_pixel"
+ ],
+ "finished": "2026-10-05T20:05:08.229371+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "advertising": [
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Meta Pixel",
+    "Microsoft Ads (UET)",
+    "Pinterest Tag",
+    "TikTok Pixel"
+   ],
+   "session-replay": [
+    "Microsoft Clarity"
+   ],
+   "tms": [
+    "Google Tag Manager",
+    "Google tag (gtag.js)"
+   ],
+   "platform": [
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "reviews-loyalty": [
+    "Yotpo"
+   ],
+   "email-sms": [
+    "Klaviyo"
+   ],
+   "support": [
+    "Gorgias"
+   ],
+   "payments": [
+    "Sezzle"
+   ],
+   "monitoring": [
+    "Bugsnag"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "GTM-PWXWHZZ",
+   "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PWXWHZZ",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 346.0
+  },
+  {
+   "id": "AW-683612000",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-683612000",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 623.5
+  }
+ ],
+ "request_count": 2472,
+ "snapshots": {
+  "initial": {
+   "url": "https://parkandfifthco.com/en-us",
+   "title": "Park & Fifth Co | Modern Dresses and Bridesmaid Attire – Park & Fifth Clothing Co",
+   "site_name": "Park & Fifth Clothing Co",
+   "description": "Modern Dresses and Separates. Bridesmaid Attire. Bridal Dresses. Bridal Shower, Rehearsal Dinner, Engagement Party Dresses.",
+   "google_tag_manager_keys": [
+    "AW-683612000"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000"
+    ],
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "9",
+     "gtm.uniqueEventId": 12
+    },
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 13
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-1NHWMSMD59",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da8fadf-CBF3-4B0E-D023-818E24DB3A41",
+      "ext_client_id": "shp.e0c274d3-4e3d-4ede-8cc7-2be3c4cf21b1",
+      "page_path": "/en-us",
+      "page_title": "Park & Fifth Co | Modern Dresses and Bridesmaid Attire – Park & Fifth Clothing Co",
+      "page_location": "https://parkandfifthco.com/en-us",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 20
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "park-fifth-clothing-co.myshopify.com",
+    "theme": {
+     "name": "261001 - Banner Update ",
+     "id": 201870901412,
+     "schema_name": "Broadcast"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "2c78d6dc-a3b5-4807-8124-81902393a737-1791230537"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  },
+  "reload": {
+   "url": "https://parkandfifthco.com/en-us",
+   "title": "Park & Fifth Co | Modern Dresses and Bridesmaid Attire – Park & Fifth Clothing Co",
+   "site_name": "Park & Fifth Clothing Co",
+   "description": "Modern Dresses and Separates. Bridesmaid Attire. Bridal Dresses. Bridal Shower, Rehearsal Dinner, Engagement Party Dresses.",
+   "google_tag_manager_keys": [
+    "AW-683612000"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000"
+    ],
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "9",
+     "gtm.uniqueEventId": 12
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000",
+     {
+      "send_page_view": false
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 18
+    },
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-1NHWMSMD59",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da9af05-CBCA-46BA-DA6E-95FDAE679D28",
+      "ext_client_id": "shp.e0c274d3-4e3d-4ede-8cc7-2be3c4cf21b1",
+      "page_path": "/en-us",
+      "page_title": "Park & Fifth Co | Modern Dresses and Bridesmaid Attire – Park & Fifth Clothing Co",
+      "page_location": "https://parkandfifthco.com/en-us",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 20
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "park-fifth-clothing-co.myshopify.com",
+    "theme": {
+     "name": "261001 - Banner Update ",
+     "id": 201870901412,
+     "schema_name": "Broadcast"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "d43fe5c8-37a5-41c0-9fc9-3b7f7e88b9db-1791230582"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  },
+  "pdp": {
+   "url": "https://parkandfifthco.com/en-us/products/jameson-set-oxford-chiffon",
+   "title": "Jameson Set – Park & Fifth Clothing Co",
+   "site_name": "Park & Fifth Clothing Co",
+   "description": "The Jameson Set is an effortlessly chic two-piece crafted from lightweight, fluid chiffon. The halter-style top features a high neckline and an open tie-back detail for an elegant, feminine finish. Paired with a coordinating midi skirt, the set falls beautifully through the silhouette with a flowing, asymmetrical hem t",
+   "google_tag_manager_keys": [
+    "AW-683612000"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000"
+    ],
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "9",
+     "gtm.uniqueEventId": 12
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-1NHWMSMD59",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa6901-7943-4CE6-D151-FA5602AF38F0",
+      "ext_client_id": "shp.e0c274d3-4e3d-4ede-8cc7-2be3c4cf21b1",
+      "page_path": "/en-us/products/jameson-set-oxford-chiffon",
+      "page_title": "Jameson Set – Park & Fifth Clothing Co",
+      "page_location": "https://parkandfifthco.com/en-us/products/jameson-set-oxford-chiffon",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": "G-1NHWMSMD59",
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa6908-A166-44D4-FC13-F719D695E8CA",
+      "ext_client_id": "shp.e0c274d3-4e3d-4ede-8cc7-2be3c4cf21b1",
+      "ecomm_prodid": [
+       "shopify_CA_10392152932516_51485235970212"
+      ],
+      "ecomm_totalvalue": 215,
+      "ecomm_pagetype": "product",
+      "value": 215,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_CA_10392152932516_51485235970212",
+        "name": "Jameson Set",
+        "brand": "Park & Fifth Clothing Co",
+        "category": "Social Occasion",
+        "price": 215,
+        "variant": "XXS / Oxford Chiffon",
+        "quantity": 1,
+        "sku": "SO0320CHSTOXFD01",
+        "variant_id": "51485235970212"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.formInteract",
+     "gtm.elementClasses": "installment",
+     "gtm.elementId": "product-form-installment-template--30612081475748__main-10392152932516",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "5",
+     "gtm.elementUrl": "https://parkandfifthco.com/en-us/cart/add",
+     "gtm.interactedFormLength": 5,
+     "gtm.interactedFormFieldId": "",
+     "gtm.interactedFormFieldName": "id",
+     "gtm.interactedFormFieldPosition": 0,
+     "gtm.interactedFormFieldType": "hidden",
+     "gtm.interactSequenceNumber": 0,
+     "gtm.uniqueEventId": 20
+    },
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 21
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 22
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "park-fifth-clothing-co.myshopify.com",
+    "theme": {
+     "name": "261001 - Banner Update ",
+     "id": 201870901412,
+     "schema_name": "Broadcast"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 10392152932516,
+     "gid": "gid://shopify/Product/10392152932516",
+     "vendor": "Park & Fifth Clothing Co",
+     "type": "Social Occasion",
+     "handle": "jameson-set-oxford-chiffon",
+     "variants": [
+      {
+       "id": 51485235970212,
+       "price": 21500,
+       "name": "Jameson Set - XXS / Oxford Chiffon",
+       "public_title": "XXS / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD01"
+      },
+      {
+       "id": 51485236002980,
+       "price": 21500,
+       "name": "Jameson Set - XS / Oxford Chiffon",
+       "public_title": "XS / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD02"
+      },
+      {
+       "id": 51485236035748,
+       "price": 21500,
+       "name": "Jameson Set - S / Oxford Chiffon",
+       "public_title": "S / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD03"
+      },
+      {
+       "id": 51485236068516,
+       "price": 21500,
+       "name": "Jameson Set - M / Oxford Chiffon",
+       "public_title": "M / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD04"
+      },
+      {
+       "id": 51485236101284,
+       "price": 21500,
+       "name": "Jameson Set - L / Oxford Chiffon",
+       "public_title": "L / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD05"
+      },
+      {
+       "id": 51485236134052,
+       "price": 21500,
+       "name": "Jameson Set - XL / Oxford Chiffon",
+       "public_title": "XL / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD06"
+      },
+      {
+       "id": 51485236166820,
+       "price": 21500,
+       "name": "Jameson Set - XXL / Oxford Chiffon",
+       "public_title": "XXL / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD07"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 10392152932516,
+     "requestId": "af5412be-9f23-4192-a330-d1eea253c11c-1791230631"
+    },
+    "selectedVariantId": ""
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  },
+  "atc": {
+   "url": "https://parkandfifthco.com/en-us/products/jameson-set-oxford-chiffon",
+   "title": "Jameson Set – Park & Fifth Clothing Co",
+   "site_name": "Park & Fifth Clothing Co",
+   "description": "The Jameson Set is an effortlessly chic two-piece crafted from lightweight, fluid chiffon. The halter-style top features a high neckline and an open tie-back detail for an elegant, feminine finish. Paired with a coordinating midi skirt, the set falls beautifully through the silhouette with a flowing, asymmetrical hem t",
+   "google_tag_manager_keys": [
+    "AW-683612000"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000"
+    ],
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "9",
+     "gtm.uniqueEventId": 12
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-683612000",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-1NHWMSMD59",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa6901-7943-4CE6-D151-FA5602AF38F0",
+      "ext_client_id": "shp.e0c274d3-4e3d-4ede-8cc7-2be3c4cf21b1",
+      "page_path": "/en-us/products/jameson-set-oxford-chiffon",
+      "page_title": "Jameson Set – Park & Fifth Clothing Co",
+      "page_location": "https://parkandfifthco.com/en-us/products/jameson-set-oxford-chiffon",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": "G-1NHWMSMD59",
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa6908-A166-44D4-FC13-F719D695E8CA",
+      "ext_client_id": "shp.e0c274d3-4e3d-4ede-8cc7-2be3c4cf21b1",
+      "ecomm_prodid": [
+       "shopify_CA_10392152932516_51485235970212"
+      ],
+      "ecomm_totalvalue": 215,
+      "ecomm_pagetype": "product",
+      "value": 215,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_CA_10392152932516_51485235970212",
+        "name": "Jameson Set",
+        "brand": "Park & Fifth Clothing Co",
+        "category": "Social Occasion",
+        "price": 215,
+        "variant": "XXS / Oxford Chiffon",
+        "quantity": 1,
+        "sku": "SO0320CHSTOXFD01",
+        "variant_id": "51485235970212"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.formInteract",
+     "gtm.elementClasses": "installment",
+     "gtm.elementId": "product-form-installment-template--30612081475748__main-10392152932516",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "5",
+     "gtm.elementUrl": "https://parkandfifthco.com/en-us/cart/add",
+     "gtm.interactedFormLength": 5,
+     "gtm.interactedFormFieldId": "",
+     "gtm.interactedFormFieldName": "id",
+     "gtm.interactedFormFieldPosition": 0,
+     "gtm.interactedFormFieldType": "hidden",
+     "gtm.interactSequenceNumber": 0,
+     "gtm.uniqueEventId": 20
+    },
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 21
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 22
+    },
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": "G-1NHWMSMD59",
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0dabe637-F7D9-4F84-362A-AC173627F3CB",
+      "ext_client_id": "shp.e0c274d3-4e3d-4ede-8cc7-2be3c4cf21b1",
+      "ecomm_prodid": [
+       "shopify_CA_10392152932516_51485235970212"
+      ],
+      "ecomm_totalvalue": 215,
+      "ecomm_pagetype": "cart",
+      "value": 215,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_CA_10392152932516_51485235970212",
+        "name": "Jameson Set",
+        "brand": "Park & Fifth Clothing Co",
+        "category": "Social Occasion",
+        "price": 215,
+        "quantity": 1,
+        "variant": "XXS / Oxford Chiffon",
+        "variant_id": "51485235970212",
+        "sku": "SO0320CHSTOXFD01"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "park-fifth-clothing-co.myshopify.com",
+    "theme": {
+     "name": "261001 - Banner Update ",
+     "id": 201870901412,
+     "schema_name": "Broadcast"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 10392152932516,
+     "gid": "gid://shopify/Product/10392152932516",
+     "vendor": "Park & Fifth Clothing Co",
+     "type": "Social Occasion",
+     "handle": "jameson-set-oxford-chiffon",
+     "variants": [
+      {
+       "id": 51485235970212,
+       "price": 21500,
+       "name": "Jameson Set - XXS / Oxford Chiffon",
+       "public_title": "XXS / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD01"
+      },
+      {
+       "id": 51485236002980,
+       "price": 21500,
+       "name": "Jameson Set - XS / Oxford Chiffon",
+       "public_title": "XS / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD02"
+      },
+      {
+       "id": 51485236035748,
+       "price": 21500,
+       "name": "Jameson Set - S / Oxford Chiffon",
+       "public_title": "S / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD03"
+      },
+      {
+       "id": 51485236068516,
+       "price": 21500,
+       "name": "Jameson Set - M / Oxford Chiffon",
+       "public_title": "M / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD04"
+      },
+      {
+       "id": 51485236101284,
+       "price": 21500,
+       "name": "Jameson Set - L / Oxford Chiffon",
+       "public_title": "L / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD05"
+      },
+      {
+       "id": 51485236134052,
+       "price": 21500,
+       "name": "Jameson Set - XL / Oxford Chiffon",
+       "public_title": "XL / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD06"
+      },
+      {
+       "id": 51485236166820,
+       "price": 21500,
+       "name": "Jameson Set - XXL / Oxford Chiffon",
+       "public_title": "XXL / Oxford Chiffon",
+       "sku": "SO0320CHSTOXFD07"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 10392152932516,
+     "requestId": "af5412be-9f23-4192-a330-d1eea253c11c-1791230631"
+    },
+    "selectedVariantId": ""
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  }
+ },
+ "log": [
+  "container AW-683612000 captured (623 KB) from www.googletagmanager.com [initial]",
+  "loading https://parkandfifthco.com",
+  "container GTM-PWXWHZZ captured (346 KB) from www.googletagmanager.com [initial]",
+  "container AW-683612000 captured (623 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://parkandfifthco.com/en-us/products/jameson-set-oxford-chiffon",
+  "add-to-cart clicked"
+ ]
+}

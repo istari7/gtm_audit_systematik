@@ -1,0 +1,2 @@
+# One brand per line: URL, or slug=URL to force the folder name.
+# Audits are written to outputs/<slug>/.

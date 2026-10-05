@@ -1,0 +1,12 @@
+# One brand per line: URL, or slug=URL to force the folder name.
+https://bychari.com/
+https://www.getgrinds.com/
+https://arubaaloe.com/en-en
+https://www.explorescientific.ca/
+www.rareform.com
+retrospekt.com
+parkandfifthco.com
+ryleeandcru.com
+camerareadycosmetics.com
+slowtide.co
+poler.com

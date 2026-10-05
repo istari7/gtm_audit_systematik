@@ -1,0 +1,3217 @@
+{
+ "brand": {
+  "slug": "bychari",
+  "url": "https://bychari.com/",
+  "name": "BYCHARI",
+  "final_url": "https://bychari.com/",
+  "platform": "Shopify",
+  "audit_date": "2026-10-05"
+ },
+ "capture": {
+  "slug": "bychari",
+  "url": "https://bychari.com/",
+  "profile": {
+   "fresh": true,
+   "returning_visit": true,
+   "stored_cookies": [
+    "GlobalE_Analytics",
+    "localization",
+    "cart_currency",
+    "shopify_client_id",
+    "__kla_id",
+    "_ga",
+    "_fbp",
+    "_pin_unauth",
+    "cart",
+    "_route_pa_sid",
+    "_route_pa_session_start",
+    "_route_grafana_faro_session_id",
+    "_shopify_essential",
+    "_shopify_analytics",
+    "_shopify_marketing",
+    "GlobalE_Consent",
+    "GlobalE_Analytics",
+    "GLBE_SESS_ID",
+    "apt_pixel",
+    "amp_f24a38",
+    "forterToken",
+    "_gcl_au",
+    "_route_pa_application_started_on",
+    "AMP_6d4f915888",
+    "ph_phc_jDLcwdhyM7Tr7YGVJOvN9HduieQ7AhG3mBp8l8wrAQA_posthog",
+    "_ga_JSH24TEY7P",
+    "_ga_TZ5Q98C1Z6"
+   ]
+  },
+  "started": "2026-10-05T19:58:48.285949+00:00",
+  "bot_wall": false,
+  "final_url": "https://bychari.com/",
+  "screenshots": [
+   "screenshots/01_initial.png",
+   "screenshots/02_after_consent.png",
+   "screenshots/03_reload.png",
+   "screenshots/04_pdp.png",
+   "screenshots/05_atc.png"
+  ],
+  "banner_checks": {
+   "initial": {
+    "candidates": [],
+    "cmp_iframes": []
+   },
+   "after_consent": {
+    "candidates": [],
+    "cmp_iframes": []
+   },
+   "reload": {
+    "candidates": [],
+    "cmp_iframes": []
+   }
+  },
+  "consent": {
+   "accepted": true,
+   "method": "js_api",
+   "detail": "Shopify Customer Privacy (no visible banner)"
+  },
+  "pdp_url": "https://bychari.com/products/keepsake-box",
+  "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+  "cookies_after": [
+   "AMP_6d4f915888",
+   "GLBE_SESS_ID",
+   "GlobalE_Analytics",
+   "GlobalE_Consent",
+   "__kla_id",
+   "_fbp",
+   "_ga",
+   "_ga_JSH24TEY7P",
+   "_ga_TZ5Q98C1Z6",
+   "_gcl_au",
+   "_pin_unauth",
+   "_route_grafana_faro_session_id",
+   "_route_pa_application_started_on",
+   "_route_pa_session_start",
+   "_route_pa_sid",
+   "_shopify_analytics",
+   "_shopify_essential",
+   "_shopify_marketing",
+   "amp_f24a38",
+   "apt_pixel",
+   "cart",
+   "cart_currency",
+   "forterToken",
+   "localization",
+   "ph_phc_jDLcwdhyM7Tr7YGVJOvN9HduieQ7AhG3mBp8l8wrAQA_posthog",
+   "shopify_client_id"
+  ],
+  "finished": "2026-10-05T20:00:40.673231+00:00",
+  "review": {
+   "needs_review": false,
+   "reasons": [],
+   "ecommerce": true,
+   "post_consent_categories": {
+    "analytics": [
+     "Amplitude",
+     "Google Analytics 4",
+     "PostHog"
+    ],
+    "advertising": [
+     "AdScale",
+     "Campaign Manager 360 / Floodlight",
+     "Google Ads",
+     "Google Merchant Center",
+     "Meta Pixel",
+     "Pinterest Tag"
+    ],
+    "ecommerce-app": [
+     "Accessibly",
+     "Global-e",
+     "Ground",
+     "Route"
+    ],
+    "platform": [
+     "Shop Pay",
+     "Shopify",
+     "Shopify Analytics (Monorail)",
+     "Shopify CDN"
+    ],
+    "email-sms": [
+     "Klaviyo"
+    ],
+    "support": [
+     "Gorgias"
+    ],
+    "tms": [
+     "Google tag (gtag.js)"
+    ],
+    "fraud": [
+     "Forter"
+    ],
+    "reviews-loyalty": [
+     "Foursixty"
+    ],
+    "payments": [
+     "Afterpay",
+     "Square"
+    ]
+   }
+  },
+  "request_count": 1789,
+  "log": [
+   "returning visit: 27 stored cookie(s) from the persistent profile (pre-consent phase reflects stored consent; use --fresh for a first-visit capture)",
+   "loading https://bychari.com/",
+   "container AW-829377681 captured (492 KB) from www.googletagmanager.com [initial]",
+   "container GT-M3SM9GTN captured (435 KB) from www.googletagmanager.com [initial]",
+   "container G-TZ5Q98C1Z6 captured (590 KB) from www.googletagmanager.com [initial]",
+   "consent: js_api (Shopify Customer Privacy (no visible banner))",
+   "product page https://bychari.com/products/keepsake-box",
+   "add-to-cart clicked"
+  ]
+ },
+ "network": {
+  "site_host": "bychari.com",
+  "platform": "Shopify",
+  "shopify": {
+   "shop": "bychari.myshopify.com",
+   "theme": {
+    "name": "by-chari/studio-haf-live",
+    "id": 139086692415,
+    "schema_name": "ByChari By Wip"
+   },
+   "currency": "USD",
+   "country": "US",
+   "customer_privacy_api": true,
+   "visitor_consent": {
+    "marketing": "yes",
+    "analytics": "yes",
+    "preferences": "yes",
+    "sale_of_data": "yes"
+   }
+  },
+  "web_pixels": [
+   {
+    "id": "2053963839",
+    "type": "APP",
+    "api_client_id": 123074,
+    "runtime": "STRICT",
+    "purposes": [
+     "ANALYTICS",
+     "MARKETING"
+    ],
+    "app": "Klaviyo",
+    "google_ids": [],
+    "configuration": {
+     "accountID": "VxNjpR",
+     "webPixelConfig": "eyJlbmFibGVBZGRlZFRvQ2FydEV2ZW50cyI6IHRydWV9"
+    }
+   },
+   {
+    "id": "1653669951",
+    "type": "APP",
+    "api_client_id": 1807201,
+    "runtime": "STRICT",
+    "purposes": [
+     "ANALYTICS",
+     "MARKETING",
+     "SALE_OF_DATA"
+    ],
+    "app": "AdScale",
+    "google_ids": [],
+    "configuration": {
+     "accountID": "AdScaleWepPixel",
+     "adscaleShopHost": "bychari"
+    }
+   },
+   {
+    "id": "334856255",
+    "type": "APP",
+    "api_client_id": 1780363,
+    "runtime": "OPEN",
+    "purposes": [],
+    "app": "Google & YouTube",
+    "google_ids": [
+     "AW-829377681",
+     "G-TZ5Q98C1Z6"
+    ],
+    "configuration": "{\"config\":\"{\\\"google_tag_ids\\\":[\\\"AW-829377681\\\",\\\"GT-M3SM9GTN\\\",\\\"G-TZ5Q98C1Z6\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":[\\\"AW-829377681\\/7T4ACOTH6sYZEJGZvYsD\\\",\\\"G-TZ5Q98C1Z6\\\"]},{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":[\\\"AW-829377681\\/jAY1COrH6sYZEJGZvYsD\\\",\\\"G-TZ5Q98C1Z6\\\"]},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"AW-829377681\\/P-sgCOHH6sYZEJGZvYsD\\\",\\\"MC-JSH24TEY7P\\\",\\\"G-TZ5Q98C1Z6\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"AW-829377681\\/V72ACNvH6sYZEJGZvYsD\\\",\\\"MC-JSH24TEY7P\\\",\\\"G-TZ5Q98C1Z6\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_labe…"
+   },
+   {
+    "id": "89784383",
+    "type": "APP",
+    "api_client_id": 2329312,
+    "runtime": "OPEN",
+    "purposes": [
+     "ANALYTICS",
+     "MARKETING",
+     "SALE_OF_DATA"
+    ],
+    "app": "Meta (Facebook & Instagram)",
+    "google_ids": [],
+    "configuration": {
+     "pixel_id": "167292997187425",
+     "pixel_type": "facebook_pixel",
+     "metaapp_system_user_token": "-"
+    }
+   },
+   {
+    "id": "88375359",
+    "type": "APP",
+    "api_client_id": 5806573,
+    "runtime": "STRICT",
+    "purposes": [
+     "SALE_OF_DATA"
+    ],
+    "app": "Global-e",
+    "google_ids": [],
+    "configuration": {
+     "accountId": "Global-e",
+     "merchantId": "60000098",
+     "baseApiUrl": "https://checkout-service.global-e.com/api/v1",
+     "siteId": "7ce243a1e1a2",
+     "BorderfreeMetaCAPIEnabled": "True",
+     "FT_IsLegacyAnalyticsSDKEnabled": "True",
+     "FT_IsAnalyticsSDKEnabled": "False",
+     "CDNUrl": "https://web.global-e.com/",
+     "BfGoogleAdsEnabled": "true"
+    }
+   },
+   {
+    "id": "61276223",
+    "type": "APP",
+    "api_client_id": 59645886465,
+    "runtime": "STRICT",
+    "purposes": [
+     "ANALYTICS",
+     "MARKETING",
+     "SALE_OF_DATA"
+    ],
+    "app": null,
+    "google_ids": [],
+    "configuration": {
+     "accountID": "clu2q49zg0000l708zuk5zkc0",
+     "popupIds": "[]"
+    }
+   },
+   {
+    "id": "38666303",
+    "type": "APP",
+    "api_client_id": 3009811,
+    "runtime": "STRICT",
+    "purposes": [
+     "ANALYTICS",
+     "MARKETING",
+     "SALE_OF_DATA"
+    ],
+    "app": "Pinterest",
+    "google_ids": [],
+    "configuration": {
+     "tagID": "2619449262943"
+    }
+   },
+   {
+    "id": "shopify-app-pixel",
+    "type": "APP",
+    "api_client_id": "shopify-pixel",
+    "runtime": "STRICT",
+    "purposes": [
+     "ANALYTICS",
+     "MARKETING"
+    ],
+    "app": null,
+    "google_ids": [],
+    "configuration": {}
+   },
+   {
+    "id": "shopify-custom-pixel",
+    "type": "CUSTOM",
+    "api_client_id": "shopify-pixel",
+    "runtime": "LAX",
+    "purposes": [
+     "ANALYTICS",
+     "MARKETING"
+    ],
+    "app": null,
+    "google_ids": [],
+    "configuration": ""
+   }
+  ],
+  "totals": {
+   "requests": 1789,
+   "first_party": 956,
+   "third_party": 824,
+   "vendors": 24,
+   "failed": 2
+  },
+  "vendors": {
+   "AdScale": {
+    "category": "advertising",
+    "requests": 4,
+    "phases": {
+     "initial": 1,
+     "reload": 1,
+     "pdp": 1,
+     "atc": 1
+    },
+    "ids": [],
+    "hosts": [
+     "cdn.adscale.com"
+    ],
+    "failures": 1,
+    "first_party": false
+   },
+   "Campaign Manager 360 / Floodlight": {
+    "category": "advertising",
+    "requests": 2,
+    "phases": {
+     "initial": 1,
+     "atc": 1
+    },
+    "ids": [],
+    "hosts": [
+     "ad.doubleclick.net"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Google Ads": {
+    "category": "advertising",
+    "requests": 42,
+    "phases": {
+     "initial": 5,
+     "reload": 5,
+     "pdp": 9,
+     "atc": 23
+    },
+    "ids": [
+     "AW-829377681"
+    ],
+    "hosts": [
+     "googleads.g.doubleclick.net",
+     "www.google.com",
+     "www.googleadservices.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Google Merchant Center": {
+    "category": "advertising",
+    "requests": 7,
+    "phases": {
+     "initial": 1,
+     "reload": 2,
+     "pdp": 2,
+     "atc": 2
+    },
+    "ids": [],
+    "hosts": [
+     "www.merchant-center-analytics.goog"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Meta Pixel": {
+    "category": "advertising",
+    "requests": 15,
+    "phases": {
+     "initial": 3,
+     "reload": 3,
+     "pdp": 4,
+     "atc": 5
+    },
+    "ids": [
+     "167292997187425"
+    ],
+    "hosts": [
+     "connect.facebook.net",
+     "www.facebook.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Pinterest Tag": {
+    "category": "advertising",
+    "requests": 15,
+    "phases": {
+     "initial": 4,
+     "reload": 3,
+     "pdp": 4,
+     "atc": 4
+    },
+    "ids": [
+     "2619449262943"
+    ],
+    "hosts": [
+     "ct.pinterest.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Amplitude": {
+    "category": "analytics",
+    "requests": 18,
+    "phases": {
+     "initial": 5,
+     "reload": 4,
+     "pdp": 3,
+     "atc": 6
+    },
+    "ids": [],
+    "hosts": [
+     "api.lab.amplitude.com",
+     "api2.amplitude.com",
+     "sr-client-cfg.amplitude.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Google Analytics 4": {
+    "category": "analytics",
+    "requests": 17,
+    "phases": {
+     "initial": 2,
+     "reload": 3,
+     "pdp": 7,
+     "atc": 5
+    },
+    "ids": [
+     "G-TZ5Q98C1Z6"
+    ],
+    "hosts": [
+     "analytics.google.com",
+     "stats.g.doubleclick.net",
+     "www.google.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "PostHog": {
+    "category": "analytics",
+    "requests": 38,
+    "phases": {
+     "initial": 9,
+     "reload": 9,
+     "pdp": 9,
+     "atc": 11
+    },
+    "ids": [],
+    "hosts": [
+     "us-assets.i.posthog.com",
+     "us.i.posthog.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Accessibly": {
+    "category": "ecommerce-app",
+    "requests": 25,
+    "phases": {
+     "initial": 7,
+     "reload": 6,
+     "pdp": 6,
+     "atc": 6
+    },
+    "ids": [],
+    "hosts": [
+     "accessibly.app",
+     "cdn.accessibly.app"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Global-e": {
+    "category": "ecommerce-app",
+    "requests": 17,
+    "phases": {
+     "initial": 5,
+     "reload": 4,
+     "pdp": 4,
+     "atc": 4
+    },
+    "ids": [],
+    "hosts": [
+     "crossborder-integration.global-e.com",
+     "utils.global-e.com",
+     "web.global-e.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Ground": {
+    "category": "ecommerce-app",
+    "requests": 5,
+    "phases": {
+     "initial": 2,
+     "reload": 1,
+     "pdp": 1,
+     "atc": 1
+    },
+    "ids": [],
+    "hosts": [
+     "ai.joinground.com",
+     "onsite.joinground.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Route": {
+    "category": "ecommerce-app",
+    "requests": 42,
+    "phases": {
+     "initial": 7,
+     "consent": 1,
+     "reload": 8,
+     "pdp": 5,
+     "atc": 21
+    },
+    "ids": [],
+    "hosts": [
+     "api.route.com",
+     "protect-lightning-bolt-widget.route.com",
+     "protect-quote-q.route.com",
+     "protection-widget.route.com",
+     "shopify-widget.route.com",
+     "shopify.route.com",
+     "wobs.route.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Klaviyo": {
+    "category": "email-sms",
+    "requests": 53,
+    "phases": {
+     "initial": 13,
+     "reload": 13,
+     "pdp": 14,
+     "atc": 13
+    },
+    "ids": [
+     "VxNjpR"
+    ],
+    "hosts": [
+     "a.klaviyo.com",
+     "static-tracking.klaviyo.com",
+     "static.klaviyo.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Forter": {
+    "category": "fraud",
+    "requests": 43,
+    "phases": {
+     "initial": 12,
+     "consent": 1,
+     "reload": 13,
+     "pdp": 9,
+     "atc": 8
+    },
+    "ids": [],
+    "hosts": [
+     "223ab417dfaa490a9ec1a01dcb5a6781-7ce243a1e1a2.cdn.forter.com",
+     "7ce243a1e1a2.cdn4.forter.com",
+     "cdn0.forter.com",
+     "cdn3.forter.com",
+     "cdn6.forter.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Afterpay": {
+    "category": "payments",
+    "requests": 4,
+    "phases": {
+     "pdp": 4
+    },
+    "ids": [],
+    "hosts": [
+     "iq.afterpay.com",
+     "placement-api.us.afterpay.com",
+     "static.afterpay.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Square": {
+    "category": "payments",
+    "requests": 4,
+    "phases": {
+     "pdp": 4
+    },
+    "ids": [],
+    "hosts": [
+     "js.squarecdn.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Shop Pay": {
+    "category": "platform",
+    "requests": 5,
+    "phases": {
+     "initial": 2,
+     "reload": 1,
+     "pdp": 1,
+     "atc": 1
+    },
+    "ids": [],
+    "hosts": [
+     "shop.app"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Shopify": {
+    "category": "platform",
+    "requests": 44,
+    "phases": {
+     "initial": 12,
+     "consent": 1,
+     "reload": 7,
+     "pdp": 14,
+     "atc": 10
+    },
+    "ids": [],
+    "hosts": [
+     "otlp-http-production.shopifysvc.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Shopify Analytics (Monorail)": {
+    "category": "platform",
+    "requests": 4,
+    "phases": {
+     "initial": 1,
+     "consent": 1,
+     "pdp": 1,
+     "atc": 1
+    },
+    "ids": [],
+    "hosts": [
+     "monorail-edge.shopifysvc.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Shopify CDN": {
+    "category": "platform",
+    "requests": 97,
+    "phases": {
+     "initial": 25,
+     "reload": 24,
+     "pdp": 24,
+     "atc": 24
+    },
+    "ids": [],
+    "hosts": [
+     "cdn.shopify.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Foursixty": {
+    "category": "reviews-loyalty",
+    "requests": 3,
+    "phases": {
+     "pdp": 3
+    },
+    "ids": [],
+    "hosts": [
+     "foursixty.com"
+    ],
+    "failures": 1,
+    "first_party": false
+   },
+   "Gorgias": {
+    "category": "support",
+    "requests": 127,
+    "phases": {
+     "initial": 46,
+     "reload": 27,
+     "pdp": 27,
+     "atc": 27
+    },
+    "ids": [],
+    "hosts": [
+     "assets.gorgias.chat",
+     "bychari.shopify-checkout.config.gorgias.chat",
+     "config.gorgias.chat"
+    ],
+    "failures": 0,
+    "first_party": false
+   },
+   "Google tag (gtag.js)": {
+    "category": "tms",
+    "requests": 20,
+    "phases": {
+     "initial": 5,
+     "reload": 5,
+     "pdp": 5,
+     "atc": 5
+    },
+    "ids": [],
+    "hosts": [
+     "www.googletagmanager.com"
+    ],
+    "failures": 0,
+    "first_party": false
+   }
+  },
+  "unknown_hosts": [
+   [
+    "static.shopmy.us",
+    4
+   ],
+   [
+    "api.appmate.io",
+    4
+   ],
+   [
+    "storage.googleapis.com",
+    4
+   ],
+   [
+    "d3bt4yq3k408c5.cloudfront.net",
+    4
+   ],
+   [
+    "trafficguardapp.com",
+    1
+   ]
+  ],
+  "ga4": {
+   "G-TZ5Q98C1Z6": {
+    "hits": 17,
+    "endpoints": [
+     "analytics.google.com",
+     "stats.g.doubleclick.net",
+     "www.google.com"
+    ],
+    "events": {
+     "initial": {
+      "page_view": 1,
+      "(no event name)": 1
+     },
+     "reload": {
+      "user_engagement": 2,
+      "page_view": 1
+     },
+     "pdp": {
+      "scroll": 3,
+      "user_engagement": 2,
+      "page_view": 1,
+      "view_item": 1
+     },
+     "atc": {
+      "add_to_cart": 1,
+      "user_engagement": 2,
+      "page_view": 1,
+      "scroll": 1
+     }
+    },
+    "gcs": {
+     "initial": [
+      "G111"
+     ],
+     "reload": [
+      "G111"
+     ],
+     "pdp": [
+      "G111"
+     ],
+     "atc": [
+      "G111"
+     ]
+    },
+    "gcd": [
+     "13t3t3t3t5l1",
+     "13v3v3v3v5l1"
+    ],
+    "page_views": {
+     "initial": 1,
+     "reload": 1,
+     "pdp": 1,
+     "atc": 1
+    },
+    "sources": {
+     "page": 17
+    },
+    "sandbox_page_location": 0
+   }
+  },
+  "meta_pixel": {},
+  "tiktok": {},
+  "google_ads": {
+   "AW-829377681": {
+    "initial": {
+     "HFZUCN7H6sYZEJGZvYsD": 3
+    },
+    "reload": {
+     "HFZUCN7H6sYZEJGZvYsD": 3
+    },
+    "pdp": {
+     "HFZUCN7H6sYZEJGZvYsD": 3,
+     "P-sgCOHH6sYZEJGZvYsD": 3
+    },
+    "atc": {
+     "form_start": 1,
+     "form_submit": 1,
+     "4G6SCOfH6sYZEJGZvYsD": 3,
+     "GDvzCPKq5MYZEJGZvYsD": 6,
+     "HFZUCN7H6sYZEJGZvYsD": 3
+    }
+   }
+  },
+  "sgtm_endpoints": [],
+  "atc_cart_add_status": [
+   200
+  ],
+  "deployments": {
+   "AW-829377681": [
+    "page"
+   ],
+   "GT-M3SM9GTN": [
+    "page"
+   ],
+   "G-TZ5Q98C1Z6": [
+    "page"
+   ]
+  },
+  "failures": [
+   {
+    "vendor": "Foursixty",
+    "url": "https://foursixty.com/api/v2/bychari/timeline/?pagination_type=cursor&page_size=10&format=json&page=1&connector_filter=46259&use_stored_image_url=true&for_url=https://bychari.com/products/keepsake-box",
+    "status": null,
+    "failure": "net::ERR_FAILED",
+    "phase": "pdp",
+    "environment": true
+   },
+   {
+    "vendor": "AdScale",
+    "url": "https://cdn.adscale.com/static/ecom_js/bychari/add_item_to_cart.js?ver=20260322&shop=bychari.myshopify.com",
+    "status": null,
+    "failure": "net::ERR_CONNECTION_CLOSED",
+    "phase": "pdp",
+    "environment": true
+   }
+  ],
+  "consent": {
+   "cmp_detected": [],
+   "banner_action": {
+    "accepted": true,
+    "method": "js_api",
+    "detail": "Shopify Customer Privacy (no visible banner)"
+   },
+   "shopify_customer_privacy": true,
+   "shopify_visitor_consent": {
+    "marketing": "yes",
+    "analytics": "yes",
+    "preferences": "yes",
+    "sale_of_data": "yes"
+   },
+   "google_consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "tracking_vendors_before_consent": [
+    "AdScale",
+    "Amplitude",
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Google Analytics 4",
+    "Google Merchant Center",
+    "Meta Pixel",
+    "Pinterest Tag",
+    "PostHog"
+   ],
+   "gated_scripts": [],
+   "us_opt_out_link": false,
+   "geo_targeted_cmp": []
+  },
+  "runtime_tag_ids": [
+   "AW-829377681",
+   "G-TZ5Q98C1Z6",
+   "GT-M3SM9GTN"
+  ],
+  "html_ids": {
+   "ga4": [
+    "G-TZ5Q98C1Z6"
+   ],
+   "ua": [],
+   "ads": [
+    "AW-829377681"
+   ],
+   "floodlight": [],
+   "gtm": []
+  },
+  "html_code_ids": {
+   "Klaviyo": [
+    "VxNjpR"
+   ]
+  },
+  "data_layer_events": {
+   "initial": [
+    "gtag:consent:default",
+    "gtag:set",
+    "gtag:policy:internal_sw_allowed",
+    "gtag:policy:inject_cmp_banner",
+    "gtag:set:developer_id.dYmNjMT",
+    "gtag:js",
+    "gtag:config:AW-829377681",
+    "gtag:config:GT-M3SM9GTN",
+    "gtag:config:G-TZ5Q98C1Z6",
+    "gtag:event:page_view",
+    "gtm.dom",
+    "gtm.load"
+   ],
+   "reload": [
+    "gtag:consent:default",
+    "gtag:set",
+    "gtag:policy:internal_sw_allowed",
+    "gtag:policy:inject_cmp_banner",
+    "gtag:set:developer_id.dYmNjMT",
+    "gtag:js",
+    "gtag:config:AW-829377681",
+    "gtag:config:GT-M3SM9GTN",
+    "gtag:config:G-TZ5Q98C1Z6",
+    "gtm.dom",
+    "gtag:event:page_view",
+    "gtm.load",
+    "gtm.scrollDepth"
+   ],
+   "pdp": [
+    "gtag:consent:default",
+    "gtag:set",
+    "gtag:policy:internal_sw_allowed",
+    "gtag:policy:inject_cmp_banner",
+    "gtag:set:developer_id.dYmNjMT",
+    "gtag:js",
+    "gtag:config:AW-829377681",
+    "gtag:config:GT-M3SM9GTN",
+    "gtag:config:G-TZ5Q98C1Z6",
+    "gtag:event:page_view",
+    "gtag:event:view_item",
+    "gtm.dom",
+    "gtm.load",
+    "gtm.scrollDepth"
+   ],
+   "atc": [
+    "gtag:consent:default",
+    "gtag:set",
+    "gtag:policy:internal_sw_allowed",
+    "gtag:policy:inject_cmp_banner",
+    "gtag:set:developer_id.dYmNjMT",
+    "gtag:js",
+    "gtag:config:AW-829377681",
+    "gtag:config:GT-M3SM9GTN",
+    "gtag:config:G-TZ5Q98C1Z6",
+    "gtag:event:page_view",
+    "gtag:event:view_item",
+    "gtm.dom",
+    "gtm.load",
+    "gtm.scrollDepth",
+    "gtm.formSubmit",
+    "gtag:event:add_to_cart"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "AW-829377681",
+   "kind": "gtag",
+   "version": "2",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-829377681",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 492.0,
+   "counts": {
+    "tags": 12,
+    "active_tags": 12,
+    "paused_tags": 0,
+    "custom_html": 0,
+    "custom_templates": 0,
+    "orphan_tags": 0,
+    "listeners": 0,
+    "variables": 4,
+    "custom_js_variables": 0,
+    "triggers": 4,
+    "predicates": 6
+   },
+   "tag_types": {
+    "__ogt_auto_events": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ogt_ads_datatos": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ogt_1p_data_v2": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_ads_first": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_pre_auto_pii": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_form": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_page_view": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_ads_conv_marking": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_add_1p_data": {
+     "active": 1,
+     "paused": 0
+    },
+    "__dest_aw": {
+     "active": 1,
+     "paused": 0
+    },
+    "__rep": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_ads_last": {
+     "active": 1,
+     "paused": 0
+    }
+   },
+   "tags": [
+    {
+     "index": 0,
+     "tag_id": 11,
+     "name": null,
+     "function": "__ogt_auto_events",
+     "type": "__ogt_auto_events",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 1,
+     "tag_id": 18,
+     "name": null,
+     "function": "__ogt_ads_datatos",
+     "type": "__ogt_ads_datatos",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 2,
+     "tag_id": 9,
+     "name": null,
+     "function": "__ogt_1p_data_v2",
+     "type": "__ogt_1p_data_v2",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 3,
+     "tag_id": 19,
+     "name": null,
+     "function": "__ccd_ads_first",
+     "type": "__ccd_ads_first",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 4,
+     "tag_id": 17,
+     "name": null,
+     "function": "__ccd_pre_auto_pii",
+     "type": "__ccd_pre_auto_pii",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 5,
+     "tag_id": 16,
+     "name": null,
+     "function": "__ccd_em_form",
+     "type": "__ccd_em_form",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 6,
+     "tag_id": 15,
+     "name": null,
+     "function": "__ccd_em_page_view",
+     "type": "__ccd_em_page_view",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 7,
+     "tag_id": 14,
+     "name": null,
+     "function": "__ccd_ads_conv_marking",
+     "type": "__ccd_ads_conv_marking",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 8,
+     "tag_id": 13,
+     "name": null,
+     "function": "__ccd_add_1p_data",
+     "type": "__ccd_add_1p_data",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 9,
+     "tag_id": 5,
+     "name": null,
+     "function": "__dest_aw",
+     "type": "__dest_aw",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "True equals false AND {{Event}} equals \"gtm.init\"",
+      "True equals true AND ['{{__actids #2}}'] _lc \"{{DLV - gtm.configContainerId}}\" AND {{Event}} equals \"gtag.config\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtag.config",
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 10,
+     "tag_id": 7,
+     "name": null,
+     "function": "__rep",
+     "type": "__rep",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.js\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.js"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 11,
+     "tag_id": 12,
+     "name": null,
+     "function": "__ccd_ads_last",
+     "type": "__ccd_ads_last",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    }
+   ],
+   "gtag_features": [
+    {
+     "function": "__ogt_auto_events",
+     "label": "Automatic events",
+     "settings": {
+      "enableOutboundClick": true,
+      "enableScroll": true,
+      "enableDownload": true,
+      "enableHistoryEvents": true,
+      "enableForm": true,
+      "enableVideo": true,
+      "enablePageView": true,
+      "enableInPageEventsHidden": false
+     }
+    },
+    {
+     "function": "__ogt_ads_datatos",
+     "label": "Ads data terms of service",
+     "settings": {
+      "instanceDestinationId": "AW-829377681"
+     }
+    },
+    {
+     "function": "__ogt_1p_data_v2",
+     "label": "User-provided data collection (enhanced conversions)",
+     "settings": {
+      "isAutoEnabled": true,
+      "isManualEnabled": false,
+      "autoPhoneEnabled": false,
+      "autoCollectExclusionSelectors": [
+       {
+        "exclusionSelector": ""
+       }
+      ],
+      "isEnabled": true,
+      "autoAddressEnabled": false,
+      "autoEmailEnabled": true,
+      "isAutoCollectPiiEnabledFlag": true
+     }
+    },
+    {
+     "function": "__ccd_pre_auto_pii",
+     "label": "Automatic user-provided data detection",
+     "settings": {
+      "instanceDestinationId": "AW-829377681"
+     }
+    },
+    {
+     "function": "__ccd_em_form",
+     "label": "Enhanced measurement: form interactions",
+     "settings": {
+      "includeParams": false,
+      "instanceDestinationId": "AW-829377681"
+     }
+    },
+    {
+     "function": "__ccd_em_page_view",
+     "label": "Enhanced measurement: page changes (history events)",
+     "settings": {
+      "historyEvents": true,
+      "deferPageView": false,
+      "includeParams": true,
+      "instanceDestinationId": "AW-829377681"
+     }
+    },
+    {
+     "function": "__ccd_ads_conv_marking",
+     "label": "Google Ads conversion marking",
+     "settings": {
+      "conversionRules": [
+       {
+        "matchingRules": "{\"type\":2,\"args\":[{\"booleanExpressionValue\":{\"type\":1,\"args\":[{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"http://bychari.com\"}]}},{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"https://bychari.com\"}]}}]}},{\"booleanExpressionValue\":{\"type\":2,\"args\":[{\"booleanExpressionValue\":{\"type\":5,\"args\":[{\"stringValue\":\"page_view\"},{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"eventName\"]}}]}},{\"booleanExpressionValue\":{\"type\":1,\"args\":[{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"http://bychari.com/checkout\"}]}},{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"https://bychari.com/checkout\"}]}}]}}]}}]}",
+        "conversionLabel": "pTVLCPWq5MYZEJGZvYsD"
+       },
+       {
+        "matchingRules": "{\"type\":2,\"args\":[{\"booleanExpressionValue\":{\"type\":1,\"args\":[{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"http://bychari.com\"}]}},{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"https://bychari.com\"}]}}]}},{\"booleanExpressionValue\":{\"type\":2,\"args\":[{\"booleanExpressionValue\":{\"type\":5,\"args\":[{\"stringValue\":\"page_view\"},{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"eventName\"]}}]}},{\"booleanExpressionValue\":{\"type\":1,\"args\":[{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"http://bychari.com/cart\"}]}},{\"booleanExpressionValue\":{\"type\":6,\"args\":[{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"hitData\",\"page_location\"]}},{\"stringValue\":\"https://bychari.com/cart\"}]}}]}}]}}]}",
+        "conversionLabel": "GDvzCPKq5MYZEJGZvYsD"
+       }
+      ],
+      "instanceDestinationId": "AW-829377681"
+     }
+    },
+    {
+     "function": "__ccd_add_1p_data",
+     "label": "User-provided data attached to hits",
+     "settings": {
+      "acceptAutomatic": true,
+      "acceptCode": true,
+      "acceptManualSelector": true,
+      "acceptUserData": true,
+      "matchingRules": "{\"type\":1,\"args\":[{\"booleanExpressionValue\":{\"type\":5,\"args\":[{\"stringValue\":\"conversion\"},{\"contextValue\":{\"namespaceTy",
+      "instanceDestinationId": "AW-829377681"
+     }
+    },
+    {
+     "function": "__dest_aw",
+     "label": "Google Ads destination",
+     "settings": {
+      "ignoreDupeGtagConfigCalls": false,
+      "destinationId": "AW-829377681",
+      "enableVariablesInDestinationId": false
+     }
+    },
+    {
+     "function": "__rep",
+     "label": "Remarketing / conversion page view",
+     "settings": {
+      "containerId": "AW-829377681"
+     }
+    }
+   ],
+   "custom_html": [],
+   "templates": [],
+   "listeners": [],
+   "variables": [
+    {
+     "index": 0,
+     "label": "Constant - True",
+     "type": "Constant",
+     "value": true
+    },
+    {
+     "index": 1,
+     "label": "Event",
+     "type": "Event"
+    },
+    {
+     "index": 2,
+     "label": "__actids #2",
+     "type": "__actids"
+    },
+    {
+     "index": 3,
+     "label": "DLV - gtm.configContainerId",
+     "type": "Data Layer Variable"
+    }
+   ],
+   "events": {
+    "all": [
+     "gtag.config",
+     "gtm.init",
+     "gtm.js"
+    ],
+    "custom": [
+     "gtag.config"
+    ],
+    "ecommerce": []
+   },
+   "ga4_events": [],
+   "google_ids": {
+    "ga4": [],
+    "ua": [],
+    "ads": [
+     "AW-829377681"
+    ],
+    "floodlight": [],
+    "gtm": []
+   },
+   "measurement": {
+    "ga4": [],
+    "google_ads": [],
+    "floodlight": [],
+    "ua": [],
+    "other": []
+   },
+   "consent": {
+    "consent_types_referenced": [],
+    "consent_templates": [],
+    "tags_with_additional_consent": 0,
+    "active_tags": 12,
+    "cmp_hints": []
+   },
+   "vendors": []
+  },
+  {
+   "id": "G-TZ5Q98C1Z6",
+   "kind": "gtag",
+   "version": "2",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-TZ5Q98C1Z6",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 590.4,
+   "counts": {
+    "tags": 22,
+    "active_tags": 22,
+    "paused_tags": 0,
+    "custom_html": 0,
+    "custom_templates": 0,
+    "orphan_tags": 0,
+    "listeners": 0,
+    "variables": 6,
+    "custom_js_variables": 0,
+    "triggers": 4,
+    "predicates": 6
+   },
+   "tag_types": {
+    "__ccd_add_1p_data": {
+     "active": 2,
+     "paused": 0
+    },
+    "__ogt_auto_events": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ogt_1p_data_v2": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_ga_first": {
+     "active": 1,
+     "paused": 0
+    },
+    "__set_product_settings": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ogt_google_signals": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_ga_regscope": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_add_ecs": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_download": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_form": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_outbound_click": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_page_view": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_scroll": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_site_search": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_em_video": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_conversion_marking": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_auto_redact": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_ga_ads_link": {
+     "active": 1,
+     "paused": 0
+    },
+    "__dest_ga": {
+     "active": 1,
+     "paused": 0
+    },
+    "__gct": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_ga_last": {
+     "active": 1,
+     "paused": 0
+    }
+   },
+   "tags": [
+    {
+     "index": 0,
+     "tag_id": 11,
+     "name": null,
+     "function": "__ogt_auto_events",
+     "type": "__ogt_auto_events",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 1,
+     "tag_id": 9,
+     "name": null,
+     "function": "__ogt_1p_data_v2",
+     "type": "__ogt_1p_data_v2",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 2,
+     "tag_id": 29,
+     "name": null,
+     "function": "__ccd_ga_first",
+     "type": "__ccd_ga_first",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 3,
+     "tag_id": 28,
+     "name": null,
+     "function": "__set_product_settings",
+     "type": "__set_product_settings",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 4,
+     "tag_id": 27,
+     "name": null,
+     "function": "__ogt_google_signals",
+     "type": "__ogt_google_signals",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 5,
+     "tag_id": 26,
+     "name": null,
+     "function": "__ccd_ga_regscope",
+     "type": "__ccd_ga_regscope",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 6,
+     "tag_id": 25,
+     "name": null,
+     "function": "__ccd_add_ecs",
+     "type": "__ccd_add_ecs",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 7,
+     "tag_id": 24,
+     "name": null,
+     "function": "__ccd_em_download",
+     "type": "__ccd_em_download",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 8,
+     "tag_id": 23,
+     "name": null,
+     "function": "__ccd_em_form",
+     "type": "__ccd_em_form",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 9,
+     "tag_id": 22,
+     "name": null,
+     "function": "__ccd_em_outbound_click",
+     "type": "__ccd_em_outbound_click",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 10,
+     "tag_id": 21,
+     "name": null,
+     "function": "__ccd_em_page_view",
+     "type": "__ccd_em_page_view",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 11,
+     "tag_id": 20,
+     "name": null,
+     "function": "__ccd_em_scroll",
+     "type": "__ccd_em_scroll",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 12,
+     "tag_id": 19,
+     "name": null,
+     "function": "__ccd_em_site_search",
+     "type": "__ccd_em_site_search",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 13,
+     "tag_id": 18,
+     "name": null,
+     "function": "__ccd_em_video",
+     "type": "__ccd_em_video",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 14,
+     "tag_id": 17,
+     "name": null,
+     "function": "__ccd_conversion_marking",
+     "type": "__ccd_conversion_marking",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 15,
+     "tag_id": 16,
+     "name": null,
+     "function": "__ccd_add_1p_data",
+     "type": "__ccd_add_1p_data",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 16,
+     "tag_id": 15,
+     "name": null,
+     "function": "__ccd_add_1p_data",
+     "type": "__ccd_add_1p_data",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 17,
+     "tag_id": 14,
+     "name": null,
+     "function": "__ccd_auto_redact",
+     "type": "__ccd_auto_redact",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 18,
+     "tag_id": 13,
+     "name": null,
+     "function": "__ccd_ga_ads_link",
+     "type": "__ccd_ga_ads_link",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 19,
+     "tag_id": 5,
+     "name": null,
+     "function": "__dest_ga",
+     "type": "__dest_ga",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "True equals false AND {{Event}} equals \"gtm.init\"",
+      "True equals true AND ['{{__actids #2}}'] _lc \"{{DLV - gtm.configContainerId}}\" AND {{Event}} equals \"gtag.config\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtag.config",
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 20,
+     "tag_id": 7,
+     "name": null,
+     "function": "__gct",
+     "type": "__gct",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.js\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.js"
+     ],
+     "orphan": false,
+     "ids": {
+      "trackingId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "index": 21,
+     "tag_id": 12,
+     "name": null,
+     "function": "__ccd_ga_last",
+     "type": "__ccd_ga_last",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    }
+   ],
+   "gtag_features": [
+    {
+     "function": "__ogt_auto_events",
+     "label": "Automatic events",
+     "settings": {
+      "enableOutboundClick": true,
+      "enableScroll": true,
+      "enableDownload": true,
+      "enableHistoryEvents": true,
+      "enableForm": true,
+      "enableVideo": true,
+      "enablePageView": true,
+      "enableInPageEventsHidden": false
+     }
+    },
+    {
+     "function": "__ogt_1p_data_v2",
+     "label": "User-provided data collection (enhanced conversions)",
+     "settings": {
+      "isAutoEnabled": true,
+      "isManualEnabled": false,
+      "autoPhoneEnabled": false,
+      "autoCollectExclusionSelectors": [
+       {
+        "exclusionSelector": ""
+       }
+      ],
+      "isEnabled": true,
+      "autoAddressEnabled": false,
+      "autoEmailEnabled": true,
+      "isAutoCollectPiiEnabledFlag": true
+     }
+    },
+    {
+     "function": "__set_product_settings",
+     "label": "Product settings",
+     "settings": {
+      "instanceDestinationId": "G-TZ5Q98C1Z6",
+      "isChinaVipRegionMacroResult": 0
+     }
+    },
+    {
+     "function": "__ogt_google_signals",
+     "label": "Google Signals",
+     "settings": {
+      "googleSignals": "ENABLED",
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_ga_regscope",
+     "label": "Regional data collection settings",
+     "settings": {
+      "settingsTable": [
+       {
+        "redactFieldGroup": "DEVICE_AND_GEO",
+        "disallowAllRegions": false,
+        "disallowedRegions": ""
+       },
+       {
+        "redactFieldGroup": "GOOGLE_SIGNALS",
+        "disallowAllRegions": false,
+        "disallowedRegions": ""
+       }
+      ],
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_add_ecs",
+     "label": "Enhanced conversions settings",
+     "settings": {
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_em_download",
+     "label": "Enhanced measurement: file downloads",
+     "settings": {
+      "includeParams": true,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_em_form",
+     "label": "Enhanced measurement: form interactions",
+     "settings": {
+      "includeParams": true,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_em_outbound_click",
+     "label": "Enhanced measurement: outbound clicks",
+     "settings": {
+      "includeParams": true,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_em_page_view",
+     "label": "Enhanced measurement: page changes (history events)",
+     "settings": {
+      "historyEvents": true,
+      "includeParams": true,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_em_scroll",
+     "label": "Enhanced measurement: scrolls",
+     "settings": {
+      "includeParams": true,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_em_site_search",
+     "label": "Enhanced measurement: site search",
+     "settings": {
+      "searchQueryParams": "q",
+      "includeParams": true,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_em_video",
+     "label": "Enhanced measurement: video engagement",
+     "settings": {
+      "includeParams": true,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_conversion_marking",
+     "label": "Key events (conversion marking rules)",
+     "settings": {
+      "conversionRules": [
+       {
+        "matchingRules": "{\"type\":5,\"args\":[{\"stringValue\":\"purchase\"},{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"eventName\"]}}]}"
+       }
+      ],
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_add_1p_data",
+     "label": "User-provided data attached to hits",
+     "settings": {
+      "acceptAutomatic": false,
+      "acceptCode": true,
+      "acceptManualSelector": true,
+      "acceptUserData": true,
+      "matchingRules": "{\"type\":3,\"args\":[{\"booleanExpressionValue\":{\"type\":1,\"args\":[{\"booleanExpressionValue\":{\"type\":5,\"args\":[{\"stringValue\"",
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_add_1p_data",
+     "label": "User-provided data attached to hits",
+     "settings": {
+      "acceptAutomatic": true,
+      "acceptCode": true,
+      "acceptManualSelector": true,
+      "acceptUserData": true,
+      "matchingRules": "{\"type\":1,\"args\":[{\"booleanExpressionValue\":{\"type\":5,\"args\":[{\"stringValue\":\"form_submit\"},{\"contextValue\":{\"namespaceT",
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_auto_redact",
+     "label": "Automatic PII redaction (URL/email)",
+     "settings": {
+      "redactEmail": false,
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__ccd_ga_ads_link",
+     "label": "GA4 <-> Google Ads link",
+     "settings": {
+      "instanceDestinationId": "G-TZ5Q98C1Z6"
+     }
+    },
+    {
+     "function": "__dest_ga",
+     "label": "GA4 destination",
+     "settings": {
+      "ignoreDupeGtagConfigCalls": true,
+      "destinationId": "G-TZ5Q98C1Z6",
+      "enableVariablesInDestinationId": false
+     }
+    },
+    {
+     "function": "__gct",
+     "label": "Google tag configuration",
+     "settings": {
+      "trackingId": "G-TZ5Q98C1Z6",
+      "sessionDuration": 0
+     }
+    }
+   ],
+   "custom_html": [],
+   "templates": [],
+   "listeners": [],
+   "variables": [
+    {
+     "index": 0,
+     "label": "Constant - True",
+     "type": "Constant",
+     "value": true
+    },
+    {
+     "index": 1,
+     "label": "Event",
+     "type": "Event"
+    },
+    {
+     "index": 2,
+     "label": "__actids #2",
+     "type": "__actids"
+    },
+    {
+     "index": 3,
+     "label": "DLV - gtm.configContainerId",
+     "type": "Data Layer Variable"
+    },
+    {
+     "index": 4,
+     "label": "Constant - ",
+     "type": "Constant",
+     "value": ""
+    },
+    {
+     "index": 5,
+     "label": "Constant - 0",
+     "type": "Constant",
+     "value": 0
+    }
+   ],
+   "events": {
+    "all": [
+     "gtag.config",
+     "gtm.init",
+     "gtm.js"
+    ],
+    "custom": [
+     "gtag.config"
+    ],
+    "ecommerce": []
+   },
+   "ga4_events": [],
+   "google_ids": {
+    "ga4": [
+     "G-TZ5Q98C1Z6"
+    ],
+    "ua": [],
+    "ads": [],
+    "floodlight": [],
+    "gtm": []
+   },
+   "measurement": {
+    "ga4": [],
+    "google_ads": [],
+    "floodlight": [],
+    "ua": [],
+    "other": []
+   },
+   "consent": {
+    "consent_types_referenced": [],
+    "consent_templates": [],
+    "tags_with_additional_consent": 0,
+    "active_tags": 22,
+    "cmp_hints": []
+   },
+   "vendors": []
+  },
+  {
+   "id": "GT-M3SM9GTN",
+   "kind": "gtag",
+   "version": "1",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-M3SM9GTN",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9,
+   "counts": {
+    "tags": 7,
+    "active_tags": 7,
+    "paused_tags": 0,
+    "custom_html": 0,
+    "custom_templates": 0,
+    "orphan_tags": 0,
+    "listeners": 0,
+    "variables": 4,
+    "custom_js_variables": 0,
+    "triggers": 4,
+    "predicates": 6
+   },
+   "tag_types": {
+    "__ogt_auto_events": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ogt_1p_data_v2": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_mc_first": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_conversion_marking": {
+     "active": 1,
+     "paused": 0
+    },
+    "__dest_mc": {
+     "active": 1,
+     "paused": 0
+    },
+    "__rep": {
+     "active": 1,
+     "paused": 0
+    },
+    "__ccd_mc_last": {
+     "active": 1,
+     "paused": 0
+    }
+   },
+   "tags": [
+    {
+     "index": 0,
+     "tag_id": 9,
+     "name": null,
+     "function": "__ogt_auto_events",
+     "type": "__ogt_auto_events",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 1,
+     "tag_id": 11,
+     "name": null,
+     "function": "__ogt_1p_data_v2",
+     "type": "__ogt_1p_data_v2",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 2,
+     "tag_id": 14,
+     "name": null,
+     "function": "__ccd_mc_first",
+     "type": "__ccd_mc_first",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 3,
+     "tag_id": 13,
+     "name": null,
+     "function": "__ccd_conversion_marking",
+     "type": "__ccd_conversion_marking",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 4,
+     "tag_id": 4,
+     "name": null,
+     "function": "__dest_mc",
+     "type": "__dest_mc",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "True equals false AND {{Event}} equals \"gtm.init\"",
+      "True equals true AND ['{{__actids #2}}'] _lc \"{{DLV - gtm.configContainerId}}\" AND {{Event}} equals \"gtag.config\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtag.config",
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 5,
+     "tag_id": 7,
+     "name": null,
+     "function": "__rep",
+     "type": "__rep",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.js\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.js"
+     ],
+     "orphan": false,
+     "ids": {}
+    },
+    {
+     "index": 6,
+     "tag_id": 12,
+     "name": null,
+     "function": "__ccd_mc_last",
+     "type": "__ccd_mc_last",
+     "paused": false,
+     "consent_required": [],
+     "fires_on": [
+      "{{Event}} equals \"gtm.init\""
+     ],
+     "blocked_by": [],
+     "events": [
+      "gtm.init"
+     ],
+     "orphan": false,
+     "ids": {}
+    }
+   ],
+   "gtag_features": [
+    {
+     "function": "__ogt_auto_events",
+     "label": "Automatic events",
+     "settings": {
+      "enableOutboundClick": true,
+      "enableScroll": true,
+      "enableDownload": true,
+      "enableHistoryEvents": true,
+      "enableForm": true,
+      "enableVideo": true,
+      "enablePageView": true,
+      "enableInPageEventsHidden": false
+     }
+    },
+    {
+     "function": "__ogt_1p_data_v2",
+     "label": "User-provided data collection (enhanced conversions)",
+     "settings": {
+      "isAutoEnabled": true,
+      "isManualEnabled": false,
+      "autoPhoneEnabled": true,
+      "autoCollectExclusionSelectors": [
+       {
+        "exclusionSelector": ""
+       }
+      ],
+      "isEnabled": true,
+      "autoAddressEnabled": true,
+      "autoEmailEnabled": true,
+      "isAutoCollectPiiEnabledFlag": true
+     }
+    },
+    {
+     "function": "__ccd_conversion_marking",
+     "label": "Key events (conversion marking rules)",
+     "settings": {
+      "conversionRules": [
+       {
+        "matchingRules": "{\"type\":5,\"args\":[{\"stringValue\":\"purchase\"},{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"eventName\"]}}]}"
+       }
+      ],
+      "instanceDestinationId": "MC-JSH24TEY7P"
+     }
+    },
+    {
+     "function": "__dest_mc",
+     "label": "__dest_mc",
+     "settings": {
+      "ignoreDupeGtagConfigCalls": true,
+      "destinationId": "MC-JSH24TEY7P",
+      "enableVariablesInDestinationId": false
+     }
+    },
+    {
+     "function": "__rep",
+     "label": "Remarketing / conversion page view",
+     "settings": {
+      "containerId": "MC-JSH24TEY7P"
+     }
+    }
+   ],
+   "custom_html": [],
+   "templates": [],
+   "listeners": [],
+   "variables": [
+    {
+     "index": 0,
+     "label": "Constant - True",
+     "type": "Constant",
+     "value": true
+    },
+    {
+     "index": 1,
+     "label": "Event",
+     "type": "Event"
+    },
+    {
+     "index": 2,
+     "label": "__actids #2",
+     "type": "__actids"
+    },
+    {
+     "index": 3,
+     "label": "DLV - gtm.configContainerId",
+     "type": "Data Layer Variable"
+    }
+   ],
+   "events": {
+    "all": [
+     "gtag.config",
+     "gtm.init",
+     "gtm.js"
+    ],
+    "custom": [
+     "gtag.config"
+    ],
+    "ecommerce": []
+   },
+   "ga4_events": [],
+   "google_ids": {
+    "ga4": [],
+    "ua": [],
+    "ads": [],
+    "floodlight": [],
+    "gtm": []
+   },
+   "measurement": {
+    "ga4": [],
+    "google_ads": [],
+    "floodlight": [],
+    "ua": [],
+    "other": []
+   },
+   "consent": {
+    "consent_types_referenced": [],
+    "consent_templates": [],
+    "tags_with_additional_consent": 0,
+    "active_tags": 7,
+    "cmp_hints": []
+   },
+   "vendors": []
+  }
+ ],
+ "findings": [
+  {
+   "severity": "P1",
+   "area": "Consent",
+   "title": "No consent banner or US opt-out mechanism",
+   "detail": "6 advertising platform(s) fire (AdScale, Campaign Manager 360 / Floodlight, Google Ads, Google Merchant Center, Meta Pixel, Pinterest Tag); no CMP, no geo-targeted banner markup and no 'Do Not Sell or Share' / 'Your Privacy Choices' link were found.",
+   "recommendation": "Enable Shopify's privacy banner (or a CMP) with region rules: opt-in for EU/UK, opt-out link + GPC for US state privacy laws (CCPA/CPRA and others)."
+  }
+ ],
+ "best_practices": {
+  "(no GTM)": {
+   "checks": [
+    {
+     "area": "Measurement",
+     "check": "Tag management approach",
+     "status": "info",
+     "impact": "Medium",
+     "evidence": "No GTM container. Tags are deployed via Shopify app pixels (AdScale, Global-e, Google & YouTube, Klaviyo, Meta (Facebook & Instagram), Pinterest).",
+     "recommendation": "Fine for a lean channel mix. Move to GTM (or a Shopify custom pixel + GTM) once the brand needs custom events, more ad platforms or consent orchestration beyond the apps.",
+     "why": "A TMS lowers the cost of adding/changing tracking without theme deploys."
+    },
+    {
+     "area": "Measurement",
+     "check": "GA4 enhanced measurement",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "7 enhanced-measurement feature(s) on G-TZ5Q98C1Z6.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "Measurement",
+     "check": "Google Signals",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "Enabled.",
+     "recommendation": "",
+     "why": "Cross-device reporting and remarketing audiences."
+    },
+    {
+     "area": "Google Ads",
+     "check": "Enhanced conversions (user-provided data)",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "User-provided data collection is on.",
+     "recommendation": "",
+     "why": "Recovers conversions lost to cookie restrictions."
+    }
+   ],
+   "score": null,
+   "pass": 3,
+   "warn": 0,
+   "fail": 0
+  }
+ },
+ "platforms": {
+  "GA4": {
+   "checks": [
+    {
+     "area": "GA4",
+     "check": "Single GA4 property",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "GA4 property: G-TZ5Q98C1Z6.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "GA4",
+     "check": "One implementation per property",
+     "status": "pass",
+     "impact": "High",
+     "evidence": "G-TZ5Q98C1Z6 <- Shopify app: Google & YouTube",
+     "recommendation": "",
+     "why": "Two implementations double-count events and revenue."
+    },
+    {
+     "area": "GA4",
+     "check": "Page view sent once per load",
+     "status": "pass",
+     "impact": "High",
+     "evidence": "G-TZ5Q98C1Z6×1 on one page load.",
+     "recommendation": "",
+     "why": "Double page views inflate traffic and deflate conversion rates; for ad pixels they distort optimisation."
+    },
+    {
+     "area": "GA4",
+     "check": "page_location is the real page URL",
+     "status": "pass",
+     "impact": "High",
+     "evidence": "page_location values are storefront URLs.",
+     "recommendation": "",
+     "why": "Wrong page_location breaks page, landing-page and channel reports."
+    },
+    {
+     "area": "GA4",
+     "check": "Product view event carries items, value, currency",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "view_item sent (1×) with product, value and currency.",
+     "recommendation": "",
+     "why": "Without product IDs and value the platform can't run catalogue ads or optimise for revenue."
+    },
+    {
+     "area": "GA4",
+     "check": "Add to cart sent once per cart add",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "add_to_cart sent once per destination.",
+     "recommendation": "",
+     "why": "Double add-to-cart events inflate funnel rates and remarketing audience signals."
+    },
+    {
+     "area": "GA4",
+     "check": "Add to cart event carries items, value, currency",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "add_to_cart sent (1×) with product, value and currency.",
+     "recommendation": "",
+     "why": "Without product IDs and value the platform can't run catalogue ads or optimise for revenue."
+    },
+    {
+     "area": "GA4",
+     "check": "Consent Mode signals on hits",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "gcs states seen: G111.",
+     "recommendation": "",
+     "why": "Needed for EU/UK traffic and for Google's conversion modelling."
+    },
+    {
+     "area": "GA4",
+     "check": "Engagement / enhanced measurement events",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "Seen: scroll, user_engagement.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "GA4",
+     "check": "First-party ID cookie set",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "Cookies after the visit: _ga.",
+     "recommendation": "",
+     "why": "First-party IDs keep attribution and audiences working as third-party cookies disappear."
+    },
+    {
+     "area": "GA4",
+     "check": "Deployment route",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "Sent via: Shopify app: Google & YouTube x17.",
+     "recommendation": "",
+     "why": ""
+    }
+   ],
+   "score": 100,
+   "pass": 10,
+   "warn": 0,
+   "fail": 0,
+   "sources": {
+    "Shopify app: Google & YouTube": 17
+   },
+   "events_by_phase": {
+    "initial": {
+     "page_view": 1,
+     "(none)": 1
+    },
+    "reload": {
+     "user_engagement": 2,
+     "page_view": 1
+    },
+    "pdp": {
+     "scroll": 3,
+     "user_engagement": 2,
+     "page_view": 1,
+     "view_item": 1
+    },
+    "atc": {
+     "add_to_cart": 1,
+     "user_engagement": 2,
+     "page_view": 1,
+     "scroll": 1
+    }
+   }
+  },
+  "Google Ads": {
+   "checks": [
+    {
+     "area": "Google Ads",
+     "check": "Single Google Ads account",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "Google Ads account: AW-829377681.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "Google Ads",
+     "check": "Enhanced conversions enabled",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "User-provided data collection is configured.",
+     "recommendation": "",
+     "why": "Recovers conversions lost to cookie restrictions and improves bidding."
+    },
+    {
+     "area": "Google Ads",
+     "check": "Dynamic remarketing sends product IDs",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "Product IDs present on product-page / cart hits.",
+     "recommendation": "",
+     "why": "Dynamic remarketing and PMax product audiences need product IDs that match the feed."
+    },
+    {
+     "area": "Google Ads",
+     "check": "Add-to-cart signal reaches Google Ads",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "23 Ads hit(s) after add-to-cart.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "Google Ads",
+     "check": "First-party ID cookie set",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "Cookies after the visit: _gcl_au.",
+     "recommendation": "",
+     "why": "First-party IDs keep attribution and audiences working as third-party cookies disappear."
+    },
+    {
+     "area": "Google Ads",
+     "check": "Deployment route",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "Sent via: Shopify app: Google & YouTube x42.",
+     "recommendation": "",
+     "why": ""
+    }
+   ],
+   "score": 100,
+   "pass": 5,
+   "warn": 0,
+   "fail": 0,
+   "sources": {
+    "Shopify app: Google & YouTube": 42
+   },
+   "events_by_phase": {
+    "initial": {
+     "page_view": 5
+    },
+    "reload": {
+     "page_view": 5
+    },
+    "pdp": {
+     "page_view": 5,
+     "view_item": 4
+    },
+    "atc": {
+     "form_start": 3,
+     "form_submit": 3,
+     "add_to_cart": 4,
+     "page_view": 13
+    }
+   }
+  },
+  "Meta": {
+   "checks": [
+    {
+     "area": "Meta",
+     "check": "Single Meta pixel",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "Meta pixel: 167292997187425.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "Meta",
+     "check": "Page view sent once per load",
+     "status": "pass",
+     "impact": "High",
+     "evidence": "167292997187425×1 on one page load.",
+     "recommendation": "",
+     "why": "Double page views inflate traffic and deflate conversion rates; for ad pixels they distort optimisation."
+    },
+    {
+     "area": "Meta",
+     "check": "Product view event carries content_ids, value, currency",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "ViewContent sent (1×) with product, value and currency.",
+     "recommendation": "",
+     "why": "Without product IDs and value the platform can't run catalogue ads or optimise for revenue."
+    },
+    {
+     "area": "Meta",
+     "check": "Add to cart sent once per cart add",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "AddToCart sent once per destination.",
+     "recommendation": "",
+     "why": "Double add-to-cart events inflate funnel rates and remarketing audience signals."
+    },
+    {
+     "area": "Meta",
+     "check": "Add to cart event carries content_ids, value, currency",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "AddToCart sent (1×) with product, value and currency.",
+     "recommendation": "",
+     "why": "Without product IDs and value the platform can't run catalogue ads or optimise for revenue."
+    },
+    {
+     "area": "Meta",
+     "check": "event_id on standard events (CAPI dedupe)",
+     "status": "pass",
+     "impact": "High",
+     "evidence": "6 of 6 standard events (AddToCart, PageView, ViewContent) carry event_id.",
+     "recommendation": "",
+     "why": "Without event_id, pixel + Conversions API events double-count and Meta's optimisation degrades."
+    },
+    {
+     "area": "Meta",
+     "check": "Advanced matching",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "No advanced-matching data (normal for anonymous visitors).",
+     "recommendation": "Enable automatic advanced matching so logged-in / checkout users are matched.",
+     "why": ""
+    },
+    {
+     "area": "Meta",
+     "check": "First-party ID cookie set",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "Cookies after the visit: _fbp.",
+     "recommendation": "",
+     "why": "First-party IDs keep attribution and audiences working as third-party cookies disappear."
+    },
+    {
+     "area": "Meta",
+     "check": "Deployment route",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "Sent via: Shopify app: Meta (Facebook & Instagram) x7.",
+     "recommendation": "",
+     "why": ""
+    }
+   ],
+   "score": 100,
+   "pass": 7,
+   "warn": 0,
+   "fail": 0,
+   "sources": {
+    "Shopify app: Meta (Facebook & Instagram)": 7
+   },
+   "events_by_phase": {
+    "initial": {
+     "PageView": 1
+    },
+    "reload": {
+     "PageView": 1
+    },
+    "pdp": {
+     "PageView": 1,
+     "ViewContent": 1
+    },
+    "atc": {
+     "SubscribedButtonClick": 1,
+     "AddToCart": 1,
+     "PageView": 1
+    }
+   }
+  },
+  "Pinterest": {
+   "checks": [
+    {
+     "area": "Pinterest",
+     "check": "Single Pinterest tag",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "Pinterest tag: 2619449262943.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "Pinterest",
+     "check": "Page view sent once per load",
+     "status": "pass",
+     "impact": "High",
+     "evidence": "2619449262943×1 on one page load.",
+     "recommendation": "",
+     "why": "Double page views inflate traffic and deflate conversion rates; for ad pixels they distort optimisation."
+    },
+    {
+     "area": "Pinterest",
+     "check": "Product view event carries content_ids, value, currency",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "PageVisit sent (2×) with product, value and currency.",
+     "recommendation": "",
+     "why": "Without product IDs and value the platform can't run catalogue ads or optimise for revenue."
+    },
+    {
+     "area": "Pinterest",
+     "check": "Add to cart sent once per cart add",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "AddToCart sent once per destination.",
+     "recommendation": "",
+     "why": "Double add-to-cart events inflate funnel rates and remarketing audience signals."
+    },
+    {
+     "area": "Pinterest",
+     "check": "Add to cart event carries content_ids, value, currency",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "AddToCart sent (1×) with product, value and currency.",
+     "recommendation": "",
+     "why": "Without product IDs and value the platform can't run catalogue ads or optimise for revenue."
+    },
+    {
+     "area": "Pinterest",
+     "check": "First-party ID cookie set",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "Cookies after the visit: _pin_unauth.",
+     "recommendation": "",
+     "why": "First-party IDs keep attribution and audiences working as third-party cookies disappear."
+    },
+    {
+     "area": "Pinterest",
+     "check": "Deployment route",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "Sent via: Shopify app: Pinterest x10.",
+     "recommendation": "",
+     "why": ""
+    }
+   ],
+   "score": 100,
+   "pass": 6,
+   "warn": 0,
+   "fail": 0,
+   "sources": {
+    "Shopify app: Pinterest": 10
+   },
+   "events_by_phase": {
+    "initial": {
+     "init": 1,
+     "PageVisit": 1
+    },
+    "reload": {
+     "init": 1,
+     "PageVisit": 1
+    },
+    "pdp": {
+     "init": 1,
+     "PageVisit": 2
+    },
+    "atc": {
+     "AddToCart": 1,
+     "init": 1,
+     "PageVisit": 1
+    }
+   }
+  },
+  "Klaviyo": {
+   "checks": [
+    {
+     "area": "Klaviyo",
+     "check": "Onsite tracking (klaviyo.js) loaded",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "klaviyo.js loads.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "Klaviyo",
+     "check": "Viewed Product tracked (browse abandonment)",
+     "status": "info",
+     "impact": "Medium",
+     "evidence": "No Viewed Product event (only identified profiles are tracked — anonymous visitors expected to show none).",
+     "recommendation": "Confirm Viewed Product is enabled in the Klaviyo Shopify integration.",
+     "why": "Browse- and cart-abandonment flows are among the highest-ROI email/SMS flows."
+    },
+    {
+     "area": "Klaviyo",
+     "check": "First-party ID cookie set",
+     "status": "pass",
+     "impact": "Medium",
+     "evidence": "Cookies after the visit: __kla_id.",
+     "recommendation": "",
+     "why": "First-party IDs keep attribution and audiences working as third-party cookies disappear."
+    },
+    {
+     "area": "Klaviyo",
+     "check": "Deployment route",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "Sent via: Shopify app embed: klaviyo-email-marketing-sms x48.",
+     "recommendation": "",
+     "why": ""
+    }
+   ],
+   "score": 100,
+   "pass": 2,
+   "warn": 0,
+   "fail": 0,
+   "sources": {
+    "Shopify app embed: klaviyo-email-marketing-sms": 48
+   },
+   "events_by_phase": {
+    "initial": {
+     "(onsite.js loaded)": 12
+    },
+    "reload": {
+     "(onsite.js loaded)": 12
+    },
+    "pdp": {
+     "(onsite.js loaded)": 12
+    },
+    "atc": {
+     "(onsite.js loaded)": 12
+    }
+   }
+  },
+  "Stack": {
+   "checks": [
+    {
+     "area": "Stack",
+     "check": "Session-replay tools",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "0: none.",
+     "recommendation": "",
+     "why": "Each replay tool records the full DOM — performance cost and PII exposure."
+    },
+    {
+     "area": "Stack",
+     "check": "Ad platforms in use",
+     "status": "info",
+     "impact": "Low",
+     "evidence": "6: AdScale, Campaign Manager 360 / Floodlight, Google Ads, Google Merchant Center, Meta Pixel, Pinterest Tag.",
+     "recommendation": "",
+     "why": ""
+    },
+    {
+     "area": "Stack",
+     "check": "Third-party request volume",
+     "status": "pass",
+     "impact": "Low",
+     "evidence": "824 third-party requests across the visit (24 identified platforms).",
+     "recommendation": "",
+     "why": "Tag weight slows pages, which costs conversion rate."
+    }
+   ],
+   "score": 100,
+   "pass": 1,
+   "warn": 0,
+   "fail": 0,
+   "sources": {},
+   "events_by_phase": {}
+  },
+  "_overall": {
+   "score": 100,
+   "pass": 31,
+   "warn": 0,
+   "fail": 0
+  }
+ },
+ "analyst_checklist": [
+  {
+   "kind": "analyst",
+   "area": "Consent",
+   "item": "Visit from an EU/UK VPN: does a banner appear, and do ad pixels wait for consent?",
+   "where": "Browser via EU VPN + DevTools → Network",
+   "reason": ""
+  },
+  {
+   "kind": "analyst",
+   "area": "Consent",
+   "item": "Check the footer for a 'Your Privacy Choices / Do Not Sell or Share' link (none found on the homepage HTML)",
+   "where": "Site footer, privacy policy",
+   "reason": ""
+  },
+  {
+   "kind": "question",
+   "area": "Purchase tracking",
+   "item": "Do GA4 revenue and Google Ads / Meta purchase counts reconcile with Shopify orders (a gap above ~10% usually means a tracking problem)?",
+   "where": "",
+   "reason": ""
+  },
+  {
+   "kind": "question",
+   "area": "Meta",
+   "item": "Is the Facebook & Instagram app's data sharing set to 'Maximum' (Conversions API on), and what Event Match Quality do Purchase events get?",
+   "where": "",
+   "reason": ""
+  },
+  {
+   "kind": "question",
+   "area": "Google Ads",
+   "item": "Which conversion action is primary for purchases — the Google & YouTube app, a GTM tag or a GA4 import — and is enhanced conversions on?",
+   "where": "",
+   "reason": ""
+  },
+  {
+   "kind": "question",
+   "area": "Consent",
+   "item": "Do you sell into the EU/UK or Quebec, and how is consent handled for those visitors?",
+   "where": "",
+   "reason": ""
+  },
+  {
+   "kind": "question",
+   "area": "Email / SMS",
+   "item": "Are browse- and cart-abandonment flows live in Klaviyo, and are Viewed Product / Added to Cart metrics recording?",
+   "where": "",
+   "reason": ""
+  }
+ ]
+}

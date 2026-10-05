@@ -1,0 +1,778 @@
+{
+ "slug": "poler",
+ "url": "https://poler.com",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:05:02.882125+00:00",
+ "bot_wall": false,
+ "final_url": "https://poler.com/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://poler.com/collections/spring-25spring/products/243mcv0109",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "__kla_id",
+  "_fbp",
+  "_ga",
+  "_ga_R9RJLXG8JF",
+  "_ga_YBG65XL6PS",
+  "_gcl_au",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "cart",
+  "cart_currency",
+  "localization"
+ ],
+ "finished": "2026-10-05T20:06:04.654074+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "advertising": [
+    "Google Ads",
+    "Google Merchant Center",
+    "Meta Pixel"
+   ],
+   "tms": [
+    "Google Tag Manager",
+    "Google tag (gtag.js)"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "email-sms": [
+    "Klaviyo",
+    "Postscript"
+   ],
+   "reviews-loyalty": [
+    "Judge.me"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "G-YBG65XL6PS",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-YBG65XL6PS",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 518.9
+  },
+  {
+   "id": "GTM-WTVHJNR",
+   "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WTVHJNR",
+   "phase": "atc",
+   "first_party_loader": false,
+   "size_kb": 425.8
+  },
+  {
+   "id": "GT-WBZN4FN",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-WBZN4FN",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9
+  },
+  {
+   "id": "AW-554155084",
+   "url": "https://www.googletagmanager.com/gtag/destination?id=AW-554155084&cx=c&gtm=4e6a10",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 480.8
+  }
+ ],
+ "request_count": 1345,
+ "snapshots": {
+  "initial": {
+   "url": "https://poler.com/",
+   "title": "Poler | Outdoor Stuff & Gear for Everyday Camp Vibes",
+   "site_name": "Poler",
+   "description": "Poler is a lifestyle brand that makes practical outdoor stuff and gear for all types of people and adventures. Shop now and get lost in everyday Camp Vibes.",
+   "google_tag_manager_keys": [
+    "G-YBG65XL6PS",
+    "GTM-WTVHJNR",
+    "GT-WBZN4FN",
+    "AW-554155084"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-YBG65XL6PS"
+    ],
+    {
+     "gtm.start": 1791230705552,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 5
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "GT-WBZN4FN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "MC-R9RJLXG8JF",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0dab8165-ACC1-492B-6C7F-8EA2754629A3",
+      "ext_client_id": "shp.684fce5a-fd94-44b2-8aae-c3d2ecc7849c",
+      "page_path": "/",
+      "page_title": "Poler | Outdoor Stuff & Gear for Everyday Camp Vibes",
+      "page_location": "https://poler.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 12
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 15
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "polerstuff.myshopify.com",
+    "theme": {
+     "name": "Poler 2024 - banner image only, no text",
+     "id": 156868804794,
+     "schema_name": "Motion"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "a38a81de-1997-4315-b8b5-8eb1e2b2f3c5-1791230703"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "reload": {
+   "url": "https://poler.com/",
+   "title": "Poler | Outdoor Stuff & Gear for Everyday Camp Vibes",
+   "site_name": "Poler",
+   "description": "Poler is a lifestyle brand that makes practical outdoor stuff and gear for all types of people and adventures. Shop now and get lost in everyday Camp Vibes.",
+   "google_tag_manager_keys": [
+    "GTM-WTVHJNR",
+    "G-YBG65XL6PS",
+    "GT-WBZN4FN",
+    "AW-554155084"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-YBG65XL6PS"
+    ],
+    {
+     "gtm.start": 1791230720876,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 5
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "GT-WBZN4FN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "MC-R9RJLXG8JF",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0dabbde6-2CA1-4B51-3E2C-BB4D3B87BDF7",
+      "ext_client_id": "shp.684fce5a-fd94-44b2-8aae-c3d2ecc7849c",
+      "page_path": "/",
+      "page_title": "Poler | Outdoor Stuff & Gear for Everyday Camp Vibes",
+      "page_location": "https://poler.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 12
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 15
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "polerstuff.myshopify.com",
+    "theme": {
+     "name": "Poler 2024 - banner image only, no text",
+     "id": 156868804794,
+     "schema_name": "Motion"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "a38a81de-1997-4315-b8b5-8eb1e2b2f3c5-1791230703"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "pdp": {
+   "url": "https://poler.com/collections/spring-25spring/products/243mcv0109",
+   "title": "Corduroy Bell Hat - black – Poler",
+   "site_name": "Poler",
+   "description": "This corduroy bell hat brings big retro energy to the campsite, turning heads faster than a raccoon in the snack bag. Soft, durable, and delightfully quirky, it’s like your grandpa’s favorite hat got a glow-up! Ready to shade you in style while you pretend you know how to pitch that tent. SIZE(cm) Head Circumference OS",
+   "google_tag_manager_keys": [
+    "G-YBG65XL6PS",
+    "GTM-WTVHJNR",
+    "GT-WBZN4FN",
+    "AW-554155084"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-YBG65XL6PS"
+    ],
+    {
+     "gtm.start": 1791230737146,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 5
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "GT-WBZN4FN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "MC-R9RJLXG8JF",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0dabfd3b-9FBC-49CA-B085-4BF85D71A360",
+      "ext_client_id": "shp.684fce5a-fd94-44b2-8aae-c3d2ecc7849c",
+      "page_path": "/collections/spring-25spring/products/243mcv0109",
+      "page_title": "Corduroy Bell Hat - black – Poler",
+      "page_location": "https://poler.com/collections/spring-25spring/products/243mcv0109",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": "MC-R9RJLXG8JF",
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0dabfd50-64E2-47BA-B1AD-C04CC9F4CD04",
+      "ext_client_id": "shp.684fce5a-fd94-44b2-8aae-c3d2ecc7849c",
+      "ecomm_prodid": [
+       "shopify_US_8102942802106_44724194508986"
+      ],
+      "ecomm_totalvalue": 40,
+      "ecomm_pagetype": "product",
+      "value": 40,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_8102942802106_44724194508986",
+        "name": "Corduroy Bell Hat - black",
+        "brand": "POLER",
+        "category": "Hats",
+        "price": 40,
+        "variant": "BLACK",
+        "quantity": 1,
+        "sku": "243MCV0109-BLK-OS",
+        "variant_id": "44724194508986"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 13
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 16
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "polerstuff.myshopify.com",
+    "theme": {
+     "name": "Poler 2024 - banner image only, no text",
+     "id": 156868804794,
+     "schema_name": "Motion"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 8102942802106,
+     "gid": "gid://shopify/Product/8102942802106",
+     "vendor": "POLER",
+     "type": "Hats",
+     "handle": "243mcv0109",
+     "variants": [
+      {
+       "id": 44724194508986,
+       "price": 4000,
+       "name": "Corduroy Bell Hat - black - BLACK",
+       "public_title": "BLACK",
+       "sku": "243MCV0109-BLK-OS"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 8102942802106,
+     "requestId": "59d4c24c-98fc-4904-800a-6a38c932db72-1791230736"
+    },
+    "selectedVariantId": "44724194508986"
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "atc": {
+   "url": "https://poler.com/cart",
+   "title": "Your Shopping Cart – Poler",
+   "site_name": "Poler",
+   "description": "Poler is a lifestyle brand that makes practical outdoor stuff and gear for all types of people and adventures. Shop now and get lost in everyday Camp Vibes.",
+   "google_tag_manager_keys": [
+    "G-YBG65XL6PS",
+    "GTM-WTVHJNR",
+    "GT-WBZN4FN",
+    "AW-554155084"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-YBG65XL6PS"
+    ],
+    {
+     "gtm.start": 1791230751411,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 5
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "GT-WBZN4FN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "MC-R9RJLXG8JF",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0dac3933-928C-4676-2E3D-BADADEE2F36B",
+      "ext_client_id": "shp.684fce5a-fd94-44b2-8aae-c3d2ecc7849c",
+      "page_path": "/cart",
+      "page_title": "Your Shopping Cart – Poler",
+      "page_location": "https://poler.com/cart",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 12
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 15
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "polerstuff.myshopify.com",
+    "theme": {
+     "name": "Poler 2024 - banner image only, no text",
+     "id": 156868804794,
+     "schema_name": "Motion"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "cart",
+     "requestId": "a89b676b-a7d6-4d1c-9b7e-906e44d9a96d-1791230750"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  }
+ },
+ "log": [
+  "container G-YBG65XL6PS captured (519 KB) from www.googletagmanager.com [initial]",
+  "container GTM-WTVHJNR captured (426 KB) from www.googletagmanager.com [initial]",
+  "container AW-554155084 captured (481 KB) from www.googletagmanager.com [initial]",
+  "container GT-WBZN4FN captured (435 KB) from www.googletagmanager.com [initial]",
+  "loading https://poler.com",
+  "container G-YBG65XL6PS captured (519 KB) from www.googletagmanager.com [initial]",
+  "container GTM-WTVHJNR captured (426 KB) from www.googletagmanager.com [initial]",
+  "container GT-WBZN4FN captured (435 KB) from www.googletagmanager.com [initial]",
+  "container AW-554155084 captured (481 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://poler.com/collections/spring-25spring/products/243mcv0109",
+  "add-to-cart clicked"
+ ]
+}

@@ -1,0 +1,1659 @@
+{
+ "slug": "rareform",
+ "url": "https://www.rareform.com",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:00:41.065558+00:00",
+ "bot_wall": false,
+ "final_url": "https://www.rareform.com/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://www.rareform.com/products/mystery-blake-keychain",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "__kla_id",
+  "__kla_session",
+  "_clck",
+  "_clsk",
+  "_fbp",
+  "_ga",
+  "_ga_LRG2JKS805",
+  "_gcl_au",
+  "_ps_fp_id",
+  "_rsession",
+  "_ruid",
+  "_scid",
+  "_scid_r",
+  "_sctr",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_tt_enable_cookie",
+  "_ttp",
+  "baMet_visit",
+  "cart",
+  "cart_currency",
+  "localization",
+  "ttcsid",
+  "ttcsid_CBON3P3C77U9ABNNULLG"
+ ],
+ "finished": "2026-10-05T20:02:11.700391+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "advertising": [
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Meta Pixel",
+    "Snapchat Pixel",
+    "TikTok Pixel"
+   ],
+   "session-replay": [
+    "Microsoft Clarity"
+   ],
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "support": [
+    "Gorgias"
+   ],
+   "email-sms": [
+    "Klaviyo",
+    "Postscript"
+   ],
+   "experimentation": [
+    "Rebuy"
+   ],
+   "tms": [
+    "Google Tag Manager",
+    "Google tag (gtag.js)"
+   ],
+   "reviews-loyalty": [
+    "Judge.me"
+   ],
+   "payments": [
+    "PayPal"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "GTM-PTRFZ24",
+   "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PTRFZ24",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 561.8
+  },
+  {
+   "id": "AW-991876766",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-991876766",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 480.6
+  },
+  {
+   "id": "G-LRG2JKS805",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-LRG2JKS805&cx=c&gtm=4e6a10h1",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 575.3
+  }
+ ],
+ "request_count": 2156,
+ "snapshots": {
+  "initial": {
+   "url": "https://www.rareform.com/",
+   "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+   "site_name": "Rareform",
+   "description": "RAREFORM upcycles billboards into one of a kind bags and accessories. Everyday tote bags, crossbody bags, travel accessories, and more. Free shipping over $100.",
+   "google_tag_manager_keys": [
+    "GTM-PTRFZ24",
+    "AW-991876766",
+    "G-LRG2JKS805"
+   ],
+   "data_layer": [
+    {
+     "gtm.start": 1791230445977,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 3
+    },
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 50
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 1,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230447307,
+     "gtm.timerElapsedTime": 1000,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 51
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 2,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230448317,
+     "gtm.timerElapsedTime": 2010,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 52
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 3,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230449311,
+     "gtm.timerElapsedTime": 3004,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 53
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 4,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230450307,
+     "gtm.timerElapsedTime": 4000,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 54
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 55
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 5,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230451316,
+     "gtm.timerElapsedTime": 5009,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 58
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "dl_user_data",
+     "event_id": "FoOwrypnu8Vj31pNruF_o",
+     "event_time": "2026-10-05T20:00:51.424Z",
+     "event_state": "FIRST_EVER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "visitor_type": "guest"
+     },
+     "cart_total": "0.00",
+     "ecommerce": {
+      "currencyCode": "USD",
+      "cart_contents": {
+       "products": []
+      }
+     },
+     "gtm.uniqueEventId": 59
+    },
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-991876766",
+     {}
+    ],
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 6,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230452348,
+     "gtm.timerElapsedTime": 6041,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 70
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g0$t0$j60$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 7,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230453308,
+     "gtm.timerElapsedTime": 7001,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 71
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g0$t0$j60$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 8,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230454307,
+     "gtm.timerElapsedTime": 8000,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 72
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 9,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230455319,
+     "gtm.timerElapsedTime": 9012,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 73
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 85,
+     "gtm.timerEventNumber": 10,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230446307,
+     "gtm.timerCurrentTime": 1791230456314,
+     "gtm.timerElapsedTime": 10007,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 74
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": null,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": null,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": null,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": null,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "rareform.myshopify.com",
+    "theme": {
+     "name": "Copy of Copy of June 2026",
+     "id": 148727889962,
+     "schema_name": "Domaine Studio"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "bb2288c1-47ce-4866-b13d-673ad8118760-1791230444"
+    }
+   },
+   "globals": [
+    "fbq",
+    "ttq",
+    "snaptr",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "reload": {
+   "url": "https://www.rareform.com/",
+   "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+   "site_name": "Rareform",
+   "description": "RAREFORM upcycles billboards into one of a kind bags and accessories. Everyday tote bags, crossbody bags, travel accessories, and more. Free shipping over $100.",
+   "google_tag_manager_keys": [
+    "GTM-PTRFZ24",
+    "AW-991876766",
+    "G-LRG2JKS805"
+   ],
+   "data_layer": [
+    {
+     "gtm.start": 1791230468991,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 3
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g1$t0$j44$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "dl_user_data",
+     "event_id": "Hq1AJOZf7yfJk0jqvT5_X",
+     "event_time": "2026-10-05T20:01:08.999Z",
+     "event_state": "OTHER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "visitor_type": "guest"
+     },
+     "cart_total": "0.00",
+     "ecommerce": {
+      "currencyCode": "USD",
+      "cart_contents": {
+       "products": []
+      }
+     },
+     "gtm.uniqueEventId": 50
+    },
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-991876766",
+     {}
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 56
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 1,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230470221,
+     "gtm.timerElapsedTime": 1113,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 64
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 65
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 2,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230471108,
+     "gtm.timerElapsedTime": 2000,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 66
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 3,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230472111,
+     "gtm.timerElapsedTime": 3003,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 67
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g1$t0$j42$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 4,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230473118,
+     "gtm.timerElapsedTime": 4010,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 68
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 5,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230474108,
+     "gtm.timerElapsedTime": 5000,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 69
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 6,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230475110,
+     "gtm.timerElapsedTime": 6002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 70
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 7,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230476121,
+     "gtm.timerElapsedTime": 7013,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 71
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 8,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230477111,
+     "gtm.timerElapsedTime": 8003,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 72
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 9,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230478111,
+     "gtm.timerElapsedTime": 9003,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 73
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 104,
+     "gtm.timerEventNumber": 10,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230469108,
+     "gtm.timerCurrentTime": 1791230479117,
+     "gtm.timerElapsedTime": 10009,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 74
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 50,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "32699077_432,32699077_471",
+     "gtm.uniqueEventId": 75
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "62,32699077_390",
+     "gtm.uniqueEventId": 76
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": null,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": null,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": null,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": null,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "rareform.myshopify.com",
+    "theme": {
+     "name": "Copy of Copy of June 2026",
+     "id": 148727889962,
+     "schema_name": "Domaine Studio"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "c916be91-acca-4be3-a2ee-daade8915485-1791230467"
+    }
+   },
+   "globals": [
+    "fbq",
+    "ttq",
+    "snaptr",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "pdp": {
+   "url": "https://www.rareform.com/products/mystery-blake-keychain",
+   "title": "Mystery Blake Keychain – Rareform",
+   "site_name": "Rareform",
+   "description": "Big attitude in a mini package. This one clips to your bag or belt loop and brings the essentials with zero fuss. Hands-free. Head-turning. Surprisingly useful.",
+   "google_tag_manager_keys": [
+    "GTM-PTRFZ24",
+    "AW-991876766",
+    "G-LRG2JKS805"
+   ],
+   "data_layer": [
+    {
+     "gtm.start": 1791230489401,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 3
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Mystery Blake Keychain – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g1$t0$j23$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "dl_user_data",
+     "event_id": "eC7vXj8Ql_E-APBzY429w",
+     "event_time": "2026-10-05T20:01:29.408Z",
+     "event_state": "OTHER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "visitor_type": "guest"
+     },
+     "cart_total": "0.00",
+     "ecommerce": {
+      "currencyCode": "USD",
+      "cart_contents": {
+       "products": []
+      }
+     },
+     "gtm.uniqueEventId": 50
+    },
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-991876766",
+     {}
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 54
+    },
+    {
+     "event": "dl_view_item",
+     "event_id": "GPaJFR-Y1XF_-noTcniD_",
+     "event_time": "2026-10-05T20:01:29.976Z",
+     "event_state": "OTHER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1"
+     },
+     "ecommerce": {
+      "currencyCode": "USD",
+      "detail": {
+       "actionField": {
+        "list": ""
+       },
+       "products": [
+        {
+         "id": "KC_mysterykit",
+         "name": "Mystery Blake Keychain",
+         "brand": "RAREFORM",
+         "category": "Blake Keychain",
+         "variant": "Default Title",
+         "price": "10.80",
+         "list": "",
+         "product_id": "7767717838890",
+         "variant_id": "43910282936362",
+         "compare_at_price": "18.00",
+         "image": "https://www.rareform.com/cdn/shop/files/KC-Mystery-Product_9143d57a-651d-4865-a63a-cca2cc57a88c.gif?v=1785951212"
+        }
+       ]
+      }
+     },
+     "gtm.uniqueEventId": 57
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 1,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230490934,
+     "gtm.timerElapsedTime": 1086,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 72
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 2,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230491856,
+     "gtm.timerElapsedTime": 2008,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 73
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 74
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 3,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230492863,
+     "gtm.timerElapsedTime": 3015,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 75
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 4,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230493850,
+     "gtm.timerElapsedTime": 4002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 76
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 5,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230494856,
+     "gtm.timerElapsedTime": 5008,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 77
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 6,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230495858,
+     "gtm.timerElapsedTime": 6010,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 78
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 7,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230496850,
+     "gtm.timerElapsedTime": 7002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 79
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 8,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230497849,
+     "gtm.timerElapsedTime": 8001,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 80
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 9,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230498850,
+     "gtm.timerElapsedTime": 9002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 81
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 10,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230499850,
+     "gtm.timerElapsedTime": 10002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 82
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 50,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "32699077_432,32699077_471",
+     "gtm.uniqueEventId": 83
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "70,32699077_390",
+     "gtm.uniqueEventId": 84
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": null,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": null,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": null,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": null,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "rareform.myshopify.com",
+    "theme": {
+     "name": "Copy of Copy of June 2026",
+     "id": 148727889962,
+     "schema_name": "Domaine Studio"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7767717838890,
+     "gid": "gid://shopify/Product/7767717838890",
+     "vendor": "RAREFORM",
+     "type": "Blake Keychain",
+     "handle": "mystery-blake-keychain",
+     "variants": [
+      {
+       "id": 43910282936362,
+       "price": 1080,
+       "name": "Mystery Blake Keychain",
+       "public_title": null,
+       "sku": "KC_mysterykit"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7767717838890,
+     "requestId": "798e35ce-bb22-4034-9534-e906f0771e35-1791230487"
+    }
+   },
+   "globals": [
+    "fbq",
+    "ttq",
+    "snaptr",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "atc": {
+   "url": "https://www.rareform.com/products/mystery-blake-keychain",
+   "title": "Mystery Blake Keychain – Rareform",
+   "site_name": "Rareform",
+   "description": "Big attitude in a mini package. This one clips to your bag or belt loop and brings the essentials with zero fuss. Hands-free. Head-turning. Surprisingly useful.",
+   "google_tag_manager_keys": [
+    "GTM-PTRFZ24",
+    "AW-991876766",
+    "G-LRG2JKS805"
+   ],
+   "data_layer": [
+    {
+     "gtm.start": 1791230489401,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 3
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Mystery Blake Keychain – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g1$t0$j23$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "dl_user_data",
+     "event_id": "eC7vXj8Ql_E-APBzY429w",
+     "event_time": "2026-10-05T20:01:29.408Z",
+     "event_state": "OTHER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "visitor_type": "guest"
+     },
+     "cart_total": "0.00",
+     "ecommerce": {
+      "currencyCode": "USD",
+      "cart_contents": {
+       "products": []
+      }
+     },
+     "gtm.uniqueEventId": 50
+    },
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-991876766",
+     {}
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 54
+    },
+    {
+     "event": "dl_view_item",
+     "event_id": "GPaJFR-Y1XF_-noTcniD_",
+     "event_time": "2026-10-05T20:01:29.976Z",
+     "event_state": "OTHER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1"
+     },
+     "ecommerce": {
+      "currencyCode": "USD",
+      "detail": {
+       "actionField": {
+        "list": ""
+       },
+       "products": [
+        {
+         "id": "KC_mysterykit",
+         "name": "Mystery Blake Keychain",
+         "brand": "RAREFORM",
+         "category": "Blake Keychain",
+         "variant": "Default Title",
+         "price": "10.80",
+         "list": "",
+         "product_id": "7767717838890",
+         "variant_id": "43910282936362",
+         "compare_at_price": "18.00",
+         "image": "https://www.rareform.com/cdn/shop/files/KC-Mystery-Product_9143d57a-651d-4865-a63a-cca2cc57a88c.gif?v=1785951212"
+        }
+       ]
+      }
+     },
+     "gtm.uniqueEventId": 57
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 1,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230490934,
+     "gtm.timerElapsedTime": 1086,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 72
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 2,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230491856,
+     "gtm.timerElapsedTime": 2008,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 73
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 74
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 3,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230492863,
+     "gtm.timerElapsedTime": 3015,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 75
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 4,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230493850,
+     "gtm.timerElapsedTime": 4002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 76
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 5,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230494856,
+     "gtm.timerElapsedTime": 5008,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 77
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 6,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230495858,
+     "gtm.timerElapsedTime": 6010,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 78
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 7,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230496850,
+     "gtm.timerElapsedTime": 7002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 79
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 8,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230497849,
+     "gtm.timerElapsedTime": 8001,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 80
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 9,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230498850,
+     "gtm.timerElapsedTime": 9002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 81
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 298,
+     "gtm.timerEventNumber": 10,
+     "gtm.timerInterval": 1000,
+     "gtm.timerLimit": 10,
+     "gtm.timerStartTime": 1791230489848,
+     "gtm.timerCurrentTime": 1791230499850,
+     "gtm.timerElapsedTime": 10002,
+     "gtm.triggers": "32699077_219",
+     "gtm.uniqueEventId": 82
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 50,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "32699077_432,32699077_471",
+     "gtm.uniqueEventId": 83
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "70,32699077_390",
+     "gtm.uniqueEventId": 84
+    },
+    {
+     "event": "gtm.click",
+     "gtm.elementClasses": "",
+     "gtm.elementId": "",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49",
+     "gtm.elementUrl": "",
+     "gtm.uniqueEventId": 85
+    },
+    {
+     "event": "dl_add_to_cart",
+     "event_id": "V8ITOAeBjyWJMul3vsnQj",
+     "event_time": "2026-10-05T20:01:48.486Z",
+     "event_state": "OTHER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1"
+     },
+     "ecommerce": {
+      "currencyCode": "USD",
+      "add": {
+       "actionField": {
+        "list": ""
+       },
+       "products": [
+        {
+         "id": "KC_mysterykit",
+         "name": "Mystery Blake Keychain",
+         "brand": "RAREFORM",
+         "category": "Blake Keychain",
+         "variant": "Default Title",
+         "price": "10.80",
+         "quantity": "1",
+         "list": "",
+         "product_id": "7767717838890",
+         "variant_id": "43910282936362",
+         "compare_at_price": "18.00",
+         "image": "https://www.rareform.com/cdn/shop/files/KC-Mystery-Product_9143d57a-651d-4865-a63a-cca2cc57a88c.gif?v=1785951212",
+         "url": "https://www.rareform.com/products/mystery-blake-keychain?variant=43910282936362"
+        }
+       ]
+      }
+     },
+     "gtm.uniqueEventId": 86
+    },
+    [
+     "event",
+     "conversion",
+     {
+      "send_to": "AW-991876766/vnKYCL2r-eYcEJ6t-9gD",
+      "transaction_id": "V8ITOAeBjyWJMul3vsnQj",
+      "currency": "USD",
+      "value": 10.8
+     }
+    ],
+    {
+     "event_id": "cj8LmlZ2FqljhmjsT036b",
+     "event_time": "2026-10-05T20:01:48.487Z",
+     "event_state": "OTHER",
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1"
+     },
+     "ecommerce": {
+      "cart_contents": {
+       "products": [
+        {
+         "id": "KC_mysterykit",
+         "name": "Mystery Blake Keychain",
+         "brand": "RAREFORM",
+         "category": "Blake Keychain",
+         "variant": "Default Title",
+         "price": "10.80",
+         "quantity": "1",
+         "list": "",
+         "product_id": "7767717838890",
+         "variant_id": "43910282936362",
+         "compare_at_price": "18.00",
+         "image": "https://www.rareform.com/cdn/shop/files/KC-Mystery-Product_9143d57a-651d-4865-a63a-cca2cc57a88c.gif?v=1785951212"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Mystery Blake Keychain – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g1$t0$j3$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    },
+    {
+     "event": "gtm.timer",
+     "gtm.timerId": 348,
+     "gtm.timerEventNumber": 1,
+     "gtm.timerInterval": 20000,
+     "gtm.timerLimit": 1,
+     "gtm.timerStartTime": 1791230489856,
+     "gtm.timerCurrentTime": 1791230509862,
+     "gtm.timerElapsedTime": 20006,
+     "gtm.triggers": "32699077_507",
+     "gtm.uniqueEventId": 99
+    },
+    {
+     "user_properties": {
+      "session_id": "1791230451",
+      "session_count": "1",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW"
+     },
+     "device": {
+      "screen_resolution": "1440x900",
+      "viewport_size": "1440x900",
+      "encoding": "UTF-8",
+      "language": "en-US",
+      "colors": "24-bit"
+     },
+     "page": {
+      "title": "Mystery Blake Keychain – Rareform",
+      "raw_referrer": ""
+     },
+     "marketing": {
+      "_fbp": "fb.1.1791222451348.4439646081",
+      "_ttp": "01M46TF63K12905NQX0C40YW81_.tt.0.1791230449779",
+      "_ga": "GA1.1.20302231.1791230452",
+      "_scid": "FTawerLMqXdgaCK-FQFYHChLfAPMoZyo",
+      "_ga_LRG2JKS805": "GS2.1.s1791230451$o1$g1$t0$j2$l1$h1786571387",
+      "user_id": "aEq5nth15CJc5ZmAQOKZW",
+      "session_id": "1791230451",
+      "session_count": "1",
+      "session_landing_page_url": "https://www.rareform.com/",
+      "session_landing_page_title": "Upcycled bags and accessories | RAREFORM – Rareform",
+      "market_id": "8519745578",
+      "locale_country_code": "US"
+     },
+     "_elevar_internal": {
+      "isElevarContextPush": true
+     }
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": null,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": null,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": null,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": null,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "rareform.myshopify.com",
+    "theme": {
+     "name": "Copy of Copy of June 2026",
+     "id": 148727889962,
+     "schema_name": "Domaine Studio"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7767717838890,
+     "gid": "gid://shopify/Product/7767717838890",
+     "vendor": "RAREFORM",
+     "type": "Blake Keychain",
+     "handle": "mystery-blake-keychain",
+     "variants": [
+      {
+       "id": 43910282936362,
+       "price": 1080,
+       "name": "Mystery Blake Keychain",
+       "public_title": null,
+       "sku": "KC_mysterykit"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7767717838890,
+     "requestId": "798e35ce-bb22-4034-9534-e906f0771e35-1791230487"
+    }
+   },
+   "globals": [
+    "fbq",
+    "ttq",
+    "snaptr",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "clarity",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  }
+ },
+ "log": [
+  "loading https://www.rareform.com",
+  "container GTM-PTRFZ24 captured (562 KB) from www.googletagmanager.com [initial]",
+  "container AW-991876766 captured (481 KB) from www.googletagmanager.com [initial]",
+  "container G-LRG2JKS805 captured (575 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://www.rareform.com/products/mystery-blake-keychain",
+  "add-to-cart clicked"
+ ]
+}

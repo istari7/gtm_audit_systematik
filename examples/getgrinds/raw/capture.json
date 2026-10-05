@@ -1,0 +1,1234 @@
+{
+ "slug": "getgrinds",
+ "url": "https://www.getgrinds.com/",
+ "profile": {
+  "fresh": true,
+  "returning_visit": true,
+  "stored_cookies": [
+   "__apex_test__",
+   "localization",
+   "cart_currency",
+   "_vwo_uuid_v2",
+   "_ga",
+   "_gcl_au",
+   "_fbp",
+   "ugc_vid_3d6701f7-78e6-44ea-a43d-217ebaa795a9",
+   "integration",
+   "__kla_id",
+   "shopify_client_id",
+   "_gegeo",
+   "_geuid",
+   "_lc2_fpi",
+   "_ju_dm",
+   "_ju_dn",
+   "_ps_session",
+   "_ps_site_visit",
+   "_ju_dc",
+   "avada_cookie_consent",
+   "_hjSessionUser_2904192",
+   "cart",
+   "yotpo_pixel",
+   "_geffran",
+   "_ps_session_site_visit",
+   "_ttp",
+   "_shopify_essential",
+   "_shopify_analytics",
+   "_shopify_marketing",
+   "_geran",
+   "_getdran",
+   "_gelisha",
+   "_gers",
+   "__apex_test__",
+   "_uetsid",
+   "_gecntaos",
+   "_uetvid",
+   "_reidsn",
+   "_geffresponse",
+   "ttcsid_CPCCI03C77U544412G90"
+  ]
+ },
+ "started": "2026-10-05T19:58:48.290550+00:00",
+ "bot_wall": false,
+ "final_url": "https://www.getgrinds.com/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://www.getgrinds.com/products/zero-pouches-caramel-apple",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "__apex_test__",
+  "__kla_id",
+  "_fbp",
+  "_ga",
+  "_ga_3F0KB1R8FY",
+  "_ga_8T9FVLXPLP",
+  "_gcl_au",
+  "_gecntaos",
+  "_geffran",
+  "_geffresponse",
+  "_gegeo",
+  "_geklidran",
+  "_gelisha",
+  "_geppv",
+  "_geran",
+  "_gers",
+  "_getdran",
+  "_geuid",
+  "_hjSessionUser_2904192",
+  "_hjSession_2904192",
+  "_ju_dc",
+  "_ju_dm",
+  "_ju_dn",
+  "_ju_pn",
+  "_ju_v",
+  "_lc2_fpi",
+  "_ps_session",
+  "_ps_session_site_visit",
+  "_ps_site_visit",
+  "_reidsn",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_sp_id.2f30",
+  "_sp_ses.2f30",
+  "_ttp",
+  "_uetsid",
+  "_uetvid",
+  "_vwo_uuid_v2",
+  "avada_cookie_consent",
+  "cart",
+  "cart_currency",
+  "integration",
+  "localization",
+  "shopify_client_id",
+  "ttcsid",
+  "ttcsid_CPCCI03C77U544412G90",
+  "ugc_vid_3d6701f7-78e6-44ea-a43d-217ebaa795a9",
+  "yotpo_pixel"
+ ],
+ "finished": "2026-10-05T20:00:39.460243+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "advertising": [
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Meta Pixel",
+    "Microsoft Ads (UET)",
+    "TikTok Pixel"
+   ],
+   "ecommerce-app": [
+    "Recharge",
+    "Skio"
+   ],
+   "tms": [
+    "Google Tag Manager",
+    "Google tag (gtag.js)"
+   ],
+   "support": [
+    "Zendesk"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "email-sms": [
+    "Justuno",
+    "Klaviyo",
+    "Postscript"
+   ],
+   "session-replay": [
+    "Hotjar"
+   ],
+   "experimentation": [
+    "VWO"
+   ],
+   "reviews-loyalty": [
+    "Yotpo"
+   ],
+   "affiliate": [
+    "Rakuten Advertising"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "AW-656475018",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-656475018",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 476.7
+  },
+  {
+   "id": "AW-1025544380",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-1025544380",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 481.1
+  },
+  {
+   "id": "GTM-5S6NX9",
+   "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5S6NX9",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 437.7
+  },
+  {
+   "id": "G-3F0KB1R8FY",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-3F0KB1R8FY",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 590.4
+  },
+  {
+   "id": "G-8T9FVLXPLP",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-8T9FVLXPLP&cx=c&gtm=4e6a21h2",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 529.9
+  }
+ ],
+ "request_count": 1804,
+ "snapshots": {
+  "initial": {
+   "url": "https://www.getgrinds.com/",
+   "title": "Grinds Coffee Pouches – Grinds Coffee Pouches",
+   "site_name": "Grinds Coffee Pouches ",
+   "description": "Grinds Coffee Pouches. The Tobacco Alternative & Energy Product Designed For Major League Baseball.",
+   "google_tag_manager_keys": [
+    "AW-656475018",
+    "AW-1025544380",
+    "GTM-5S6NX9",
+    "G-3F0KB1R8FY",
+    "G-8T9FVLXPLP"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-656475018"
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1025544380"
+    ],
+    {
+     "gtm.start": 1791230333452,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 9
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-3F0KB1R8FY",
+     {
+      "send_page_view": false
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 15
+    },
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-3F0KB1R8FY",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da5d656-F7CF-4910-DB1E-260D365977DB",
+      "ext_client_id": "shp.84dbedf2-135a-4ea6-b41f-d3b0c46edab1",
+      "page_path": "/",
+      "page_title": "Grinds Coffee Pouches – Grinds Coffee Pouches",
+      "page_location": "https://www.getgrinds.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "getgrinds.myshopify.com",
+    "theme": {
+     "name": "[PROD] Theory (23/9/2026) - Consolidation Updates",
+     "id": 144892362823,
+     "schema_name": "GetGrinds Horizon"
+    },
+    "currency": "USD",
+    "country": "IN",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "ce64549f-2add-40b4-83c9-d71a3198b5ca-1791230332"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "hj",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  },
+  "reload": {
+   "url": "https://www.getgrinds.com/",
+   "title": "Grinds Coffee Pouches – Grinds Coffee Pouches",
+   "site_name": "Grinds Coffee Pouches ",
+   "description": "Grinds Coffee Pouches. The Tobacco Alternative & Energy Product Designed For Major League Baseball.",
+   "google_tag_manager_keys": [
+    "AW-656475018",
+    "AW-1025544380",
+    "GTM-5S6NX9",
+    "G-8T9FVLXPLP",
+    "G-3F0KB1R8FY"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-656475018"
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1025544380"
+    ],
+    {
+     "gtm.start": 1791230363116,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 9
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-3F0KB1R8FY",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-3F0KB1R8FY",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da649e2-930E-4AFE-AD4E-79A53F08C6CF",
+      "ext_client_id": "shp.84dbedf2-135a-4ea6-b41f-d3b0c46edab1",
+      "page_path": "/",
+      "page_title": "Grinds Coffee Pouches – Grinds Coffee Pouches",
+      "page_location": "https://www.getgrinds.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 36
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "33",
+     "gtm.uniqueEventId": 37
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 38
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 10,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 39
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 20,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 40
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 30,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 41
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 40,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 42
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 50,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 43
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 60,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 44
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 70,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 45
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 80,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 46
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 47
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 100,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 48
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "getgrinds.myshopify.com",
+    "theme": {
+     "name": "[PROD] Theory (23/9/2026) - Consolidation Updates",
+     "id": 144892362823,
+     "schema_name": "GetGrinds Horizon"
+    },
+    "currency": "USD",
+    "country": "IN",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "ce64549f-2add-40b4-83c9-d71a3198b5ca-1791230332"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "hj",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  },
+  "pdp": {
+   "url": "https://www.getgrinds.com/products/zero-pouches-caramel-apple",
+   "title": "Grinds Caramel Apple | Flavored Pouches | #1 Alternative Pouch Brand – Grinds Coffee Pouches",
+   "site_name": "Grinds Coffee Pouches ",
+   "description": "Grinds Pouches – Long lasting flavor anytime, anywhere. Sweet caramel and crisp apple flavor in every pouch. Shop now and fuel your grind.",
+   "google_tag_manager_keys": [
+    "AW-656475018",
+    "AW-1025544380",
+    "GTM-5S6NX9",
+    "G-3F0KB1R8FY",
+    "G-8T9FVLXPLP"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-656475018"
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1025544380"
+    ],
+    {
+     "gtm.start": 1791230388127,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 9
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-3F0KB1R8FY",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-3F0KB1R8FY",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6abaf-633D-4427-E6DE-E85FA0285C66",
+      "ext_client_id": "shp.84dbedf2-135a-4ea6-b41f-d3b0c46edab1",
+      "page_path": "/products/zero-pouches-caramel-apple",
+      "page_title": "Grinds Caramel Apple | Flavored Pouches | #1 Alternative Pouch Brand – Grinds Coffee Pouches",
+      "page_location": "https://www.getgrinds.com/products/zero-pouches-caramel-apple",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": "G-3F0KB1R8FY",
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6abdb-EE81-4620-C25C-A247500CBF5A",
+      "ext_client_id": "shp.84dbedf2-135a-4ea6-b41f-d3b0c46edab1",
+      "ecomm_prodid": [
+       "shopify_US_7323284602951_42129493262407"
+      ],
+      "ecomm_totalvalue": 7.95,
+      "ecomm_pagetype": "product",
+      "value": 7.95,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7323284602951_42129493262407",
+        "name": "Caramel Apple",
+        "brand": "Grinds Coffee Pouches",
+        "category": "Energy Pouch",
+        "price": 7.95,
+        "variant": "1 CAN",
+        "quantity": 1,
+        "sku": "WPCAP-01-ZRO",
+        "variant_id": "42129493262407"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 17
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "getgrinds.myshopify.com",
+    "theme": {
+     "name": "[PROD] Theory (23/9/2026) - Consolidation Updates",
+     "id": 144892362823,
+     "schema_name": "GetGrinds Horizon"
+    },
+    "currency": "USD",
+    "country": "IN",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7323284602951,
+     "gid": "gid://shopify/Product/7323284602951",
+     "vendor": "Grinds Coffee Pouches",
+     "type": "Energy Pouch",
+     "handle": "zero-pouches-caramel-apple",
+     "variants": [
+      {
+       "id": 42129493262407,
+       "price": 795,
+       "name": "Caramel Apple - 1 CAN",
+       "public_title": "1 CAN",
+       "sku": "WPCAP-01-ZRO"
+      },
+      {
+       "id": 42129493295175,
+       "price": 1895,
+       "name": "Caramel Apple - 3 CANS",
+       "public_title": "3 CANS",
+       "sku": "WPCAP-03-ZRO"
+      },
+      {
+       "id": 43214634188871,
+       "price": 3695,
+       "name": "Caramel Apple - 6 CANS",
+       "public_title": "6 CANS",
+       "sku": "WPCAP-06-ZRO"
+      },
+      {
+       "id": 43214634221639,
+       "price": 5495,
+       "name": "Caramel Apple - 10 CANS",
+       "public_title": "10 CANS",
+       "sku": "WPCAP-10-ZRO"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7323284602951,
+     "requestId": "b5702733-cea4-4055-a09e-05e20fda780b-1791230387"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "hj",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  },
+  "atc": {
+   "url": "https://www.getgrinds.com/products/zero-pouches-caramel-apple",
+   "title": "Grinds Caramel Apple | Flavored Pouches | #1 Alternative Pouch Brand – Grinds Coffee Pouches",
+   "site_name": "Grinds Coffee Pouches ",
+   "description": "Grinds Pouches – Long lasting flavor anytime, anywhere. Sweet caramel and crisp apple flavor in every pouch. Shop now and fuel your grind.",
+   "google_tag_manager_keys": [
+    "AW-656475018",
+    "AW-1025544380",
+    "GTM-5S6NX9",
+    "G-3F0KB1R8FY",
+    "G-8T9FVLXPLP"
+   ],
+   "data_layer": [
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-656475018"
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1025544380"
+    ],
+    {
+     "gtm.start": 1791230388127,
+     "event": "gtm.js",
+     "gtm.uniqueEventId": 9
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-3F0KB1R8FY",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "G-3F0KB1R8FY",
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6abaf-633D-4427-E6DE-E85FA0285C66",
+      "ext_client_id": "shp.84dbedf2-135a-4ea6-b41f-d3b0c46edab1",
+      "page_path": "/products/zero-pouches-caramel-apple",
+      "page_title": "Grinds Caramel Apple | Flavored Pouches | #1 Alternative Pouch Brand – Grinds Coffee Pouches",
+      "page_location": "https://www.getgrinds.com/products/zero-pouches-caramel-apple",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": "G-3F0KB1R8FY",
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6abdb-EE81-4620-C25C-A247500CBF5A",
+      "ext_client_id": "shp.84dbedf2-135a-4ea6-b41f-d3b0c46edab1",
+      "ecomm_prodid": [
+       "shopify_US_7323284602951_42129493262407"
+      ],
+      "ecomm_totalvalue": 7.95,
+      "ecomm_pagetype": "product",
+      "value": 7.95,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7323284602951_42129493262407",
+        "name": "Caramel Apple",
+        "brand": "Grinds Coffee Pouches",
+        "category": "Energy Pouch",
+        "price": 7.95,
+        "variant": "1 CAN",
+        "quantity": 1,
+        "sku": "WPCAP-01-ZRO",
+        "variant_id": "42129493262407"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 17
+    },
+    {
+     "event": "gtm.click",
+     "gtm.elementClasses": "product__cta-text",
+     "gtm.elementId": "",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "20,21,22,23,24,25,26,27,28,29,30",
+     "gtm.elementUrl": "",
+     "gtm.uniqueEventId": 38
+    },
+    {
+     "event": "gtm.formSubmit",
+     "gtm.elementClasses": "td-product__form",
+     "gtm.elementId": "",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "5,19,33",
+     "gtm.elementUrl": "https://www.getgrinds.com/cart/add",
+     "gtm.formCanceled": true,
+     "eventTimeout": 2000,
+     "gtm.uniqueEventId": 39
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 40
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 10,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 41
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 20,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 42
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 30,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 43
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 40,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 44
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 50,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 45
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 60,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 46
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 70,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 47
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 80,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "2644042_32",
+     "gtm.uniqueEventId": 48
+    },
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": "G-3F0KB1R8FY",
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da76851-CCBC-4A5D-0BF3-93DEE33236B0",
+      "ext_client_id": "shp.84dbedf2-135a-4ea6-b41f-d3b0c46edab1",
+      "ecomm_prodid": [
+       "shopify_US_7323284602951_42129493262407"
+      ],
+      "ecomm_totalvalue": 7.95,
+      "ecomm_pagetype": "cart",
+      "value": 7.95,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7323284602951_42129493262407",
+        "name": "Caramel Apple",
+        "brand": "Grinds Coffee Pouches",
+        "category": "Energy Pouch",
+        "price": 7.95,
+        "quantity": 1,
+        "variant": "1 CAN",
+        "variant_id": "42129493262407",
+        "sku": "WPCAP-01-ZRO"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "getgrinds.myshopify.com",
+    "theme": {
+     "name": "[PROD] Theory (23/9/2026) - Consolidation Updates",
+     "id": 144892362823,
+     "schema_name": "GetGrinds Horizon"
+    },
+    "currency": "USD",
+    "country": "IN",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7323284602951,
+     "gid": "gid://shopify/Product/7323284602951",
+     "vendor": "Grinds Coffee Pouches",
+     "type": "Energy Pouch",
+     "handle": "zero-pouches-caramel-apple",
+     "variants": [
+      {
+       "id": 42129493262407,
+       "price": 795,
+       "name": "Caramel Apple - 1 CAN",
+       "public_title": "1 CAN",
+       "sku": "WPCAP-01-ZRO"
+      },
+      {
+       "id": 42129493295175,
+       "price": 1895,
+       "name": "Caramel Apple - 3 CANS",
+       "public_title": "3 CANS",
+       "sku": "WPCAP-03-ZRO"
+      },
+      {
+       "id": 43214634188871,
+       "price": 3695,
+       "name": "Caramel Apple - 6 CANS",
+       "public_title": "6 CANS",
+       "sku": "WPCAP-06-ZRO"
+      },
+      {
+       "id": 43214634221639,
+       "price": 5495,
+       "name": "Caramel Apple - 10 CANS",
+       "public_title": "10 CANS",
+       "sku": "WPCAP-10-ZRO"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7323284602951,
+     "requestId": "b5702733-cea4-4055-a09e-05e20fda780b-1791230387"
+    },
+    "selectedVariantId": "42129493262407"
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "hj",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "yotpo"
+   ]
+  }
+ },
+ "log": [
+  "returning visit: 44 stored cookie(s) from the persistent profile (pre-consent phase reflects stored consent; use --fresh for a first-visit capture)",
+  "container GTM-5S6NX9 captured (438 KB) from www.googletagmanager.com [initial]",
+  "container AW-656475018 captured (477 KB) from www.googletagmanager.com [initial]",
+  "container AW-1025544380 captured (481 KB) from www.googletagmanager.com [initial]",
+  "container G-3F0KB1R8FY captured (590 KB) from www.googletagmanager.com [initial]",
+  "container G-8T9FVLXPLP captured (530 KB) from www.googletagmanager.com [initial]",
+  "loading https://www.getgrinds.com/",
+  "container AW-656475018 captured (477 KB) from www.googletagmanager.com [initial]",
+  "container AW-1025544380 captured (481 KB) from www.googletagmanager.com [initial]",
+  "container GTM-5S6NX9 captured (438 KB) from www.googletagmanager.com [initial]",
+  "container G-3F0KB1R8FY captured (590 KB) from www.googletagmanager.com [initial]",
+  "container G-8T9FVLXPLP captured (530 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://www.getgrinds.com/products/zero-pouches-caramel-apple",
+  "add-to-cart clicked"
+ ]
+}

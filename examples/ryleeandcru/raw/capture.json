@@ -1,0 +1,1123 @@
+{
+ "slug": "ryleeandcru",
+ "url": "https://ryleeandcru.com",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:02:24.929140+00:00",
+ "bot_wall": false,
+ "final_url": "https://ryleeandcru.com/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://ryleeandcru.com/products/ribbed-long-sleeve-rosewood",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "Shoplift_Analytics",
+  "Shoplift_Essential",
+  "Shoplift_Session",
+  "__cf_bm",
+  "__kla_id",
+  "__obref",
+  "__uidcei",
+  "_aa4",
+  "_aa6",
+  "_aid",
+  "_ax_last_event",
+  "_ax_session_data",
+  "_axwrt",
+  "_fbp",
+  "_ga",
+  "_ga_HBWSELGGYD",
+  "_gbsess",
+  "_gcl_au",
+  "_gecntaos",
+  "_gegeo",
+  "_gemark",
+  "_gepix",
+  "_geppv",
+  "_geran",
+  "_gers",
+  "_getdran",
+  "_geuid",
+  "_heatIdvUpdated_4080",
+  "_heatVid_4080",
+  "_kc_session_token",
+  "_lc2_fpi",
+  "_lc2_fpi_js",
+  "_li_dcdm_c",
+  "_li_ss",
+  "_pin_unauth",
+  "_pk_id.4080.cnlsZWVh",
+  "_reidsn",
+  "_rsession",
+  "_ruid",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_ttp",
+  "alia-jwt",
+  "ax_visitor",
+  "baMet_visit",
+  "cart",
+  "cart_currency",
+  "cf_clearance",
+  "ede-c",
+  "ede-expid",
+  "ede-expvar",
+  "ede-i",
+  "ede-p",
+  "ede-r",
+  "ede-s",
+  "hm_source",
+  "lantern",
+  "localization",
+  "mmuid",
+  "osid",
+  "pdp_brand",
+  "rp_customer_id",
+  "rp_email",
+  "rp_firstName",
+  "rp_fk",
+  "rp_lastName",
+  "rpdid",
+  "rpsid",
+  "rptkn",
+  "shopify_client_id",
+  "st_anonymous_id",
+  "st_fbp",
+  "st_ga",
+  "st_gcl_au",
+  "st_last_activity",
+  "st_session",
+  "st_ttp",
+  "ttcsid",
+  "ttcsid_CA8LEBRC77U9DD756IEG",
+  "ugc_vid_694c8e15-9a66-46b1-8231-9c057a1f928b",
+  "vUUID_4080"
+ ],
+ "unpublished_containers": [
+  "GTM-5FWVZL4K"
+ ],
+ "finished": "2026-10-05T20:05:00.250620+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "consent": [
+    "Enzuzo"
+   ],
+   "email-sms": [
+    "Klaviyo"
+   ],
+   "reviews-loyalty": [
+    "Foursixty",
+    "Okendo"
+   ],
+   "advertising": [
+    "AppLovin",
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Meta Pixel",
+    "Microsoft Ads (UET)",
+    "Pinterest Tag",
+    "TikTok Pixel"
+   ],
+   "tms": [
+    "Google Tag Manager",
+    "Google tag (gtag.js)"
+   ],
+   "affiliate": [
+    "Awin"
+   ],
+   "experimentation": [
+    "Rebuy",
+    "Shoplift"
+   ],
+   "support": [
+    "Richpanel"
+   ],
+   "monitoring": [
+    "Datadog",
+    "Sentry"
+   ],
+   "payments": [
+    "PayPal"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "AW-815119061",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-815119061",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 491.6
+  },
+  {
+   "id": "G-HBWSELGGYD",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-HBWSELGGYD",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 574.8
+  }
+ ],
+ "request_count": 3693,
+ "snapshots": {
+  "initial": {
+   "url": "https://ryleeandcru.com/",
+   "title": "Rylee + Cru | Artistic and imaginative clothing for the modern child",
+   "site_name": "Rylee + Cru",
+   "description": "A children’s line founded by illustrator Kelli Murray and inspired by her own little ones. Rylee + Cru merges art and imagination, offering unique and artistic clothing for the modern child",
+   "google_tag_manager_keys": [
+    "G-HBWSELGGYD",
+    "AW-815119061"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "update",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied",
+      "analytics_storage": "granted",
+      "personalization_storage": "granted"
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-HBWSELGGYD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-815119061",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-HBWSELGGYD",
+       "AW-815119061/L-AUCPP4_7EBENX11oQD",
+       "AW-815119061/h5VLCOLU76gaENX11oQD",
+       "AW-815119061"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da948f3-3499-4EDB-00C9-08197D63F6FC",
+      "ext_client_id": "shp.cc23ab4f-fd8e-42cc-ac7f-dc09a95e6517",
+      "page_path": "/",
+      "page_title": "Rylee + Cru | Artistic and imaginative clothing for the modern child",
+      "page_location": "https://ryleeandcru.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 15
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 19
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "ryleeandcru.myshopify.com",
+    "theme": {
+     "name": "RC AW26 D3 Staging",
+     "id": 160957726767,
+     "schema_name": "Rylee + Cru Collective"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "037da5d7-c891-4ebb-b761-e83d545bb2ad-1791230039"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "reload": {
+   "url": "https://ryleeandcru.com/",
+   "title": "Rylee + Cru | Artistic and imaginative clothing for the modern child",
+   "site_name": "Rylee + Cru",
+   "description": "A children’s line founded by illustrator Kelli Murray and inspired by her own little ones. Rylee + Cru merges art and imagination, offering unique and artistic clothing for the modern child",
+   "google_tag_manager_keys": [
+    "G-HBWSELGGYD",
+    "AW-815119061"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "update",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied",
+      "analytics_storage": "granted",
+      "personalization_storage": "granted"
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-HBWSELGGYD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-815119061",
+     {
+      "send_page_view": false
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 17
+    },
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-HBWSELGGYD",
+       "AW-815119061/L-AUCPP4_7EBENX11oQD",
+       "AW-815119061/h5VLCOLU76gaENX11oQD",
+       "AW-815119061"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da9fa98-6523-4AEB-3A42-740E7130687E",
+      "ext_client_id": "shp.cc23ab4f-fd8e-42cc-ac7f-dc09a95e6517",
+      "page_path": "/",
+      "page_title": "Rylee + Cru | Artistic and imaginative clothing for the modern child",
+      "page_location": "https://ryleeandcru.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 19
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "ryleeandcru.myshopify.com",
+    "theme": {
+     "name": "RC AW26 D3 Staging",
+     "id": 160957726767,
+     "schema_name": "Rylee + Cru Collective"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "037da5d7-c891-4ebb-b761-e83d545bb2ad-1791230039"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "pdp": {
+   "url": "https://ryleeandcru.com/products/ribbed-long-sleeve-rosewood",
+   "title": "Ribbed Long Sleeve Rosewood – Rylee + Cru",
+   "site_name": "Rylee + Cru",
+   "description": "Ribbed Long Sleeve Top with a delicate lettuce-edge hem, lace-trimmed neckline, and a charming satin bow for a sweet, feminine touch.Featuring our warm 'rosewood' hue.Care: Machine wash cold. Tumble dry low.Made from 95% cotton, 5% elastane for soft, stretchy comfort.",
+   "google_tag_manager_keys": [
+    "G-HBWSELGGYD",
+    "AW-815119061"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "update",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied",
+      "analytics_storage": "granted",
+      "personalization_storage": "granted"
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-HBWSELGGYD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-815119061",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-HBWSELGGYD",
+       "AW-815119061/L-AUCPP4_7EBENX11oQD",
+       "AW-815119061/h5VLCOLU76gaENX11oQD",
+       "AW-815119061"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa8297-E0FF-4306-FB9C-FB6741BFAE1B",
+      "ext_client_id": "shp.cc23ab4f-fd8e-42cc-ac7f-dc09a95e6517",
+      "page_path": "/products/ribbed-long-sleeve-rosewood",
+      "page_title": "Ribbed Long Sleeve Rosewood – Rylee + Cru",
+      "page_location": "https://ryleeandcru.com/products/ribbed-long-sleeve-rosewood",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-HBWSELGGYD",
+       "AW-815119061/VBMRCPn4_7EBENX11oQD",
+       "AW-815119061"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa84e2-5E3C-493C-1AAF-51C99F302B5C",
+      "ext_client_id": "shp.cc23ab4f-fd8e-42cc-ac7f-dc09a95e6517",
+      "ecomm_prodid": [
+       "shopify_US_8326356303919_45540640915503"
+      ],
+      "ecomm_totalvalue": 39,
+      "ecomm_pagetype": "product",
+      "value": 39,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_8326356303919_45540640915503",
+        "name": "Ribbed Long Sleeve Rosewood",
+        "brand": "Rylee + Cru",
+        "category": "tops",
+        "price": 39,
+        "variant": "2-3Y",
+        "quantity": 1,
+        "sku": "RC907NDRE-2-3Y",
+        "variant_id": "45540640915503"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 21
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 22
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "10",
+     "gtm.uniqueEventId": 23
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": true
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": true
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": true
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": true
+    }
+   },
+   "shopify": {
+    "shop": "ryleeandcru.myshopify.com",
+    "theme": {
+     "name": "RC AW26 D3 Staging",
+     "id": 160957726767,
+     "schema_name": "Rylee + Cru Collective"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 8326356303919,
+     "gid": "gid://shopify/Product/8326356303919",
+     "vendor": "Rylee + Cru",
+     "type": "tops",
+     "handle": "ribbed-long-sleeve-rosewood",
+     "variants": [
+      {
+       "id": 45540640915503,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 2-3Y",
+       "public_title": "2-3Y",
+       "sku": "RC907NDRE-2-3Y"
+      },
+      {
+       "id": 45540640948271,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 4-5Y",
+       "public_title": "4-5Y",
+       "sku": "RC907NDRE-4-5Y"
+      },
+      {
+       "id": 45540640981039,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 6-7Y",
+       "public_title": "6-7Y",
+       "sku": "RC907NDRE-6-7Y"
+      },
+      {
+       "id": 45540641013807,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 8-9Y",
+       "public_title": "8-9Y",
+       "sku": "RC907NDRE-8-9Y"
+      },
+      {
+       "id": 45540641046575,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 10-11Y",
+       "public_title": "10-11Y",
+       "sku": "RC907NDRE-10-11Y"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 8326356303919,
+     "requestId": "675e821b-a0bb-49a7-a0e4-16166149b7f8-1791216550"
+    },
+    "selectedVariantId": "45540640915503"
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "atc": {
+   "url": "https://ryleeandcru.com/products/ribbed-long-sleeve-rosewood",
+   "title": "Ribbed Long Sleeve Rosewood – Rylee + Cru",
+   "site_name": "Rylee + Cru",
+   "description": "Ribbed Long Sleeve Top with a delicate lettuce-edge hem, lace-trimmed neckline, and a charming satin bow for a sweet, feminine touch.Featuring our warm 'rosewood' hue.Care: Machine wash cold. Tumble dry low.Made from 95% cotton, 5% elastane for soft, stretchy comfort.",
+   "google_tag_manager_keys": [
+    "G-HBWSELGGYD",
+    "AW-815119061"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "update",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "denied",
+      "ad_personalization": "denied",
+      "analytics_storage": "granted",
+      "personalization_storage": "granted"
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-HBWSELGGYD",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-815119061",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "consent",
+     "update",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-HBWSELGGYD",
+       "AW-815119061/L-AUCPP4_7EBENX11oQD",
+       "AW-815119061/h5VLCOLU76gaENX11oQD",
+       "AW-815119061"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa8297-E0FF-4306-FB9C-FB6741BFAE1B",
+      "ext_client_id": "shp.cc23ab4f-fd8e-42cc-ac7f-dc09a95e6517",
+      "page_path": "/products/ribbed-long-sleeve-rosewood",
+      "page_title": "Ribbed Long Sleeve Rosewood – Rylee + Cru",
+      "page_location": "https://ryleeandcru.com/products/ribbed-long-sleeve-rosewood",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-HBWSELGGYD",
+       "AW-815119061/VBMRCPn4_7EBENX11oQD",
+       "AW-815119061"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa84e2-5E3C-493C-1AAF-51C99F302B5C",
+      "ext_client_id": "shp.cc23ab4f-fd8e-42cc-ac7f-dc09a95e6517",
+      "ecomm_prodid": [
+       "shopify_US_8326356303919_45540640915503"
+      ],
+      "ecomm_totalvalue": 39,
+      "ecomm_pagetype": "product",
+      "value": 39,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_8326356303919_45540640915503",
+        "name": "Ribbed Long Sleeve Rosewood",
+        "brand": "Rylee + Cru",
+        "category": "tops",
+        "price": 39,
+        "variant": "2-3Y",
+        "quantity": 1,
+        "sku": "RC907NDRE-2-3Y",
+        "variant_id": "45540640915503"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 21
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 22
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "10",
+     "gtm.uniqueEventId": 23
+    },
+    {
+     "event": "gtm.formSubmit",
+     "gtm.elementClasses": "form",
+     "gtm.elementId": "product-form-template--23033898762287__main",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "19",
+     "gtm.elementUrl": "https://ryleeandcru.com/cart/add",
+     "gtm.formCanceled": true,
+     "eventTimeout": 2000,
+     "gtm.uniqueEventId": 24
+    },
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": [
+       "G-HBWSELGGYD",
+       "AW-815119061/7qveCO_6_7EBENX11oQD",
+       "AW-815119061"
+      ],
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0dab7731-56FE-4098-9D23-BD58E59732D1",
+      "ext_client_id": "shp.cc23ab4f-fd8e-42cc-ac7f-dc09a95e6517",
+      "ecomm_prodid": [
+       "shopify_US_8326356303919_45540640915503"
+      ],
+      "ecomm_totalvalue": 39,
+      "ecomm_pagetype": "cart",
+      "value": 39,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_8326356303919_45540640915503",
+        "name": "Ribbed Long Sleeve Rosewood",
+        "brand": "Rylee + Cru",
+        "category": "tops",
+        "price": 39,
+        "quantity": 1,
+        "variant": "2-3Y",
+        "variant_id": "45540640915503",
+        "sku": "RC907NDRE-2-3Y"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": true
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": true
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": true
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": true
+    }
+   },
+   "shopify": {
+    "shop": "ryleeandcru.myshopify.com",
+    "theme": {
+     "name": "RC AW26 D3 Staging",
+     "id": 160957726767,
+     "schema_name": "Rylee + Cru Collective"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 8326356303919,
+     "gid": "gid://shopify/Product/8326356303919",
+     "vendor": "Rylee + Cru",
+     "type": "tops",
+     "handle": "ribbed-long-sleeve-rosewood",
+     "variants": [
+      {
+       "id": 45540640915503,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 2-3Y",
+       "public_title": "2-3Y",
+       "sku": "RC907NDRE-2-3Y"
+      },
+      {
+       "id": 45540640948271,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 4-5Y",
+       "public_title": "4-5Y",
+       "sku": "RC907NDRE-4-5Y"
+      },
+      {
+       "id": 45540640981039,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 6-7Y",
+       "public_title": "6-7Y",
+       "sku": "RC907NDRE-6-7Y"
+      },
+      {
+       "id": 45540641013807,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 8-9Y",
+       "public_title": "8-9Y",
+       "sku": "RC907NDRE-8-9Y"
+      },
+      {
+       "id": 45540641046575,
+       "price": 3900,
+       "name": "Ribbed Long Sleeve Rosewood - 10-11Y",
+       "public_title": "10-11Y",
+       "sku": "RC907NDRE-10-11Y"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 8326356303919,
+     "requestId": "675e821b-a0bb-49a7-a0e4-16166149b7f8-1791216550"
+    },
+    "selectedVariantId": "45540640915503"
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "TriplePixel",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  }
+ },
+ "log": [
+  "loading https://ryleeandcru.com",
+  "container AW-815119061 captured (492 KB) from www.googletagmanager.com [initial]",
+  "container G-HBWSELGGYD captured (575 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://ryleeandcru.com/products/ribbed-long-sleeve-rosewood",
+  "add-to-cart clicked",
+  "container GTM-5FWVZL4K is referenced but returns 404 (not published)"
+ ]
+}

@@ -1,0 +1,602 @@
+{
+ "exportFormatVersion": 2,
+ "exportTime": "2026-10-05 20:11:40",
+ "containerVersion": {
+  "path": "accounts/0/containers/0/versions/9",
+  "accountId": "0",
+  "containerId": "0",
+  "containerVersionId": "9",
+  "name": "Reconstructed from published GTM-PWXWHZZ v9",
+  "description": "Reconstructed from the public gtm.js by the tracking-audit skill. Names, folders and notes are not published and were generated; custom template source is not included.",
+  "container": {
+   "accountId": "0",
+   "containerId": "0",
+   "name": "GTM-PWXWHZZ (reconstructed)",
+   "publicId": "GTM-PWXWHZZ",
+   "usageContext": [
+    "WEB"
+   ]
+  },
+  "tag": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "tagId": "3",
+    "name": "Google Tag (GA4/Ads config) #3",
+    "type": "googtag",
+    "parameter": [],
+    "firingTriggerId": [
+     "1"
+    ],
+    "tagFiringOption": "UNLIMITED",
+    "paused": true
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "tagId": "17",
+    "name": "Custom HTML #17",
+    "type": "html",
+    "parameter": [],
+    "firingTriggerId": [
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "tagFiringOption": "UNLIMITED",
+    "paused": true
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "tagId": "24",
+    "name": "Pinterest Tag - ADE #24",
+    "type": "pntr",
+    "parameter": [
+     {
+      "key": "setCustomParams",
+      "type": "BOOLEAN",
+      "value": "true"
+     },
+     {
+      "key": "tagId",
+      "type": "TEMPLATE",
+      "value": "{{Constant - 2614154625030}}"
+     },
+     {
+      "key": "values",
+      "type": "LIST",
+      "list": [
+       {
+        "type": "MAP",
+        "map": [
+         {
+          "key": "name",
+          "type": "TEMPLATE",
+          "value": "line_items"
+         },
+         {
+          "key": "value",
+          "type": "TEMPLATE",
+          "value": "{{DLV - pinterest_items}}"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "key": "em",
+      "type": "TEMPLATE",
+      "value": "{{Custom JavaScript 6}}"
+     },
+     {
+      "key": "setPdParams",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "eventName",
+      "type": "TEMPLATE",
+      "value": "ADE"
+     },
+     {
+      "key": "setOptOut",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "adeEventName",
+      "type": "TEMPLATE",
+      "value": "Swatch_Purchase"
+     }
+    ],
+    "firingTriggerId": [
+     "7"
+    ],
+    "tagFiringOption": "ONCE_PER_LOAD"
+   }
+  ],
+  "trigger": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "1",
+    "name": "Initialization #1",
+    "type": "INIT"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "2",
+    "name": "Custom Event - product_added_to_cart #2",
+    "type": "CUSTOM_EVENT",
+    "customEventFilter": [
+     {
+      "type": "EQUALS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Event}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "product_added_to_cart"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "3",
+    "name": "Custom Event - product_viewed #3",
+    "type": "CUSTOM_EVENT",
+    "customEventFilter": [
+     {
+      "type": "EQUALS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Event}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "product_viewed"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "4",
+    "name": "Custom Event - search_submitted #4",
+    "type": "CUSTOM_EVENT",
+    "customEventFilter": [
+     {
+      "type": "EQUALS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Event}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "search_submitted"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "5",
+    "name": "Custom Event - collection_viewed #5",
+    "type": "CUSTOM_EVENT",
+    "customEventFilter": [
+     {
+      "type": "EQUALS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Event}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "collection_viewed"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "6",
+    "name": "Custom Event - checkout_completed #6",
+    "type": "CUSTOM_EVENT",
+    "customEventFilter": [
+     {
+      "type": "EQUALS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Event}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "checkout_completed"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "triggerId": "7",
+    "name": "Custom Event - checkout_completed (filtered) #7",
+    "type": "CUSTOM_EVENT",
+    "customEventFilter": [
+     {
+      "type": "EQUALS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Event}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "checkout_completed"
+       }
+      ]
+     }
+    ],
+    "filter": [
+     {
+      "type": "CONTAINS",
+      "parameter": [
+       {
+        "key": "arg0",
+        "type": "TEMPLATE",
+        "value": "{{Custom JavaScript 2}}"
+       },
+       {
+        "key": "arg1",
+        "type": "TEMPLATE",
+        "value": "Swatch"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "variable": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "2",
+    "name": "DLV - pinterest_items",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_items"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "3",
+    "name": "Custom JavaScript 2",
+    "type": "jsm",
+    "parameter": [
+     {
+      "key": "javascript",
+      "type": "TEMPLATE",
+      "value": "(function(){var a={{DLV - pinterest_items}};return JSON.stringify(a)})();"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "4",
+    "name": "Constant - 2614154625030",
+    "type": "c",
+    "parameter": [
+     {
+      "key": "value",
+      "type": "TEMPLATE",
+      "value": "2614154625030"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "5",
+    "name": "DLV - pinterest_checkoutEmail",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_checkoutEmail"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "6",
+    "name": "DLV - pinterest_userEmail",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_userEmail"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "7",
+    "name": "Custom JavaScript 6",
+    "type": "jsm",
+    "parameter": [
+     {
+      "key": "javascript",
+      "type": "TEMPLATE",
+      "value": "(function(){var a={{DLV - pinterest_checkoutEmail}}||{{DLV - pinterest_userEmail}};return a})();"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "8",
+    "name": "DLV - pinterest_quantity",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_quantity"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "9",
+    "name": "DLV - pinterest_eventData",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_eventData"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "10",
+    "name": "DLV - pinterest_orderValue",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_orderValue"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "11",
+    "name": "DLV - event",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "event"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "12",
+    "name": "DLV - pinterest_order_id",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_order_id"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "13",
+    "name": "DLV - pinterest_currency",
+    "type": "v",
+    "parameter": [
+     {
+      "key": "dataLayerVersion",
+      "type": "INTEGER",
+      "value": "2"
+     },
+     {
+      "key": "setDefaultValue",
+      "type": "BOOLEAN",
+      "value": "false"
+     },
+     {
+      "key": "name",
+      "type": "TEMPLATE",
+      "value": "pinterest_currency"
+     }
+    ]
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "variableId": "17",
+    "name": "HTTP Referrer 16",
+    "type": "f",
+    "parameter": [
+     {
+      "key": "component",
+      "type": "TEMPLATE",
+      "value": "URL"
+     }
+    ]
+   }
+  ],
+  "builtInVariable": [
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "EVENT",
+    "name": "Event"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "PAGE_HOSTNAME",
+    "name": "Page Hostname"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "PAGE_PATH",
+    "name": "Page Path"
+   },
+   {
+    "accountId": "0",
+    "containerId": "0",
+    "type": "PAGE_URL",
+    "name": "Page URL"
+   }
+  ]
+ },
+ "reconstruction": {
+  "custom_templates_missing_source": [],
+  "listener_tags_folded": 0,
+  "counts": {
+   "tags": 3,
+   "triggers": 7,
+   "variables": 13,
+   "built_in_variables": 4
+  }
+ }
+}

@@ -1,0 +1,821 @@
+{
+ "slug": "slowtide",
+ "url": "https://slowtide.co",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:08:15.833969+00:00",
+ "bot_wall": false,
+ "final_url": "https://slowtide.co/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [
+    {
+     "tag": "cookie-banner",
+     "id": "CookieBanner",
+     "cls": "x-modal cookie-modal drawer z-35 fixed bottom-0 left-0 h-full w-full pointer-events-none",
+     "text": "WE USE COOKIES This site uses cookies for better user experience and analytics. Accept Decline",
+     "rect": [
+      0,
+      0,
+      1425,
+      900
+     ]
+    }
+   ],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "check_pdp": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "banner_scan",
+  "detail": "Accept"
+ },
+ "pdp_url": "https://slowtide.co/products/gatsby-towel-bundle-2-2-sequoia",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "__kla_id",
+  "_fbp",
+  "_ga",
+  "_ga_MH92TWQQW4",
+  "_ga_SQ90CKK1QF",
+  "_gcl_au",
+  "_pin_unauth",
+  "_rsession",
+  "_ruid",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_ttp",
+  "apay-session-set",
+  "beam_cart",
+  "beam_promo_codes",
+  "cart",
+  "cart_currency",
+  "geolizr_data",
+  "language",
+  "lantern",
+  "ledgerCurrency",
+  "localization",
+  "shopify_client_id"
+ ],
+ "finished": "2026-10-05T20:10:03.741047+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "advertising": [
+    "Google Ads",
+    "Google Merchant Center",
+    "Meta Pixel",
+    "Pinterest Tag",
+    "TikTok Pixel"
+   ],
+   "analytics": [
+    "Google Analytics 4"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "consent": [
+    "Shopify Privacy Banner"
+   ],
+   "email-sms": [
+    "Klaviyo"
+   ],
+   "tms": [
+    "Google tag (gtag.js)"
+   ],
+   "affiliate": [
+    "Awin",
+    "Impact",
+    "ShareASale"
+   ],
+   "experimentation": [
+    "Rebuy"
+   ],
+   "payments": [
+    "PayPal"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "GT-WF3BRKNB",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-WF3BRKNB",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9
+  },
+  {
+   "id": "G-SQ90CKK1QF",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-SQ90CKK1QF",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 599.9
+  }
+ ],
+ "request_count": 2070,
+ "snapshots": {
+  "initial": {
+   "url": "https://slowtide.co/",
+   "title": "Slowtide | Art Inspired Towels, Blankets & Changing Ponchos",
+   "site_name": "Slowtide",
+   "description": "Slowtide creates premium towels, blankets, and ponchos that combine art, performance, and purpose. Designed in Hawaii and California, each product is made to elevate your everyday. Free U.S. shipping on orders $100+. 1% of every purchase goes to a nonprofit you choose.",
+   "google_tag_manager_keys": [],
+   "data_layer": null,
+   "consent_state": null,
+   "shopify": {
+    "shop": "slowtide.myshopify.com",
+    "theme": {
+     "name": "Concept 1.2 (USE THIS)",
+     "id": 142210203766,
+     "schema_name": "Concept"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "11660414-dc0f-4820-9623-3dbfc98b04f1-1791230896"
+    }
+   },
+   "globals": [
+    "_learnq",
+    "klaviyo",
+    "ga",
+    "Shopify",
+    "Rebuy"
+   ]
+  },
+  "reload": {
+   "url": "https://slowtide.co/",
+   "title": "Slowtide | Art Inspired Towels, Blankets & Changing Ponchos",
+   "site_name": "Slowtide",
+   "description": "Slowtide creates premium towels, blankets, and ponchos that combine art, performance, and purpose. Designed in Hawaii and California, each product is made to elevate your everyday. Free U.S. shipping on orders $100+. 1% of every purchase goes to a nonprofit you choose.",
+   "google_tag_manager_keys": [
+    "G-SQ90CKK1QF",
+    "GT-WF3BRKNB"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-SQ90CKK1QF",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-WF3BRKNB",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-SQ90CKK1QF",
+       "AW-950743222/2QYuCO29s_obELbhrMUD",
+       "MC-MH92TWQQW4"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daee5a1-B158-4E30-FFE4-85A69CAF1EDF",
+      "ext_client_id": "shp.27b00c8a-c526-413a-92f9-416b5b00d12c",
+      "page_path": "/",
+      "page_title": "Slowtide | Art Inspired Towels, Blankets & Changing Ponchos",
+      "page_location": "https://slowtide.co/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 17
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 18
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "12",
+     "gtm.uniqueEventId": 19
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "slowtide.myshopify.com",
+    "theme": {
+     "name": "Concept 1.2 (USE THIS)",
+     "id": 142210203766,
+     "schema_name": "Concept"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "7508ca8f-dd15-4e02-8efa-891cc8357c3c-1791230926"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "pdp": {
+   "url": "https://slowtide.co/products/gatsby-towel-bundle-2-2-sequoia",
+   "title": "Gatsby Towel Bundle (2 Bath Towels + 2 Hand Towels) - Sequoia – Slowtide",
+   "site_name": "Slowtide",
+   "description": "Matching Gatsby bath and hand towels create an easy, coordinated update. A grounded geometric repeat adds depth while plush cotton supports everyday performance. Includes 2 bath towels + 2 hand towels Consistent pattern across all pieces Substantial cushioned cotton feel Designed for daily rotation Simple bathroom refr",
+   "google_tag_manager_keys": [
+    "G-SQ90CKK1QF",
+    "GT-WF3BRKNB"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-SQ90CKK1QF",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-WF3BRKNB",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-SQ90CKK1QF",
+       "AW-950743222/2QYuCO29s_obELbhrMUD",
+       "MC-MH92TWQQW4"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daf447b-B5D1-4EF3-B701-D8B58C863124",
+      "ext_client_id": "shp.27b00c8a-c526-413a-92f9-416b5b00d12c",
+      "page_path": "/products/gatsby-towel-bundle-2-2-sequoia",
+      "page_title": "Gatsby Towel Bundle (2 Bath Towels + 2 Hand Towels) - Sequoia – Slowtide",
+      "page_location": "https://slowtide.co/products/gatsby-towel-bundle-2-2-sequoia",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-SQ90CKK1QF",
+       "AW-950743222/CcrECPC9s_obELbhrMUD",
+       "MC-MH92TWQQW4"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daf4492-78F9-47B1-56BD-D6148C9298C6",
+      "ext_client_id": "shp.27b00c8a-c526-413a-92f9-416b5b00d12c",
+      "ecomm_prodid": [
+       "shopify_US_7873272086646_42748114272374"
+      ],
+      "ecomm_totalvalue": 122,
+      "ecomm_pagetype": "product",
+      "value": 122,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7873272086646_42748114272374",
+        "name": "Gatsby Towel Bundle (2+2) - Sequoia",
+        "brand": "Slowtide",
+        "category": "Bath Towel",
+        "price": 122,
+        "variant": null,
+        "quantity": 1,
+        "sku": null,
+        "variant_id": "42748114272374"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 18
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 19
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "12",
+     "gtm.uniqueEventId": 20
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "slowtide.myshopify.com",
+    "theme": {
+     "name": "Concept 1.2 (USE THIS)",
+     "id": 142210203766,
+     "schema_name": "Concept"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7873272086646,
+     "gid": "gid://shopify/Product/7873272086646",
+     "vendor": "Slowtide",
+     "type": "Bath Towel",
+     "handle": "gatsby-towel-bundle-2-2-sequoia",
+     "variants": [
+      {
+       "id": 42748114272374,
+       "price": 12200,
+       "name": "Gatsby Towel Bundle (2+2) - Sequoia",
+       "public_title": null,
+       "sku": null
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7873272086646,
+     "requestId": "bfd67d8c-5284-4159-b559-90e189c8885d-1791230951"
+    },
+    "selectedVariantId": "43786465050742"
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  },
+  "atc": {
+   "url": "https://slowtide.co/products/gatsby-towel-bundle-2-2-sequoia",
+   "title": "Gatsby Towel Bundle (2 Bath Towels + 2 Hand Towels) - Sequoia – Slowtide",
+   "site_name": "Slowtide",
+   "description": "Matching Gatsby bath and hand towels create an easy, coordinated update. A grounded geometric repeat adds depth while plush cotton supports everyday performance. Includes 2 bath towels + 2 hand towels Consistent pattern across all pieces Substantial cushioned cotton feel Designed for daily rotation Simple bathroom refr",
+   "google_tag_manager_keys": [
+    "G-SQ90CKK1QF",
+    "GT-WF3BRKNB"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-SQ90CKK1QF",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-WF3BRKNB",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-SQ90CKK1QF",
+       "AW-950743222/2QYuCO29s_obELbhrMUD",
+       "MC-MH92TWQQW4"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daf447b-B5D1-4EF3-B701-D8B58C863124",
+      "ext_client_id": "shp.27b00c8a-c526-413a-92f9-416b5b00d12c",
+      "page_path": "/products/gatsby-towel-bundle-2-2-sequoia",
+      "page_title": "Gatsby Towel Bundle (2 Bath Towels + 2 Hand Towels) - Sequoia – Slowtide",
+      "page_location": "https://slowtide.co/products/gatsby-towel-bundle-2-2-sequoia",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-SQ90CKK1QF",
+       "AW-950743222/CcrECPC9s_obELbhrMUD",
+       "MC-MH92TWQQW4"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daf4492-78F9-47B1-56BD-D6148C9298C6",
+      "ext_client_id": "shp.27b00c8a-c526-413a-92f9-416b5b00d12c",
+      "ecomm_prodid": [
+       "shopify_US_7873272086646_42748114272374"
+      ],
+      "ecomm_totalvalue": 122,
+      "ecomm_pagetype": "product",
+      "value": 122,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7873272086646_42748114272374",
+        "name": "Gatsby Towel Bundle (2+2) - Sequoia",
+        "brand": "Slowtide",
+        "category": "Bath Towel",
+        "price": 122,
+        "variant": null,
+        "quantity": 1,
+        "sku": null,
+        "variant_id": "42748114272374"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 18
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 19
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "12",
+     "gtm.uniqueEventId": 20
+    },
+    {
+     "event": "gtm.formSubmit",
+     "gtm.elementClasses": "product-form grid gap-8",
+     "gtm.elementId": "ProductForm-template--18874609893494__main-product-7873272086646",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "9",
+     "gtm.elementUrl": "https://slowtide.co/cart/add",
+     "gtm.formCanceled": true,
+     "eventTimeout": 2000,
+     "gtm.uniqueEventId": 21
+    },
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": [
+       "G-SQ90CKK1QF",
+       "AW-950743222/HK_PCOq9s_obELbhrMUD"
+      ],
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0db001d3-0D3F-41EA-BDC8-E58102B34D11",
+      "ext_client_id": "shp.27b00c8a-c526-413a-92f9-416b5b00d12c",
+      "ecomm_prodid": [
+       "shopify_US_7873272086646_42748114272374"
+      ],
+      "ecomm_totalvalue": 122,
+      "ecomm_pagetype": "cart",
+      "value": 122,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7873272086646_42748114272374",
+        "name": "Gatsby Towel Bundle (2+2) - Sequoia",
+        "brand": "Slowtide",
+        "category": "Bath Towel",
+        "price": 122,
+        "quantity": 1,
+        "variant": null,
+        "variant_id": "42748114272374",
+        "sku": ""
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "slowtide.myshopify.com",
+    "theme": {
+     "name": "Concept 1.2 (USE THIS)",
+     "id": 142210203766,
+     "schema_name": "Concept"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7873272086646,
+     "gid": "gid://shopify/Product/7873272086646",
+     "vendor": "Slowtide",
+     "type": "Bath Towel",
+     "handle": "gatsby-towel-bundle-2-2-sequoia",
+     "variants": [
+      {
+       "id": 42748114272374,
+       "price": 12200,
+       "name": "Gatsby Towel Bundle (2+2) - Sequoia",
+       "public_title": null,
+       "sku": null
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7873272086646,
+     "requestId": "bfd67d8c-5284-4159-b559-90e189c8885d-1791230951"
+    },
+    "selectedVariantId": "43786465050742"
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer",
+    "Rebuy"
+   ]
+  }
+ },
+ "log": [
+  "loading https://slowtide.co",
+  "banner-like element visible [initial]: WE USE COOKIES This site uses cookies for better user experience and analytics. Accept Dec",
+  "consent: banner_scan (Accept)",
+  "container GT-WF3BRKNB captured (435 KB) from www.googletagmanager.com [consent]",
+  "container G-SQ90CKK1QF captured (600 KB) from www.googletagmanager.com [consent]",
+  "product page https://slowtide.co/products/gatsby-towel-bundle-2-2-sequoia",
+  "add-to-cart clicked"
+ ]
+}

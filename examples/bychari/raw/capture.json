@@ -1,0 +1,982 @@
+{
+ "slug": "bychari",
+ "url": "https://bychari.com/",
+ "profile": {
+  "fresh": true,
+  "returning_visit": true,
+  "stored_cookies": [
+   "GlobalE_Analytics",
+   "localization",
+   "cart_currency",
+   "shopify_client_id",
+   "__kla_id",
+   "_ga",
+   "_fbp",
+   "_pin_unauth",
+   "cart",
+   "_route_pa_sid",
+   "_route_pa_session_start",
+   "_route_grafana_faro_session_id",
+   "_shopify_essential",
+   "_shopify_analytics",
+   "_shopify_marketing",
+   "GlobalE_Consent",
+   "GlobalE_Analytics",
+   "GLBE_SESS_ID",
+   "apt_pixel",
+   "amp_f24a38",
+   "forterToken",
+   "_gcl_au",
+   "_route_pa_application_started_on",
+   "AMP_6d4f915888",
+   "ph_phc_jDLcwdhyM7Tr7YGVJOvN9HduieQ7AhG3mBp8l8wrAQA_posthog",
+   "_ga_JSH24TEY7P",
+   "_ga_TZ5Q98C1Z6"
+  ]
+ },
+ "started": "2026-10-05T19:58:48.285949+00:00",
+ "bot_wall": false,
+ "final_url": "https://bychari.com/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "js_api",
+  "detail": "Shopify Customer Privacy (no visible banner)"
+ },
+ "pdp_url": "https://bychari.com/products/keepsake-box",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "AMP_6d4f915888",
+  "GLBE_SESS_ID",
+  "GlobalE_Analytics",
+  "GlobalE_Consent",
+  "__kla_id",
+  "_fbp",
+  "_ga",
+  "_ga_JSH24TEY7P",
+  "_ga_TZ5Q98C1Z6",
+  "_gcl_au",
+  "_pin_unauth",
+  "_route_grafana_faro_session_id",
+  "_route_pa_application_started_on",
+  "_route_pa_session_start",
+  "_route_pa_sid",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "amp_f24a38",
+  "apt_pixel",
+  "cart",
+  "cart_currency",
+  "forterToken",
+  "localization",
+  "ph_phc_jDLcwdhyM7Tr7YGVJOvN9HduieQ7AhG3mBp8l8wrAQA_posthog",
+  "shopify_client_id"
+ ],
+ "finished": "2026-10-05T20:00:40.673231+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "analytics": [
+    "Amplitude",
+    "Google Analytics 4",
+    "PostHog"
+   ],
+   "advertising": [
+    "AdScale",
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Google Merchant Center",
+    "Meta Pixel",
+    "Pinterest Tag"
+   ],
+   "ecommerce-app": [
+    "Accessibly",
+    "Global-e",
+    "Ground",
+    "Route"
+   ],
+   "platform": [
+    "Shop Pay",
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "email-sms": [
+    "Klaviyo"
+   ],
+   "support": [
+    "Gorgias"
+   ],
+   "tms": [
+    "Google tag (gtag.js)"
+   ],
+   "fraud": [
+    "Forter"
+   ],
+   "reviews-loyalty": [
+    "Foursixty"
+   ],
+   "payments": [
+    "Afterpay",
+    "Square"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "AW-829377681",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-829377681",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 492.0
+  },
+  {
+   "id": "GT-M3SM9GTN",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-M3SM9GTN",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9
+  },
+  {
+   "id": "G-TZ5Q98C1Z6",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-TZ5Q98C1Z6",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 590.4
+  }
+ ],
+ "request_count": 1789,
+ "snapshots": {
+  "initial": {
+   "url": "https://bychari.com/",
+   "title": "BYCHARI | Handmade & Custom Jewelry",
+   "site_name": "BYCHARI",
+   "description": "Simple, Sexy, Timeless Jewelry. Made In Los Angeles For The Woman Who Appreciates Simplicity, But Demands Luxury.",
+   "google_tag_manager_keys": [
+    "AW-829377681",
+    "GT-M3SM9GTN",
+    "G-TZ5Q98C1Z6"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-829377681",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-M3SM9GTN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "G-TZ5Q98C1Z6",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "AW-829377681/HFZUCN7H6sYZEJGZvYsD",
+       "MC-JSH24TEY7P",
+       "G-TZ5Q98C1Z6"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da5d608-D508-423D-75EA-4CAF965EC5FD",
+      "ext_client_id": "shp.15038c26-67a4-4536-8d5e-d50aff76a278",
+      "page_path": "/",
+      "page_title": "BYCHARI | Handmade & Custom Jewelry",
+      "page_location": "https://bychari.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 14
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 22
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "bychari.myshopify.com",
+    "theme": {
+     "name": "by-chari/studio-haf-live",
+     "id": 139086692415,
+     "schema_name": "ByChari By Wip"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "1b9511c0-df7d-47d2-be1c-a947e75d956b-1791230331"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "reload": {
+   "url": "https://bychari.com/",
+   "title": "BYCHARI | Handmade & Custom Jewelry",
+   "site_name": "BYCHARI",
+   "description": "Simple, Sexy, Timeless Jewelry. Made In Los Angeles For The Woman Who Appreciates Simplicity, But Demands Luxury.",
+   "google_tag_manager_keys": [
+    "AW-829377681",
+    "GT-M3SM9GTN",
+    "G-TZ5Q98C1Z6"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-829377681",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-M3SM9GTN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "G-TZ5Q98C1Z6",
+     {
+      "send_page_view": false
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 20
+    },
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "AW-829377681/HFZUCN7H6sYZEJGZvYsD",
+       "MC-JSH24TEY7P",
+       "G-TZ5Q98C1Z6"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da64c18-470F-43E5-85AC-115F1DAFED26",
+      "ext_client_id": "shp.15038c26-67a4-4536-8d5e-d50aff76a278",
+      "page_path": "/",
+      "page_title": "BYCHARI | Handmade & Custom Jewelry",
+      "page_location": "https://bychari.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 22
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "18",
+     "gtm.uniqueEventId": 23
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "bychari.myshopify.com",
+    "theme": {
+     "name": "by-chari/studio-haf-live",
+     "id": 139086692415,
+     "schema_name": "ByChari By Wip"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "fc214003-ef00-4b94-a4c9-63f6ebaea3f6-1791230361"
+    }
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "pdp": {
+   "url": "https://bychari.com/products/keepsake-box",
+   "title": "Keepsake Box – BYCHARI",
+   "site_name": "BYCHARI",
+   "description": "Designed to keep your collection organized, secure, and beautifully displayed. Plush interiors, multiple compartments, and a refined exterior — it's made to hold your pieces as carefully as they hold their meaning. A timeless place to keep what matters.   -  Magnetic closure - Approx. dimensions: 6\" x 5\" x 1.25\"       ",
+   "google_tag_manager_keys": [
+    "AW-829377681",
+    "GT-M3SM9GTN",
+    "G-TZ5Q98C1Z6"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-829377681",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-M3SM9GTN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "G-TZ5Q98C1Z6",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "AW-829377681/HFZUCN7H6sYZEJGZvYsD",
+       "MC-JSH24TEY7P",
+       "G-TZ5Q98C1Z6"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6af76-2D2C-46FD-C33A-ED4A42DC9CE4",
+      "ext_client_id": "shp.15038c26-67a4-4536-8d5e-d50aff76a278",
+      "page_path": "/products/keepsake-box",
+      "page_title": "Keepsake Box – BYCHARI",
+      "page_location": "https://bychari.com/products/keepsake-box",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "AW-829377681/P-sgCOHH6sYZEJGZvYsD",
+       "MC-JSH24TEY7P",
+       "G-TZ5Q98C1Z6"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6af92-9083-4585-5E18-3B217597AAA7",
+      "ext_client_id": "shp.15038c26-67a4-4536-8d5e-d50aff76a278",
+      "ecomm_prodid": [
+       "shopify_US_7648070664255_41314933178431"
+      ],
+      "ecomm_totalvalue": 20,
+      "ecomm_pagetype": "product",
+      "value": 20,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7648070664255_41314933178431",
+        "name": "Keepsake Box",
+        "brand": "BYCHARI",
+        "category": "",
+        "price": 20,
+        "variant": null,
+        "quantity": 1,
+        "sku": "ADD.031",
+        "variant_id": "41314933178431"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 22
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 23
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "18",
+     "gtm.uniqueEventId": 24
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "bychari.myshopify.com",
+    "theme": {
+     "name": "by-chari/studio-haf-live",
+     "id": 139086692415,
+     "schema_name": "ByChari By Wip"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7648070664255,
+     "gid": "gid://shopify/Product/7648070664255",
+     "vendor": "BYCHARI",
+     "type": "",
+     "handle": "keepsake-box",
+     "variants": [
+      {
+       "id": 41314933178431,
+       "price": 2000,
+       "name": "Keepsake Box",
+       "public_title": null,
+       "sku": "ADD.031"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7648070664255,
+     "requestId": "a5c22b36-9e4f-4cd4-9228-d8a2b09709e0-1791230387"
+    },
+    "selectedVariantId": "41314933178431"
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "atc": {
+   "url": "https://bychari.com/products/keepsake-box",
+   "title": "Keepsake Box – BYCHARI",
+   "site_name": "BYCHARI",
+   "description": "Designed to keep your collection organized, secure, and beautifully displayed. Plush interiors, multiple compartments, and a refined exterior — it's made to hold your pieces as carefully as they hold their meaning. A timeless place to keep what matters.   -  Magnetic closure - Approx. dimensions: 6\" x 5\" x 1.25\"       ",
+   "google_tag_manager_keys": [
+    "AW-829377681",
+    "GT-M3SM9GTN",
+    "G-TZ5Q98C1Z6"
+   ],
+   "data_layer": [
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-829377681",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-M3SM9GTN",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "G-TZ5Q98C1Z6",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "AW-829377681/HFZUCN7H6sYZEJGZvYsD",
+       "MC-JSH24TEY7P",
+       "G-TZ5Q98C1Z6"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6af76-2D2C-46FD-C33A-ED4A42DC9CE4",
+      "ext_client_id": "shp.15038c26-67a4-4536-8d5e-d50aff76a278",
+      "page_path": "/products/keepsake-box",
+      "page_title": "Keepsake Box – BYCHARI",
+      "page_location": "https://bychari.com/products/keepsake-box",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "AW-829377681/P-sgCOHH6sYZEJGZvYsD",
+       "MC-JSH24TEY7P",
+       "G-TZ5Q98C1Z6"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da6af92-9083-4585-5E18-3B217597AAA7",
+      "ext_client_id": "shp.15038c26-67a4-4536-8d5e-d50aff76a278",
+      "ecomm_prodid": [
+       "shopify_US_7648070664255_41314933178431"
+      ],
+      "ecomm_totalvalue": 20,
+      "ecomm_pagetype": "product",
+      "value": 20,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7648070664255_41314933178431",
+        "name": "Keepsake Box",
+        "brand": "BYCHARI",
+        "category": "",
+        "price": 20,
+        "variant": null,
+        "quantity": 1,
+        "sku": "ADD.031",
+        "variant_id": "41314933178431"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 22
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 23
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "18",
+     "gtm.uniqueEventId": 24
+    },
+    {
+     "event": "gtm.formSubmit",
+     "gtm.elementClasses": "space-y-5",
+     "gtm.elementId": "productForm-template--18446402682943__main7648070664255",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "8,15",
+     "gtm.elementUrl": "https://bychari.com/cart/add",
+     "gtm.formCanceled": true,
+     "eventTimeout": 2000,
+     "gtm.uniqueEventId": 25
+    },
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": [
+       "AW-829377681/4G6SCOfH6sYZEJGZvYsD",
+       "G-TZ5Q98C1Z6"
+      ],
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da77636-6DFD-4DC2-3D98-A73D5EEEC49B",
+      "ext_client_id": "shp.15038c26-67a4-4536-8d5e-d50aff76a278",
+      "ecomm_prodid": [
+       "shopify_US_7648070664255_41314933178431"
+      ],
+      "ecomm_totalvalue": 20,
+      "ecomm_pagetype": "cart",
+      "value": 20,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7648070664255_41314933178431",
+        "name": "Keepsake Box",
+        "brand": "BYCHARI",
+        "category": "",
+        "price": 20,
+        "quantity": 1,
+        "variant": null,
+        "variant_id": "41314933178431",
+        "sku": "ADD.031"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "bychari.myshopify.com",
+    "theme": {
+     "name": "by-chari/studio-haf-live",
+     "id": 139086692415,
+     "schema_name": "ByChari By Wip"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "yes",
+     "analytics": "yes",
+     "preferences": "yes",
+     "sale_of_data": "yes"
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7648070664255,
+     "gid": "gid://shopify/Product/7648070664255",
+     "vendor": "BYCHARI",
+     "type": "",
+     "handle": "keepsake-box",
+     "variants": [
+      {
+       "id": 41314933178431,
+       "price": 2000,
+       "name": "Keepsake Box",
+       "public_title": null,
+       "sku": "ADD.031"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7648070664255,
+     "requestId": "a5c22b36-9e4f-4cd4-9228-d8a2b09709e0-1791230387"
+    },
+    "selectedVariantId": "41314933178431"
+   },
+   "globals": [
+    "fbq",
+    "_learnq",
+    "klaviyo",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  }
+ },
+ "log": [
+  "returning visit: 27 stored cookie(s) from the persistent profile (pre-consent phase reflects stored consent; use --fresh for a first-visit capture)",
+  "loading https://bychari.com/",
+  "container AW-829377681 captured (492 KB) from www.googletagmanager.com [initial]",
+  "container GT-M3SM9GTN captured (435 KB) from www.googletagmanager.com [initial]",
+  "container G-TZ5Q98C1Z6 captured (590 KB) from www.googletagmanager.com [initial]",
+  "consent: js_api (Shopify Customer Privacy (no visible banner))",
+  "product page https://bychari.com/products/keepsake-box",
+  "add-to-cart clicked"
+ ]
+}

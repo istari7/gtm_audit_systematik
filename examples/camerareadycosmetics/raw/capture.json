@@ -1,0 +1,1524 @@
+{
+ "slug": "camerareadycosmetics",
+ "url": "https://camerareadycosmetics.com",
+ "profile": {
+  "fresh": true,
+  "returning_visit": false,
+  "stored_cookies": []
+ },
+ "started": "2026-10-05T20:02:29.104317+00:00",
+ "bot_wall": false,
+ "final_url": "https://camerareadycosmetics.com/",
+ "screenshots": [
+  "screenshots/01_initial.png",
+  "screenshots/02_after_consent.png",
+  "screenshots/03_reload.png",
+  "screenshots/04_pdp.png",
+  "screenshots/05_atc.png"
+ ],
+ "banner_checks": {
+  "initial": {
+   "candidates": [],
+   "cmp_iframes": []
+  },
+  "after_consent": {
+   "candidates": [
+    {
+     "tag": "div",
+     "id": null,
+     "cls": "omnisend-reset-657c8853960602f2ff634321 omnisend-form-657c8853960602f2ff634321-container",
+     "text": "BE THE FIRST TO KNOW (and save 10%)! Enroll as a subscriber and we'll let you know about new brands, products, promotions, and more! Plus receive a 10% discount on your first order. Minimum purchase of $60 required and t",
+     "rect": [
+      0,
+      0,
+      1425,
+      900
+     ]
+    }
+   ],
+   "cmp_iframes": []
+  },
+  "reload": {
+   "candidates": [],
+   "cmp_iframes": []
+  }
+ },
+ "consent": {
+  "accepted": true,
+  "method": "button_text",
+  "detail": "button: Ok"
+ },
+ "pdp_url": "https://camerareadycosmetics.com/products/ben-nye-final-seal-matte-sealer",
+ "atc_selector": "form[action*='/cart/add'] button[type='submit']",
+ "cookies_after": [
+  "_fbp",
+  "_ga",
+  "_ga_238B3Z6CBM",
+  "_ga_5E5T774K31",
+  "_ga_F55EGMPPH3",
+  "_ga_TJRR5S4PVS",
+  "_gat_UA-2180997-3",
+  "_gcl_au",
+  "_gid",
+  "_pin_unauth",
+  "_shg_session_id",
+  "_shg_user_id",
+  "_shopify_analytics",
+  "_shopify_essential",
+  "_shopify_marketing",
+  "_ttp",
+  "_uetsid",
+  "_uetvid",
+  "amp_f24a38",
+  "apt_pixel",
+  "cart",
+  "localization",
+  "lsContextID",
+  "lsSema-auth",
+  "omnisend-form-657c8853960602f2ff634321-closed-at",
+  "omnisend-form-657c8853960602f2ff634321-teaser-closed-at",
+  "omnisendSessionID",
+  "omnisendShopifyCart",
+  "page-views",
+  "ttcsid",
+  "ttcsid_CHM4OTRC77U2H86LKPL0"
+ ],
+ "finished": "2026-10-05T20:04:24.704149+00:00",
+ "review": {
+  "needs_review": false,
+  "reasons": [],
+  "ecommerce": true,
+  "post_consent_categories": {
+   "fraud": [
+    "Signifyd"
+   ],
+   "platform": [
+    "Shopify",
+    "Shopify Analytics (Monorail)",
+    "Shopify CDN"
+   ],
+   "analytics": [
+    "Google Analytics",
+    "Google Analytics 4",
+    "Universal Analytics"
+   ],
+   "advertising": [
+    "Campaign Manager 360 / Floodlight",
+    "Google Ads",
+    "Google Merchant Center",
+    "Meta Pixel",
+    "Microsoft Ads (UET)",
+    "Pinterest Tag",
+    "TikTok Pixel"
+   ],
+   "tms": [
+    "Google tag (gtag.js)"
+   ],
+   "email-sms": [
+    "Omnisend"
+   ],
+   "monitoring": [
+    "Sentry"
+   ],
+   "reviews-loyalty": [
+    "Judge.me"
+   ],
+   "support": [
+    "Gorgias"
+   ],
+   "payments": [
+    "Afterpay",
+    "Square"
+   ]
+  }
+ },
+ "containers": [
+  {
+   "id": "G-TJRR5S4PVS",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-TJRR5S4PVS",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 583.1
+  },
+  {
+   "id": "GTM-KFDVZH",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GTM-KFDVZH&google_only=true",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 498.1
+  },
+  {
+   "id": "G-5E5T774K31",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-5E5T774K31",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 567.9
+  },
+  {
+   "id": "AW-1070638518",
+   "url": "https://www.googletagmanager.com/gtag/js?id=AW-1070638518",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 482.3
+  },
+  {
+   "id": "GT-5MXQJPGV",
+   "url": "https://www.googletagmanager.com/gtag/js?id=GT-5MXQJPGV",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 434.9
+  },
+  {
+   "id": "G-238B3Z6CBM",
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-238B3Z6CBM",
+   "phase": "reload",
+   "first_party_loader": false,
+   "size_kb": 595.4
+  }
+ ],
+ "request_count": 3249,
+ "snapshots": {
+  "initial": {
+   "url": "https://camerareadycosmetics.com/",
+   "title": "Camera Ready Cosmetics | Professional Makeup Supplies Online",
+   "site_name": "Camera Ready Cosmetics",
+   "description": "Professional makeup supplies for Print, TV, SFX, Halloween, Stage, Cosplay and Film Makeup Artists. Ben Nye, RCMA, Mehron, Kryolan, Inglot, NYX & Much More.",
+   "google_tag_manager_keys": [
+    "GTM-KFDVZH",
+    "G-5E5T774K31",
+    "AW-1070638518",
+    "GT-5MXQJPGV",
+    "G-238B3Z6CBM",
+    "G-TJRR5S4PVS"
+   ],
+   "data_layer": [
+    {
+     "event": "ga4kit_info",
+     "contentGroup": "index",
+     "userType": "visitor",
+     "gtm.uniqueEventId": 3
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5MXQJPGV",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GTM-KFDVZH",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-238B3Z6CBM",
+       "AW-1070638518/yfvXCPai8aYaELbLwv4D",
+       "MC-F55EGMPPH3"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da93104-81A1-4F22-D99F-66DFCEB683FF",
+      "ext_client_id": "shp.67f4bd7b-5d8e-4f4d-9d0b-ef187c3562c2",
+      "page_path": "/",
+      "page_title": "Camera Ready Cosmetics | Professional Makeup Supplies Online",
+      "page_location": "https://camerareadycosmetics.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1070638518"
+    ],
+    {
+     "event": "Pandectes_Consent_Update",
+     "pandectes_status": "deny",
+     "pandectes_categories": {
+      "C0000": "allow",
+      "C0001": "deny",
+      "C0002": "deny",
+      "C0003": "deny"
+     },
+     "gtm.uniqueEventId": 19
+    },
+    [
+     "set",
+     {
+      "developer_id.dMTZkMj": true,
+      "ads_data_redaction": true
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "wait_for_update": 500
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-5E5T774K31",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-TJRR5S4PVS",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "allow_enhanced_conversions": true
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 27
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 46
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    },
+    "security_storage": {
+     "default": true,
+     "update": null
+    },
+    "functionality_storage": {
+     "default": true,
+     "update": null
+    },
+    "personalization_storage": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "camera-ready-cosmetics.myshopify.com",
+    "theme": {
+     "name": "CRC | Live 05/13/26 $80 Shipping",
+     "id": 154679836857,
+     "schema_name": "Expanse"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "0a32eb7f-2598-4bad-ac45-e4a51550b5c4-1791230415"
+    }
+   },
+   "globals": [
+    "fbq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "reload": {
+   "url": "https://camerareadycosmetics.com/",
+   "title": "Camera Ready Cosmetics | Professional Makeup Supplies Online",
+   "site_name": "Camera Ready Cosmetics",
+   "description": "Professional makeup supplies for Print, TV, SFX, Halloween, Stage, Cosplay and Film Makeup Artists. Ben Nye, RCMA, Mehron, Kryolan, Inglot, NYX & Much More.",
+   "google_tag_manager_keys": [
+    "G-238B3Z6CBM",
+    "G-5E5T774K31",
+    "G-TJRR5S4PVS",
+    "AW-1070638518",
+    "GT-5MXQJPGV",
+    "GTM-KFDVZH"
+   ],
+   "data_layer": [
+    {
+     "event": "ga4kit_info",
+     "contentGroup": "index",
+     "userType": "visitor",
+     "gtm.uniqueEventId": 3
+    },
+    [
+     "set",
+     {
+      "developer_id.dMTZkMj": true,
+      "ads_data_redaction": true
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "wait_for_update": 500
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-5E5T774K31",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-TJRR5S4PVS",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "allow_enhanced_conversions": true
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5MXQJPGV",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GTM-KFDVZH",
+     {
+      "send_page_view": false
+     }
+    ],
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "9,21,25",
+     "gtm.uniqueEventId": 37
+    },
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-238B3Z6CBM",
+       "AW-1070638518/yfvXCPai8aYaELbLwv4D",
+       "MC-F55EGMPPH3"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0da9afe9-097B-49EB-8197-9D38A0C7DE85",
+      "ext_client_id": "shp.67f4bd7b-5d8e-4f4d-9d0b-ef187c3562c2",
+      "page_path": "/",
+      "page_title": "Camera Ready Cosmetics | Professional Makeup Supplies Online",
+      "page_location": "https://camerareadycosmetics.com/",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1070638518"
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 45
+    },
+    {
+     "event": "Pandectes_Consent_Update",
+     "pandectes_status": "deny",
+     "pandectes_categories": {
+      "C0000": "allow",
+      "C0001": "deny",
+      "C0002": "deny",
+      "C0003": "deny"
+     },
+     "gtm.uniqueEventId": 46
+    },
+    {
+     "event": "Pandectes_Consent_Update",
+     "pandectes_action": "default",
+     "pandectes_status": "allow",
+     "pandectes_categories": {
+      "C0000": "allow",
+      "C0001": "allow",
+      "C0002": "allow",
+      "C0003": "allow"
+     },
+     "gtm.uniqueEventId": 47
+    },
+    {
+     "event": "gtm.click",
+     "gtm.elementClasses": "",
+     "gtm.elementId": "",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "38,39,40,41",
+     "gtm.elementUrl": "",
+     "gtm.uniqueEventId": 48
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 49
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    },
+    "security_storage": {
+     "default": true,
+     "update": null
+    },
+    "functionality_storage": {
+     "default": true,
+     "update": null
+    },
+    "personalization_storage": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "camera-ready-cosmetics.myshopify.com",
+    "theme": {
+     "name": "CRC | Live 05/13/26 $80 Shipping",
+     "id": 154679836857,
+     "schema_name": "Expanse"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "page": {
+     "pageType": "home",
+     "requestId": "33d02d34-966c-406f-8e71-0699d183ce56-1791230583"
+    }
+   },
+   "globals": [
+    "fbq",
+    "uetq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "pdp": {
+   "url": "https://camerareadycosmetics.com/products/ben-nye-final-seal-matte-sealer",
+   "title": "Ben Nye Final Seal – Camera Ready Cosmetics",
+   "site_name": "Camera Ready Cosmetics",
+   "description": "Apply Ben Nye Final Seal over any completed makeup for a smudge and water-resistant finish.",
+   "google_tag_manager_keys": [
+    "G-238B3Z6CBM",
+    "AW-1070638518",
+    "GT-5MXQJPGV",
+    "GTM-KFDVZH",
+    "G-5E5T774K31",
+    "G-TJRR5S4PVS"
+   ],
+   "data_layer": [
+    {
+     "event": "ga4kit_info",
+     "contentGroup": "product",
+     "userType": "visitor",
+     "gtm.uniqueEventId": 3
+    },
+    {
+     "event": "analyzify_productDetail",
+     "productId": "7034993031",
+     "productName": "Ben Nye Final Seal Matte Sealer",
+     "productPrice": "12.00",
+     "productBrand": "Ben Nye",
+     "productCategory": "$25 and under",
+     "productType": "Setting Spray",
+     "productSku": "107019001",
+     "productVariantId": "22316901895",
+     "productVariantTitle": "1 oz. Spray Bottle (FY-0)",
+     "productVariantInvQty": "17",
+     "currency": "USD",
+     "gtm.uniqueEventId": 11
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5MXQJPGV",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GTM-KFDVZH",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-238B3Z6CBM",
+       "AW-1070638518/yfvXCPai8aYaELbLwv4D",
+       "MC-F55EGMPPH3"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa1b72-29D2-4797-E4D8-77B5A51F70EB",
+      "ext_client_id": "shp.67f4bd7b-5d8e-4f4d-9d0b-ef187c3562c2",
+      "page_path": "/products/ben-nye-final-seal-matte-sealer",
+      "page_title": "Ben Nye Final Seal – Camera Ready Cosmetics",
+      "page_location": "https://camerareadycosmetics.com/products/ben-nye-final-seal-matte-sealer",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-238B3Z6CBM",
+       "AW-1070638518/RGRPCPmi8aYaELbLwv4D",
+       "MC-F55EGMPPH3"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa1b97-6031-4606-437A-6B294BA6EE98",
+      "ext_client_id": "shp.67f4bd7b-5d8e-4f4d-9d0b-ef187c3562c2",
+      "ecomm_prodid": [
+       "shopify_US_7034993031_22316901895"
+      ],
+      "ecomm_totalvalue": 12,
+      "ecomm_pagetype": "product",
+      "value": 12,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7034993031_22316901895",
+        "name": "Ben Nye Final Seal Matte Sealer",
+        "brand": "Ben Nye",
+        "category": "Setting Spray",
+        "price": 12,
+        "variant": "1 oz. Spray Bottle (FY-0)",
+        "quantity": 1,
+        "sku": "107019001",
+        "variant_id": "22316901895"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1070638518"
+    ],
+    {
+     "event": "Pandectes_Consent_Update",
+     "pandectes_status": "deny",
+     "pandectes_categories": {
+      "C0000": "allow",
+      "C0001": "deny",
+      "C0002": "deny",
+      "C0003": "deny"
+     },
+     "gtm.uniqueEventId": 24
+    },
+    [
+     "set",
+     {
+      "developer_id.dMTZkMj": true,
+      "ads_data_redaction": true
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "wait_for_update": 500
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-5E5T774K31",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-TJRR5S4PVS",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "allow_enhanced_conversions": true
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 38
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 48
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "9,42,46",
+     "gtm.uniqueEventId": 49
+    }
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    },
+    "security_storage": {
+     "default": true,
+     "update": null
+    },
+    "functionality_storage": {
+     "default": true,
+     "update": null
+    },
+    "personalization_storage": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "camera-ready-cosmetics.myshopify.com",
+    "theme": {
+     "name": "CRC | Live 05/13/26 $80 Shipping",
+     "id": 154679836857,
+     "schema_name": "Expanse"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7034993031,
+     "gid": "gid://shopify/Product/7034993031",
+     "vendor": "Ben Nye",
+     "type": "Setting Spray",
+     "handle": "ben-nye-final-seal-matte-sealer",
+     "variants": [
+      {
+       "id": 22316901895,
+       "price": 1200,
+       "name": "Ben Nye Final Seal Matte Sealer - 1 oz. Spray Bottle (FY-0)",
+       "public_title": "1 oz. Spray Bottle (FY-0)",
+       "sku": "107019001"
+      },
+      {
+       "id": 22316901959,
+       "price": 1800,
+       "name": "Ben Nye Final Seal Matte Sealer - 2 oz. Spray Bottle (FY-2)",
+       "public_title": "2 oz. Spray Bottle (FY-2)",
+       "sku": "107019002"
+      },
+      {
+       "id": 37372058206393,
+       "price": 3000,
+       "name": "Ben Nye Final Seal Matte Sealer - 4 oz. Spray Bottle (FY-4)",
+       "public_title": "4 oz. Spray Bottle (FY-4)",
+       "sku": "107019005"
+      },
+      {
+       "id": 22316902023,
+       "price": 3800,
+       "name": "Ben Nye Final Seal Matte Sealer - 8 oz. Bottle (no spray cap) (FY-8)",
+       "public_title": "8 oz. Bottle (no spray cap) (FY-8)",
+       "sku": "107019003"
+      },
+      {
+       "id": 22316902151,
+       "price": 6500,
+       "name": "Ben Nye Final Seal Matte Sealer - 16 oz. Bottle (no spray cap) (FY-16)",
+       "public_title": "16 oz. Bottle (no spray cap) (FY-16)",
+       "sku": "107019004"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7034993031,
+     "requestId": "798be99c-6627-4172-aade-579a9fe0fcee-1791230611"
+    },
+    "selectedVariantId": "22316901895"
+   },
+   "globals": [
+    "fbq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  },
+  "atc": {
+   "url": "https://camerareadycosmetics.com/products/ben-nye-final-seal-matte-sealer",
+   "title": "Ben Nye Final Seal – Camera Ready Cosmetics",
+   "site_name": "Camera Ready Cosmetics",
+   "description": "Apply Ben Nye Final Seal over any completed makeup for a smudge and water-resistant finish.",
+   "google_tag_manager_keys": [
+    "G-238B3Z6CBM",
+    "AW-1070638518",
+    "GT-5MXQJPGV",
+    "GTM-KFDVZH",
+    "G-5E5T774K31",
+    "G-TJRR5S4PVS"
+   ],
+   "data_layer": [
+    {
+     "event": "ga4kit_info",
+     "contentGroup": "product",
+     "userType": "visitor",
+     "gtm.uniqueEventId": 3
+    },
+    {
+     "event": "analyzify_productDetail",
+     "productId": "7034993031",
+     "productName": "Ben Nye Final Seal Matte Sealer",
+     "productPrice": "12.00",
+     "productBrand": "Ben Nye",
+     "productCategory": "$25 and under",
+     "productType": "Setting Spray",
+     "productSku": "107019001",
+     "productVariantId": "22316901895",
+     "productVariantTitle": "1 oz. Spray Bottle (FY-0)",
+     "productVariantInvQty": "17",
+     "currency": "USD",
+     "gtm.uniqueEventId": 11
+    },
+    [
+     "consent",
+     "default",
+     {
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "analytics_storage": "granted"
+     }
+    ],
+    [
+     "set",
+     {
+      "restricted_data_processing": false
+     }
+    ],
+    [
+     "policy",
+     "internal_sw_allowed",
+     null
+    ],
+    [
+     "policy",
+     "inject_cmp_banner",
+     null
+    ],
+    [
+     "set",
+     "developer_id.dYmNjMT",
+     true
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GT-5MXQJPGV",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "config",
+     "GTM-KFDVZH",
+     {
+      "send_page_view": false
+     }
+    ],
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": [
+       "G-238B3Z6CBM",
+       "AW-1070638518/yfvXCPai8aYaELbLwv4D",
+       "MC-F55EGMPPH3"
+      ],
+      "shopify_event_name": "page_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa1b72-29D2-4797-E4D8-77B5A51F70EB",
+      "ext_client_id": "shp.67f4bd7b-5d8e-4f4d-9d0b-ef187c3562c2",
+      "page_path": "/products/ben-nye-final-seal-matte-sealer",
+      "page_title": "Ben Nye Final Seal – Camera Ready Cosmetics",
+      "page_location": "https://camerareadycosmetics.com/products/ben-nye-final-seal-matte-sealer",
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "event",
+     "view_item",
+     {
+      "send_to": [
+       "G-238B3Z6CBM",
+       "AW-1070638518/RGRPCPmi8aYaELbLwv4D",
+       "MC-F55EGMPPH3"
+      ],
+      "shopify_event_name": "product_viewed",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daa1b97-6031-4606-437A-6B294BA6EE98",
+      "ext_client_id": "shp.67f4bd7b-5d8e-4f4d-9d0b-ef187c3562c2",
+      "ecomm_prodid": [
+       "shopify_US_7034993031_22316901895"
+      ],
+      "ecomm_totalvalue": 12,
+      "ecomm_pagetype": "product",
+      "value": 12,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7034993031_22316901895",
+        "name": "Ben Nye Final Seal Matte Sealer",
+        "brand": "Ben Nye",
+        "category": "Setting Spray",
+        "price": 12,
+        "variant": "1 oz. Spray Bottle (FY-0)",
+        "quantity": 1,
+        "sku": "107019001",
+        "variant_id": "22316901895"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "AW-1070638518"
+    ],
+    {
+     "event": "Pandectes_Consent_Update",
+     "pandectes_status": "deny",
+     "pandectes_categories": {
+      "C0000": "allow",
+      "C0001": "deny",
+      "C0002": "deny",
+      "C0003": "deny"
+     },
+     "gtm.uniqueEventId": 24
+    },
+    [
+     "set",
+     {
+      "developer_id.dMTZkMj": true,
+      "ads_data_redaction": true
+     }
+    ],
+    [
+     "consent",
+     "default",
+     {
+      "security_storage": "granted",
+      "functionality_storage": "granted",
+      "personalization_storage": "granted",
+      "analytics_storage": "granted",
+      "ad_storage": "granted",
+      "ad_user_data": "granted",
+      "ad_personalization": "granted",
+      "wait_for_update": 500
+     }
+    ],
+    [
+     "js",
+     {}
+    ],
+    [
+     "config",
+     "G-238B3Z6CBM",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-5E5T774K31",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "G-TJRR5S4PVS",
+     {
+      "debug_mode": false,
+      "send_page_view": true
+     }
+    ],
+    [
+     "config",
+     "AW-1070638518",
+     {
+      "allow_enhanced_conversions": true
+     }
+    ],
+    {
+     "event": "gtm.dom",
+     "gtm.uniqueEventId": 38
+    },
+    {
+     "event": "gtm.load",
+     "gtm.uniqueEventId": 48
+    },
+    {
+     "event": "gtm.scrollDepth",
+     "gtm.scrollThreshold": 90,
+     "gtm.scrollUnits": "percent",
+     "gtm.scrollDirection": "vertical",
+     "gtm.triggers": "9,42,46",
+     "gtm.uniqueEventId": 49
+    },
+    {
+     "event": "gtm.click",
+     "gtm.elementClasses": "",
+     "gtm.elementId": "",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "34,35,36,37",
+     "gtm.elementUrl": "",
+     "gtm.uniqueEventId": 50
+    },
+    {
+     "event": "gtm.formSubmit",
+     "gtm.elementClasses": "product-single__form th_subscription_radio_section_form",
+     "gtm.elementId": "AddToCartForm-template--21007537569977__main-7034993031",
+     "gtm.elementTarget": "",
+     "gtm.triggers": "6,33",
+     "gtm.elementUrl": "https://camerareadycosmetics.com/cart/add",
+     "gtm.formCanceled": true,
+     "eventTimeout": 2000,
+     "gtm.uniqueEventId": 51
+    },
+    [
+     "event",
+     "page_view",
+     {
+      "send_to": "AW-1070638518",
+      "ecomm_pagetype": "product",
+      "ecomm_prodid": "22316901895",
+      "ecomm_totalvalue": "12.00"
+     }
+    ],
+    [
+     "event",
+     "add_to_cart",
+     {
+      "send_to": [
+       "G-238B3Z6CBM",
+       "AW-1070638518/OApBCP-i8aYaELbLwv4D"
+      ],
+      "shopify_event_name": "product_added_to_cart",
+      "developer_id": {
+       "dNzYwYj": true
+      },
+      "event_id": "sh-0daad246-2331-4CB4-FD0F-271E45C57C72",
+      "ext_client_id": "shp.67f4bd7b-5d8e-4f4d-9d0b-ef187c3562c2",
+      "ecomm_prodid": [
+       "shopify_US_7034993031_22316901895"
+      ],
+      "ecomm_totalvalue": 12,
+      "ecomm_pagetype": "cart",
+      "value": 12,
+      "currency": "USD",
+      "items": [
+       {
+        "id": "shopify_US_7034993031_22316901895",
+        "name": "Ben Nye Final Seal Matte Sealer",
+        "brand": "Ben Nye",
+        "category": "Setting Spray",
+        "price": 12,
+        "quantity": 1,
+        "variant": "1 oz. Spray Bottle (FY-0)",
+        "variant_id": "22316901895",
+        "sku": "107019001"
+       }
+      ],
+      "user_data": {
+       "address": {}
+      }
+     }
+    ]
+   ],
+   "consent_state": {
+    "ad_storage": {
+     "default": true,
+     "update": null
+    },
+    "analytics_storage": {
+     "default": true,
+     "update": null
+    },
+    "ad_user_data": {
+     "default": true,
+     "update": null
+    },
+    "ad_personalization": {
+     "default": true,
+     "update": null
+    },
+    "security_storage": {
+     "default": true,
+     "update": null
+    },
+    "functionality_storage": {
+     "default": true,
+     "update": null
+    },
+    "personalization_storage": {
+     "default": true,
+     "update": null
+    }
+   },
+   "shopify": {
+    "shop": "camera-ready-cosmetics.myshopify.com",
+    "theme": {
+     "name": "CRC | Live 05/13/26 $80 Shipping",
+     "id": 154679836857,
+     "schema_name": "Expanse"
+    },
+    "currency": "USD",
+    "country": "US",
+    "customer_privacy_api": true,
+    "visitor_consent": {
+     "marketing": "",
+     "analytics": "",
+     "preferences": "",
+     "sale_of_data": ""
+    }
+   },
+   "shopify_analytics_meta": {
+    "currency": "USD",
+    "product": {
+     "id": 7034993031,
+     "gid": "gid://shopify/Product/7034993031",
+     "vendor": "Ben Nye",
+     "type": "Setting Spray",
+     "handle": "ben-nye-final-seal-matte-sealer",
+     "variants": [
+      {
+       "id": 22316901895,
+       "price": 1200,
+       "name": "Ben Nye Final Seal Matte Sealer - 1 oz. Spray Bottle (FY-0)",
+       "public_title": "1 oz. Spray Bottle (FY-0)",
+       "sku": "107019001"
+      },
+      {
+       "id": 22316901959,
+       "price": 1800,
+       "name": "Ben Nye Final Seal Matte Sealer - 2 oz. Spray Bottle (FY-2)",
+       "public_title": "2 oz. Spray Bottle (FY-2)",
+       "sku": "107019002"
+      },
+      {
+       "id": 37372058206393,
+       "price": 3000,
+       "name": "Ben Nye Final Seal Matte Sealer - 4 oz. Spray Bottle (FY-4)",
+       "public_title": "4 oz. Spray Bottle (FY-4)",
+       "sku": "107019005"
+      },
+      {
+       "id": 22316902023,
+       "price": 3800,
+       "name": "Ben Nye Final Seal Matte Sealer - 8 oz. Bottle (no spray cap) (FY-8)",
+       "public_title": "8 oz. Bottle (no spray cap) (FY-8)",
+       "sku": "107019003"
+      },
+      {
+       "id": 22316902151,
+       "price": 6500,
+       "name": "Ben Nye Final Seal Matte Sealer - 16 oz. Bottle (no spray cap) (FY-16)",
+       "public_title": "16 oz. Bottle (no spray cap) (FY-16)",
+       "sku": "107019004"
+      }
+     ],
+     "remote": false
+    },
+    "page": {
+     "pageType": "product",
+     "resourceType": "product",
+     "resourceId": 7034993031,
+     "requestId": "798be99c-6627-4172-aade-579a9fe0fcee-1791230611"
+    },
+    "selectedVariantId": "22316901895"
+   },
+   "globals": [
+    "fbq",
+    "gtag",
+    "ga",
+    "Shopify",
+    "dataLayer"
+   ]
+  }
+ },
+ "log": [
+  "loading https://camerareadycosmetics.com",
+  "container G-TJRR5S4PVS captured (583 KB) from www.googletagmanager.com [initial]",
+  "container GTM-KFDVZH captured (498 KB) from www.googletagmanager.com [initial]",
+  "container G-5E5T774K31 captured (568 KB) from www.googletagmanager.com [initial]",
+  "container AW-1070638518 captured (482 KB) from www.googletagmanager.com [initial]",
+  "container GT-5MXQJPGV captured (435 KB) from www.googletagmanager.com [initial]",
+  "container G-238B3Z6CBM captured (595 KB) from www.googletagmanager.com [initial]",
+  "consent: button_text (button: Ok)",
+  "banner-like element visible [after_consent]: BE THE FIRST TO KNOW (and save 10%)! Enroll as a subscriber and we'll let you know about n",
+  "product page https://camerareadycosmetics.com/products/ben-nye-final-seal-matte-sealer",
+  "add-to-cart clicked"
+ ]
+}
